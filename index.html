@@ -97,54 +97,14 @@
 
     <div class="body">
       
-        <p><a class="reference external" href="https://twitter.com/jina/status/225811628338323458">Jina</a> asked twitter for Sass advice the other day.
-She was working on a <a class="reference external" href="https://gist.github.com/3140730">bit of code</a> to create
-a rainbow-striped background gradient
-using any set of arbitrary colors.</p>
-<p>Here's my solution,
-in the form of a Sass function.
-This requires <a class="reference external" href="http://rubygems.org/gems/sass">Sass 3.2</a>
-(currently in alpha)
-in order to run.</p>
-<div class="section" id="variables">
-<h2>Variables</h2>
-<pre class="code scss literal-block">
-<span class="nv">$mycolors</span><span class="o">:</span> <span class="nb">red</span> <span class="ni">orange</span> <span class="nb">yellow</span> <span class="nb">green</span> <span class="nb">blue</span> <span class="ni">indigo</span> <span class="ni">violet</span><span class="p">;</span>
-</pre>
-<p>You could set individual variables for each color as well.
-You would still pass them all as a single argument,
-or join them into a single variable before passing, as you see fit.</p>
-</div>
-<div class="section" id="function">
-<h2>Function</h2>
-<pre class="code scss literal-block">
-<span class="c1">// Returns a striped gradient for use anywhere gradients are accepted.
-// - $position: the starting position or angle of the gradient.
-// - $colors: a list of all the colors to be used.
-</span><span class="k">&#64;function</span> <span class="nt">rainbow</span><span class="o">(</span><span class="err">$</span><span class="nt">position</span><span class="o">,</span> <span class="err">$</span><span class="nt">colors</span><span class="o">)</span> <span class="p">{</span>
-  <span class="nv">$colors</span><span class="o">:</span> <span class="nf">if</span><span class="p">(</span><span class="nf">type-of</span><span class="p">(</span><span class="nv">$colors</span><span class="p">)</span> <span class="o">!=</span> <span class="s1">'</span><span class="s2">list'</span><span class="o">,</span> <span class="nf">compact</span><span class="p">(</span><span class="nv">$colors</span><span class="p">)</span><span class="o">,</span> <span class="nv">$colors</span><span class="p">);</span>
-  <span class="nv">$gradient</span><span class="o">:</span> <span class="nf">compact</span><span class="p">();</span>
-  <span class="nv">$width</span><span class="o">:</span> <span class="mi">100</span><span class="kt">%</span> <span class="o">/</span> <span class="nf">length</span><span class="p">(</span><span class="nv">$colors</span><span class="p">);</span>
+        <p>In response to a request on twitter,
+I wrote a simple function
+for creating striped gradients
+with Sass.</p>
 
-  <span class="k">&#64;for</span> <span class="nv">$i</span> <span class="ow">from</span> <span class="mi">1</span> <span class="ow">through</span> <span class="nf">length</span><span class="p">(</span><span class="nv">$colors</span><span class="p">)</span> <span class="p">{</span>
-    <span class="nv">$pop</span><span class="o">:</span> <span class="nf">nth</span><span class="p">(</span><span class="nv">$colors</span><span class="o">,</span><span class="nv">$i</span><span class="p">);</span>
-    <span class="nv">$new</span><span class="o">:</span> <span class="nv">$pop</span> <span class="p">(</span><span class="nv">$width</span> <span class="o">*</span> <span class="p">(</span><span class="nv">$i</span> <span class="o">-</span> <span class="mi">1</span><span class="p">))</span><span class="o">,</span> <span class="nv">$pop</span> <span class="p">(</span><span class="nv">$width</span> <span class="o">*</span> <span class="nv">$i</span><span class="p">);</span>
-    <span class="nv">$gradient</span><span class="o">:</span> <span class="nf">join</span><span class="p">(</span><span class="nv">$gradient</span><span class="o">,</span> <span class="nv">$new</span><span class="o">,</span> <span class="n">comma</span><span class="p">);</span>
-  <span class="p">}</span>
-
-  <span class="k">&#64;return</span> <span class="nt">linear-gradient</span><span class="o">(</span><span class="err">$</span><span class="nt">position</span><span class="o">,</span> <span class="err">$</span><span class="nt">gradient</span><span class="o">);</span>
-<span class="p">}</span>
-</pre>
-</div>
-<div class="section" id="use">
-<h2>Use</h2>
-<pre class="code scss literal-block">
-<span class="nc">.rainbow</span> <span class="p">{</span>
-  <span class="k">&#64;include</span><span class="nd"> background-image</span><span class="p">(</span><span class="nf">rainbow</span><span class="p">(</span><span class="no">left</span><span class="o">,</span> <span class="nv">$colors</span><span class="p">));</span>
-<span class="p">}</span>
-</pre>
-</div>
-
+        <a href="/2012/07/20/sass-striped-background" class="readmore">
+          read more
+        </a>
       
     </div>
   </article>

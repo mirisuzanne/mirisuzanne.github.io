@@ -19,7 +19,7 @@
 She was working on a &lt;a class="reference external" href="https://gist.github.com/3140730"&gt;bit of code&lt;/a&gt; to create
 a rainbow-striped background gradient
 using any set of arbitrary colors.&lt;/p&gt;
-&lt;p&gt;Here's my solution,
+&lt;p&gt;This is my solution,
 in the form of a Sass function.
 This requires &lt;a class="reference external" href="http://rubygems.org/gems/sass"&gt;Sass 3.2&lt;/a&gt;
 (currently in alpha)
@@ -27,7 +27,7 @@ in order to run.&lt;/p&gt;
 &lt;div class="section" id="variables"&gt;
 &lt;h2&gt;Variables&lt;/h2&gt;
 &lt;pre class="code scss literal-block"&gt;
-&lt;span class="nv"&gt;$mycolors&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;red&lt;/span&gt; &lt;span class="ni"&gt;orange&lt;/span&gt; &lt;span class="nb"&gt;yellow&lt;/span&gt; &lt;span class="nb"&gt;green&lt;/span&gt; &lt;span class="nb"&gt;blue&lt;/span&gt; &lt;span class="ni"&gt;indigo&lt;/span&gt; &lt;span class="ni"&gt;violet&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="nv"&gt;$rainbow&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;red&lt;/span&gt; &lt;span class="ni"&gt;orange&lt;/span&gt; &lt;span class="nb"&gt;yellow&lt;/span&gt; &lt;span class="nb"&gt;green&lt;/span&gt; &lt;span class="nb"&gt;blue&lt;/span&gt; &lt;span class="ni"&gt;indigo&lt;/span&gt; &lt;span class="ni"&gt;violet&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
 &lt;/pre&gt;
 &lt;p&gt;You could set individual variables for each color as well.
 You would still pass them all as a single argument,
@@ -39,7 +39,7 @@ or join them into a single variable before passing, as you see fit.&lt;/p&gt;
 &lt;span class="c1"&gt;// Returns a striped gradient for use anywhere gradients are accepted.
 // - $position: the starting position or angle of the gradient.
 // - $colors: a list of all the colors to be used.
-&lt;/span&gt;&lt;span class="k"&gt;&amp;#64;function&lt;/span&gt; &lt;span class="nt"&gt;rainbow&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="nt"&gt;position&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="nt"&gt;colors&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;span class="k"&gt;&amp;#64;function&lt;/span&gt; &lt;span class="nt"&gt;stripes&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="nt"&gt;position&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="nt"&gt;colors&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
   &lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nf"&gt;if&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;type-of&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s2"&gt;list'&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nf"&gt;compact&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
   &lt;span class="nv"&gt;$gradient&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nf"&gt;compact&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
   &lt;span class="nv"&gt;$width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="nf"&gt;length&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
@@ -58,10 +58,13 @@ or join them into a single variable before passing, as you see fit.&lt;/p&gt;
 &lt;h2&gt;Use&lt;/h2&gt;
 &lt;pre class="code scss literal-block"&gt;
 &lt;span class="nc"&gt;.rainbow&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; background-image&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;rainbow&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="no"&gt;left&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
+  &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; background-image&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;stripes&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="no"&gt;left&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nv"&gt;$rainbow&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
 &lt;span class="p"&gt;}&lt;/span&gt;
 &lt;/pre&gt;
 &lt;/div&gt;
+&lt;div class="section" id="demo"&gt;
+&lt;h2&gt;Demo&lt;/h2&gt;
+&lt;div class="demo-rainbow"&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
   </entry>
   <entry xml:base="http://andmeyer.com/feed.atom">
