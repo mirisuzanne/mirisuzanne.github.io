@@ -8,7 +8,7 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Creating a striped background gradient in Sass</title>
+    <title type="text">Creating a striped background in Sass</title>
     <id>http://andmeyer.com/2012/07/20/sass-striped-background</id>
     <updated>2012-07-20T00:00:00Z</updated>
     <link href="http://andmeyer.com/2012/07/20/sass-striped-background" />
