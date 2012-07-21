@@ -79,10 +79,17 @@ or join them into a single variable before passing, as you see fit.&lt;/p&gt;
 but it's difficult to maintain a custom design
 and get all the details just the way I like them.&lt;/p&gt;
 &lt;p&gt;Instead, I'm moving to the &lt;a class="reference external" href="https://github.com/mitsuhiko/rstblog/"&gt;rstblog&lt;/a&gt;
-static site generator.&lt;/p&gt;
+static site generator.
+While I'm at it,
+I've simplified the design
+down to a bare minimum.&lt;/p&gt;
 &lt;p&gt;It may take some time to get all my old posts
 ported over to the new system.
-Stay with me.&lt;/p&gt;
+Stay with me.
+In the meantime,
+I will try to become more regular
+in my posting habits,
+and more diverse in my posting topics.&lt;/p&gt;
 </content>
   </entry>
 </feed>
