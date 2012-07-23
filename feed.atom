@@ -33,7 +33,7 @@ and more diverse in my posting topics.&lt;/p&gt;
 </content>
   </entry>
   <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Creating a striped background in Sass</title>
+    <title type="text">Create a striped css background using Sass</title>
     <id>http://andmeyer.com/2012/07/20/sass-striped-background</id>
     <updated>2012-07-20T00:00:00Z</updated>
     <link href="http://andmeyer.com/2012/07/20/sass-striped-background" />
@@ -92,6 +92,10 @@ or join them into a single variable before passing, as you see fit.&lt;/p&gt;
 &lt;p&gt;Here is the resault:&lt;/p&gt;
 &lt;div class="demo-rainbow"&gt;&lt;/div&gt;&lt;p&gt;Jina has also posted a demo and explanation
 on &lt;a class="reference external" href="http://codepen.io/jina/pen/iosjp"&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;(The real lesson here
+is that all the colors of the rainbow
+are acceptable CSS color keywords.
+Go forth and queer the web.)&lt;/p&gt;
 &lt;/div&gt;
 </content>
   </entry>
