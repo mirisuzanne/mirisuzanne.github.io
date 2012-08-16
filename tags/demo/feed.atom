@@ -64,7 +64,7 @@ or join them into a single variable before passing, as you see fit.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="demo"&gt;
 &lt;h2&gt;Demo&lt;/h2&gt;
-&lt;p&gt;Here is the resault:&lt;/p&gt;
+&lt;p&gt;Here is the result:&lt;/p&gt;
 &lt;div class="demo-rainbow"&gt;&lt;/div&gt;&lt;p&gt;Jina has also posted a demo and explanation
 on &lt;a class="reference external" href="http://codepen.io/jina/pen/iosjp"&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;(The real lesson here
