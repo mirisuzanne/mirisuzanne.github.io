@@ -8,63 +8,6 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Electronic Literature |&amp;| the Nonhuman</title>
-    <id>http://andmeyer.com/2012/09/27/slsa2012</id>
-    <updated>2012-09-27T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/09/27/slsa2012" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;I'll be in &lt;a class="reference external" href="http://goo.gl/maps/MZW3g"&gt;Milwaukee&lt;/a&gt; this weekend
-for a brief appearance at
-&lt;a class="reference external" href="http://www.litsciarts.org/slsa12/"&gt;SLSA 2012&lt;/a&gt;.
-The &lt;a class="reference external" href="http://eliterature.org/electronic-literature-the-nonhuman/"&gt;ELO&lt;/a&gt; is hosting a jurried elit event,
-and accepted my &lt;a class="reference external" href="http://ericam.github.com/post-obsolete"&gt;submission&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-We found the piece to be fun and entertaining,
-but it also contains an argument that is worth considering
-(and not just from a technical perspective).
-The idea of objective forms dying and becoming immortal
-is an interesting way to think about obsolete forms.
-Against the backdrop of the death of the book,
-the question of how to write seems as alive and well as it ever has.
-This piece highlights that in a clever way.&lt;/blockquote&gt;
-&lt;p&gt;Thank you, ELO/SLSA jury.&lt;/p&gt;
-&lt;div class="section" id="the-obsolete-book-in-a-post-obsolete-world"&gt;
-&lt;h2&gt;The Obsolete Book in a Post-Obsolete World&lt;/h2&gt;
-&lt;p&gt;My text is &lt;a class="reference external" href="http://ericam.github.com/post-obsolete"&gt;available online&lt;/a&gt;,
-but the performance includes text-to-speech voice-over,
-&lt;a class="reference external" href="http://michelleellsworth.com/"&gt;Michelle Ellsworth&lt;/a&gt; dancing,
-transparencies,
-party hats,
-diagrams,
-whiskey,
-powerpoint handouts,
-music by &lt;a class="reference external" href="http://www.myspace.com/widowsbane"&gt;The Widow's Bane&lt;/a&gt;,
-one human,
-and one post-obsolete book.&lt;/p&gt;
-&lt;p&gt;Mortimer Leech of Widow's Bane
-was gracious about my theft:&lt;/p&gt;
-&lt;blockquote&gt;
-Follow your bliss, Eric.
-Take no prisoners.
-We're already dead.
-What the fuck do we want with money?&lt;/blockquote&gt;
-&lt;p&gt;Thank you Mr. Leech.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="id1"&gt;
-&lt;h2&gt;Electronic Literature &lt;span class="amp"&gt;&amp;&lt;/span&gt; the Nonhuman&lt;/h2&gt;
-&lt;p&gt;Saturday, September 29th, 5-7pm |
-201C of the Frontier Airlines Center |
-Society for Literature, Science, and the Arts 2012 Conference&lt;/p&gt;
-&lt;p&gt;I'll be performing along with &lt;a class="reference external" href="http://markcmarino.com"&gt;Mark Marino&lt;/a&gt;
-(who is a fantastic human)
-and many others I can't wait to meet.
-Maybe they're humans too! Who can say?&lt;/p&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">Foundation and Frontmatter</title>
     <id>http://andmeyer.com/2012/10/04/greenmud-titlepages</id>
     <updated>2012-10-04T00:00:00Z</updated>
@@ -150,47 +93,6 @@ this is where we are:&lt;/p&gt;
 &lt;li&gt;Music (started)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Oddities and Curious Lands</title>
-    <id>http://andmeyer.com/2012/07/24/arcticacre-oddities</id>
-    <updated>2012-07-24T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/07/24/arcticacre-oddities" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;In case you are ever bored,
-there are some things you should be doing
-on the internet.
-Several of those things were made by
-&lt;a class="reference external" href="http://www.secrettechnology.com/"&gt;Jason Nelson&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;a href="http://www.arcticacre.com/"&gt;
-    &lt;img src="/static/pictures/i-made-this.jpg" alt="ArcticAcre Oddities and Curious Lands" /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    The &lt;a href="http://www.arcticacre.com/"&gt;arctic(acre) is not&lt;/a&gt;
-    to say cold,
-    so much as barren,
-    unable to procreate in the usual sense,
-    and so making what the he in question calls games
-    or poetry or chaos
-    or any other
-    &lt;a href="http://lmgtfy.com/?q=ramblemancy"&gt;ramblemancy&lt;/a&gt;
-    of words like butter.
-    Birthed by the maternal
-    womb-like structures of Adobe Flash,
-    and his fear of obsolesence.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;You might start with the &lt;a class="reference external" href="http://www.arcticacre.com/"&gt;games&lt;/a&gt;
-(&amp;quot;i made this, you play this, we are enemies&amp;quot;
-shown above),
-then perhaps some
-&amp;quot;&lt;a class="reference external" href="http://www.secrettechnology.com/songs/harmsong1.html"&gt;Stunningly Harmful Songs&lt;/a&gt;...for
-spreading and baffling and loving.&amp;quot;
-You can explore on your own from there.&lt;/p&gt;
 </content>
   </entry>
 </feed>
