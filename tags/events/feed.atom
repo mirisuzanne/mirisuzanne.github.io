@@ -2,11 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://andmeyer.com/feed.atom</id>
-  <updated>2012-09-27T00:00:00Z</updated>
+  <updated>2012-10-05T00:00:00Z</updated>
   <link href="http://andmeyer.com/" />
   <link href="http://andmeyer.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">A whirlwind of digital humanities</title>
+    <id>http://andmeyer.com/2012/10/05/slsa-followup</id>
+    <updated>2012-10-05T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/10/05/slsa-followup" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;After submitting on a whim,
+I was &lt;a class="reference external" href="/2012/09/27/slsa2012/"&gt;invited to perform&lt;/a&gt;
+last weekend at the &lt;a class="reference external" href="http://www.litsciarts.org/slsa12/"&gt;SLSA&lt;/a&gt;
+conference in Milwaukee,
+and I went.
+This was not a reasonable thing to do.&lt;/p&gt;
+&lt;div class="section" id="friday"&gt;
+&lt;h2&gt;Friday&lt;/h2&gt;
+&lt;p&gt;It was a &lt;a class="reference external" href="http://www.chickpeasandhulahoops.com/blog/?page_id=1009#post-1009"&gt;whirlwind&lt;/a&gt; of a weekend.
+The piece,
+&lt;a href="/post-obsolete/"&gt;
+  &lt;em&gt;
+    The Obsolete Book in a Post-Obsolete World,
+    as Represented by a Post-Obsolete Book About Dance&lt;/em&gt;&lt;/a&gt;,
+requires a long list of props,
+but all I took along was a shopping list:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;overhead projector&lt;/li&gt;
+&lt;li&gt;party hats&lt;/li&gt;
+&lt;li&gt;noise makers&lt;/li&gt;
+&lt;li&gt;an old book about dance&lt;/li&gt;
+&lt;li&gt;10-page printed handouts&lt;/li&gt;
+&lt;li&gt;tweed jacket&lt;/li&gt;
+&lt;li&gt;whiskey&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I flew in on Friday night,
+drank a bottle of sake,
+and commandeered my friend, Micah,
+as a driver for the next day.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="saturday"&gt;
+&lt;h2&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;Overhead projectors are not easy to find,
+but Micah tracked one down
+at a party-supply rental shop on the other side of town.
+When we arrived, they had to dust it off and test the bulb.
+Lucky for us, it worked.&lt;/p&gt;
+&lt;p&gt;And our luck lasted the entire day.
+Apart from a few problems with printers and staplers,
+we found everything with time to spare.&lt;/p&gt;
+&lt;p&gt;&lt;figure class="gallery"&gt;
+  &lt;img src="/static/pictures/slsa12/handout.jpg" alt="handouts!" /&gt;
+  &lt;img src="/static/pictures/slsa12/party.jpg" alt="party supplies!" /&gt;
+  &lt;img src="/static/pictures/slsa12/tweed.jpg" alt="tweed jacket!" /&gt;
+  &lt;img src="/static/pictures/slsa12/book.jpg" alt="an old book!" /&gt;
+  &lt;img src="/static/pictures/slsa12/whiskey.jpg" alt="whiskey!" /&gt;
+  &lt;img src="/static/pictures/slsa12/gay-bill.jpg" alt="Bill is mad gay. / I'm Gay Bill, &amp; I approve this message." /&gt;
+  &lt;figcaption&gt;
+    (1) Two trips to FedEx &amp; two shitty staplers, but we have handouts.
+    (2) Party supplies &amp; a cute boy behind the counter at Walgreen's.
+    (3) Goodwill has tweed &amp; an old book for me,
+        and three gilded soccer trophies for Micah.
+    (4) A bread knife helps make this old western more anonymous.
+    (5) Just enough to whiskey for a 10-minute piece.
+    (6) "Mad GAY" graffiti conversation above the urinal (unrelated).
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;We had to sneak into the conference,
+because neither of us had registered,
+carried our gear upstairs to
+Frontier Airlines Center 201C,
+I performed for ten minutes,
+and flew out again the next day.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sunday"&gt;
+&lt;h2&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;Frontier Airlines flight 577.&lt;/p&gt;
+&lt;p&gt;There is &lt;a class="reference external" href="http://youtu.be/FnHsQRUQ1x8?t=1h11m11s"&gt;video&lt;/a&gt; of the performance,
+thanks to the wonderful &lt;a class="reference external" href="http://markcmarino.com/"&gt;Mark Marino&lt;/a&gt;.
+You can't see things very well,
+but you can &lt;a class="reference external" href="/post-obsolete/"&gt;follow along on the website&lt;/a&gt;
+and put all the pieces together.
+It will be just like you were there
+with handout in hand!&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">Electronic Literature |&amp;| the Nonhuman</title>
     <id>http://andmeyer.com/2012/09/27/slsa2012</id>
