@@ -8,7 +8,7 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">A whirlwind of digital humanities</title>
+    <title type="text">A Whirlwind of Digital Humanities</title>
     <id>http://andmeyer.com/2012/10/05/slsa-followup</id>
     <updated>2012-10-05T00:00:00Z</updated>
     <link href="http://andmeyer.com/2012/10/05/slsa-followup" />
