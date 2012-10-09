@@ -2,11 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://andmeyer.com/feed.atom</id>
-  <updated>2012-10-05T00:00:00Z</updated>
+  <updated>2012-10-09T00:00:00Z</updated>
   <link href="http://andmeyer.com/" />
   <link href="http://andmeyer.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">A Font Family for Susy</title>
+    <id>http://andmeyer.com/2012/10/09/susy-fonts</id>
+    <updated>2012-10-09T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/10/09/susy-fonts" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;The first drafts
+of the &amp;quot;GreenMud Susy&amp;quot; fonts
+are kerned, complete,
+and roughly &lt;a class="reference external" href="http://greengreenmud.com/"&gt;in place&lt;/a&gt;.
+Susy chapters now use her font,
+JJ chapters use his,
+and the remainder is split
+until I flesh out a neutral &amp;quot;narrator&amp;quot; font.&lt;/p&gt;
+&lt;p&gt;Susy's fonts look like this:&lt;/p&gt;
+&lt;p&gt;&lt;ol class="susy-fonts"&gt;
+  &lt;li class="susyregular"&gt;
+    &lt;strong&gt;Susy Regular:&lt;/strong&gt;
+    The quick &amp; brown fox jumps over the lazy god.
+  &lt;/li&gt;
+  &lt;li class="susybold"&gt;
+    &lt;strong&gt;Susy Bold:&lt;/strong&gt;
+    The quick &amp; brown fox jumps over the lazy god.
+  &lt;/li&gt;
+  &lt;li class="susysc"&gt;
+    &lt;strong&gt;Susy SmallCaps:&lt;/strong&gt;
+    The quick &amp; brown fox jumps over the lazy god.
+  &lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+&lt;p&gt;JJ's fonts (created earlier) look like this:&lt;/p&gt;
+&lt;p&gt;&lt;ol class="jj-fonts"&gt;
+  &lt;li class="jjregular"&gt;
+    &lt;strong&gt;JJ Regular:&lt;/strong&gt;
+    The quick &amp; brown fox jumps over the lazy god.
+  &lt;/li&gt;
+  &lt;li class="jjbold"&gt;
+    &lt;strong&gt;JJ Bold:&lt;/strong&gt;
+    The quick &amp; brown fox jumps over the lazy god.
+  &lt;/li&gt;
+  &lt;li class="jjitalic"&gt;
+    &lt;strong&gt;JJ Italic:&lt;/strong&gt;
+    The quick &amp; brown fox jumps over the lazy god.
+  &lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">A Whirlwind of Digital Humanities</title>
     <id>http://andmeyer.com/2012/10/05/slsa-followup</id>
@@ -107,7 +155,7 @@ with handout in hand!&lt;/p&gt;
 </content>
   </entry>
   <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Electronic Literature |&amp;| the Nonhuman</title>
+    <title type="text">Electronic Literature and the Nonhuman</title>
     <id>http://andmeyer.com/2012/09/27/slsa2012</id>
     <updated>2012-09-27T00:00:00Z</updated>
     <link href="http://andmeyer.com/2012/09/27/slsa2012" />
@@ -151,7 +199,7 @@ We're already dead.
 What the fuck do we want with money?&lt;/blockquote&gt;
 &lt;p&gt;Thank you Mr. Leech.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="id1"&gt;
+&lt;div class="section" id="electronic-literature-the-nonhuman"&gt;
 &lt;h2&gt;Electronic Literature &lt;span class="amp"&gt;&amp;&lt;/span&gt; the Nonhuman&lt;/h2&gt;
 &lt;p&gt;Saturday, September 29th, 5-7pm |
 201C of the Frontier Airlines Center |
