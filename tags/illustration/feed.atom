@@ -9,9 +9,9 @@
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">Saying “Thank You”</title>
-    <id>http://andmeyer.com/2012/10/18/greenmud-thanks</id>
+    <id>http://andmeyer.com/2012/10/18/saying-thanks</id>
     <updated>2012-10-18T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/10/18/greenmud-thanks" />
+    <link href="http://andmeyer.com/2012/10/18/saying-thanks" />
     <author>
       <name>Eric A. Meyer</name>
     </author>
