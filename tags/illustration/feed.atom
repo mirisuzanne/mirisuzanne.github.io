@@ -8,7 +8,7 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Saying Thank-You.</title>
+    <title type="text">Saying “Thank You”</title>
     <id>http://andmeyer.com/2012/10/18/greenmud-thanks</id>
     <updated>2012-10-18T00:00:00Z</updated>
     <link href="http://andmeyer.com/2012/10/18/greenmud-thanks" />
@@ -16,13 +16,14 @@
       <name>Eric A. Meyer</name>
     </author>
     <content type="html">&lt;p&gt;I was reminded yesterday,
-while being harassed outside the Planned Parenthood
+while being harassed outside the
+&lt;a class="reference external" href="http://www.plannedparenthoodaction.org/"&gt;Planned Parenthood&lt;/a&gt;
 where a friend of mine works,
 &lt;a class="reference external" href="/why/"&gt;why I do what I do&lt;/a&gt;.
 Not for a distant invisible truth,
 but for the world around me and the people in it.
 You make life wonderful —
-laughing, drinking, sexting, dancing, vommiting, holding hands —
+laughing, drinking, sexting, dancing, vomiting, holding hands —
 the whole bloody works.&lt;/p&gt;
 &lt;p&gt;You were always the wind beneath my &lt;em&gt;proverbials&lt;/em&gt;,
 but with the &lt;a class="reference external" href="http://www.rockethub.com/projects/6066-into-the-green-green-mud-multimedia-novel"&gt;GreenMud RocketHub campaign&lt;/a&gt;
