@@ -2,11 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://andmeyer.com/feed.atom</id>
-  <updated>2012-10-18T00:00:00Z</updated>
+  <updated>2012-10-23T00:00:00Z</updated>
   <link href="http://andmeyer.com/" />
   <link href="http://andmeyer.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Ordinary Tools of Thought</title>
+    <id>http://andmeyer.com/2012/10/23/ordinary-tools-of-thought</id>
+    <updated>2012-10-23T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/10/23/ordinary-tools-of-thought" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Creativity isn't magic.
+It happens by applying ordinary tools of thought
+to existing materials.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;— Kirby Ferguson&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It seems I can't dive straight into
+the &lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;five steps of creative process&lt;/a&gt; —
+my content wants to take a different route
+(more on that later).
+Instead,
+let's start by establishing some broad themes
+that will resurface regularly along the way.&lt;/p&gt;
+&lt;div class="section" id="the-elements-of-creativity"&gt;
+&lt;h2&gt;The Elements of Creativity&lt;/h2&gt;
+&lt;p&gt;Kirby Ferguson's fantastic video series,
+&lt;a class="reference external" href="http://everythingisaremix.info/"&gt;Everything is a Remix&lt;/a&gt;,
+argues that the three basic techniques of remixing
+(&lt;em&gt;copy&lt;/em&gt;, &lt;em&gt;transform&lt;/em&gt;, &lt;em&gt;combine&lt;/em&gt;)
+are actually the foundation of all creative process.
+He refers to these techniques as the
+&amp;quot;Elements of Creativity&amp;quot;.&lt;/p&gt;
+&lt;p&gt;I won't go into the details of his argument,
+but you should.
+My goal is to pick up where he leaves off,
+turning creative theory into creative practice.&lt;/p&gt;
+&lt;p&gt;Go watch the entire series.
+I can wait.&lt;/p&gt;
+&lt;blockquote&gt;
+(Pause.)&lt;/blockquote&gt;
+&lt;p&gt;I'm serious.
+Consider it homework.&lt;/p&gt;
+&lt;blockquote&gt;
+(He remains a moment motionless,
+then goes out.
+He comes back immediately,
+goes to window right,
+takes up the ladder and carries it out.
+Pause.) &lt;a class="reference external" href="http://samuel-beckett.net/endgame.html"&gt;*&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="spark-slip"&gt;
+&lt;h2&gt;Spark &lt;span class="amp"&gt;&amp;&lt;/span&gt; Slip&lt;/h2&gt;
+&lt;p&gt;Douglas Hofstadter,
+a writer and professor of cognitive science,
+makes the same argument in his book
+&lt;a class="reference external" href="http://books.google.com/books/about/Metamagical_Themas.html?id=o8jzWF7rD6oC"&gt;Metamagical Themas&lt;/a&gt;.
+He talks about creativity as
+a process of &amp;quot;sparking &lt;span class="amp"&gt;&amp;&lt;/span&gt; slipping&amp;quot;:&lt;/p&gt;
+&lt;blockquote&gt;
+There is a way that concepts have of &amp;quot;slipping&amp;quot;
+from one into another,
+following a quite unpredictable path...
+An example of such a slip is furnished to us
+whenever we make a typo or grammatical mistake,
+utter a malapropism...
+or confuse two concepts at a deeply semantic level.&lt;/blockquote&gt;
+&lt;p&gt;This isn't just technique,
+this is how our brains work —
+sparking off ideas and slipping towards other ideas —
+copying, transforming, &lt;span class="amp"&gt;&amp;&lt;/span&gt; combining
+into new ideas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-art-is-inevitable"&gt;
+&lt;h2&gt;The Art is Inevitable&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I invented nothing new.
+I simply assembled the discoveries of other men
+behind whom were centuries of work...
+So it is with every new thing.
+Progress happens when all the factors that make for it are ready,
+and then it is inevitable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;— Henry Ford&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Art is no different.
+Like inventors and scientists,
+our job is to facilitate the process of
+experimentation and transformation,
+then capture the results.
+To borrow a phrase from &lt;a class="reference external" href="http://mappingtheterrain.wordpress.com/"&gt;Michelle Milne&lt;/a&gt;,
+we will instigate &lt;span class="amp"&gt;&amp;&lt;/span&gt; then edit.&lt;/p&gt;
+&lt;p&gt;These can be difficult skills to master,
+but they aren't magic,
+and there are tools that can help us.
+It's nothing new —
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Conceptual_art"&gt;conceptual artists&lt;/a&gt; and &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Remix"&gt;remix artists&lt;/a&gt;
+have been honing these tools for years,
+and we'll borrow from them regularly —
+but I want to show that the conceptual/remix process is essential
+for &lt;em&gt;every&lt;/em&gt; medium and &lt;em&gt;every&lt;/em&gt; genre.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-mini-series"&gt;
+&lt;h2&gt;The Mini-Series&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series [intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of Thought&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">Saying “Thank You”</title>
     <id>http://andmeyer.com/2012/10/18/saying-thanks</id>
@@ -137,7 +244,13 @@ standard graphic design processes,
 Don Fry's &lt;a class="reference external" href="http://donfry.wordpress.com/"&gt;Writing Your Way&lt;/a&gt;,
 &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Queer_theory"&gt;queer theory&lt;/a&gt;,
 and many years of working with ensemble theatres and bands.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Coming Soon&lt;/em&gt;: &lt;strong&gt;Define the Seed&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-mini-series"&gt;
+&lt;h2&gt;The Mini-Series&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series [intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of Thought&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/div&gt;
 </content>
   </entry>
@@ -653,38 +766,6 @@ more organized cables,
 and an extra shelf I can start using.&lt;/p&gt;
 &lt;p&gt;I hear it will also save my life,
 but we'll have to see how that works out.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Lori DeBoer on Self Doubt</title>
-    <id>http://andmeyer.com/2012/08/14/lori-deboer-self-doubt</id>
-    <updated>2012-08-14T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/08/14/lori-deboer-self-doubt" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a class="reference external" href="http://www.lorideboer.com/"&gt;Lori DeBoer&lt;/a&gt; is a very smart person.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;What has changed in my years of writing
-is that I’ve come to regard the state of self-doubt as normal.&lt;/p&gt;
-&lt;p&gt;The trick to dispel doubts? Write anyway.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Or, as &lt;a class="reference external" href="http://www.chickpeasandhulahoops.com/blog/?author=2"&gt;Megan Sumner&lt;/a&gt; said last night
-after asking &lt;a class="reference external" href="http://thebloggess.com/"&gt;The Bloggess&lt;/a&gt; a similar question:&lt;/p&gt;
-&lt;blockquote&gt;
-Pretend you're really good at it.&lt;/blockquote&gt;
-&lt;p&gt;More from Lori:&lt;/p&gt;
-&lt;blockquote&gt;
-When you train your brain to write
-by making room in your day for doing so regularly,
-you dispel doubt’s strength.
-You become attuned to the process as much as the outcome.
-Cultivating creativity as a habit
-turns writing into a ritual that is comforting.
-You begin to write for yourself,
-not as a way to meet other people’s expectations,
-and you become more confident in your own set of experiences
-and ability to turn out a piece worth reading.&lt;/blockquote&gt;
 </content>
   </entry>
 </feed>

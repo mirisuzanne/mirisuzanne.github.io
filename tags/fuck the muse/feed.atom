@@ -8,48 +8,6 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Collaboration, Queer Art, and a Multi-Media Novel</title>
-    <id>http://andmeyer.com/2012/10/01/bww-interview</id>
-    <updated>2012-10-01T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/10/01/bww-interview" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;The &lt;a class="reference external" href="http://www.boulderwritersworkshop.org/"&gt;Boulder Writers' Workshop&lt;/a&gt;
-ran this &lt;a class="reference external" href="http://www.boulderwritersworkshop.org/2012/08/31/eric-meyer-discusses-collaboration-queer-art-and-his-multi-media-novel/"&gt;interview with me&lt;/a&gt;
-at the end of August.&lt;/p&gt;
-&lt;p&gt;Here's a bit
-regarding my &lt;a class="reference external" href="http://www.boulderwritersworkshop.org/writing-workshops-classes-events/event-registration/?ee=28"&gt;upcoming class&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;BWW:&lt;/strong&gt; Your upcoming workshop titled,
-“F*ck the Muse: Grab Your Writing by the Nasty Bits,”
-sounds like instruction in hand-to-hand combat techniques.
-Are you going to show writers how to attack the muse,
-rather than surrender to where she may, or may not, take them?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;EM:&lt;/strong&gt; It’s hand-to-hand-combat,
-but it’s also foreplay,
-late night conversations,
-passionate love-making,
-silent hand-holding,
-and occasional slapstick misunderstandings.
-What’s important is that you participate as an equal.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Don't let the muse stick you in a rut.
-Take control of your art.&lt;/p&gt;
-&lt;div class="section" id="fuck-the-muse"&gt;
-&lt;h2&gt;Fuck the Muse&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;strong&gt;Wednesdays&lt;/strong&gt;, Oct 10 - Nov 14, 7-9pm&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Laundry on Lawrence&lt;/strong&gt;, &lt;a class="reference external" href="http://goo.gl/maps/Q61rD"&gt;2701 Lawrence St., Denver&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Class starts next Wednesday,
-and there are only a few spots left.
-Don't miss it,
-&lt;a class="reference external" href="http://www.eventbrite.com/event/4234481448?ref=ecal"&gt;sign up now&lt;/a&gt;!&lt;/p&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">Fuck the Muse: A Blog Mini-Series</title>
     <id>http://andmeyer.com/2012/10/16/muse-intro</id>
     <updated>2012-10-16T00:00:00Z</updated>
@@ -250,77 +208,6 @@ for &lt;em&gt;every&lt;/em&gt; medium and &lt;em&gt;every&lt;/em&gt; genre.&lt;/
 &lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series [intro]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of Thought&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Poetry Doesn't Matter (but you should)</title>
-    <id>http://andmeyer.com/2012/08/02/poetry-doesnt-matter</id>
-    <updated>2012-08-02T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/08/02/poetry-doesnt-matter" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;Theatres are concerned about the lack of audience.
-Poets are concerned about their lack of audience.
-Classical musicians are concerned.
-Dance companies are concerned.
-Every one is filled with concern for the &amp;quot;survival&amp;quot;
-of their medium.&lt;/p&gt;
-&lt;p&gt;Yesterday I ran across &amp;quot;&lt;a class="reference external" href="http://www.theatlantic.com/magazine/archive/1991/05/can-poetry-matter/5062/"&gt;Can Poetry Matter?&lt;/a&gt;&amp;quot;,
-an old-but-somewhat-prescient article
-about the dwindling influence of modern poetry,
-circulating again through the community.&lt;/p&gt;
-&lt;p&gt;It's a good article,
-but it's the wrong question.&lt;/p&gt;
-&lt;div class="section" id="the-medium-is-irrelevant"&gt;
-&lt;h2&gt;The Medium is Irrelevant&lt;/h2&gt;
-&lt;blockquote&gt;
-The established rituals of the poetry world —
-the readings, small magazines, workshops, and conferences —
-exhibit a surprising number of self-imposed limitations.
-Why, for example, does poetry mix so seldom with music, dance, or theater?&lt;/blockquote&gt;
-&lt;p&gt;I don't care about poetry.
-A medium is merely a description -
-a reduction used for analysis and critique.&lt;/p&gt;
-&lt;p&gt;Amanda Palmer isn't successful because
-&amp;quot;punk-influenced German-expressionist-cabaret keyboard&amp;quot; is a hit genre.
-She's not riding a wave, she &lt;em&gt;is&lt;/em&gt; the wave.
-There was no market for mp3 players,
-but iPods changed the music industry.
-Lady Gaga is peddling experimental performance art,
-but you'll never hear her say it.&lt;/p&gt;
-&lt;p&gt;Only poets buy &amp;quot;poetry&amp;quot; -
-everyone else is buying the experience it provides.
-Stop selling the &lt;em&gt;what&lt;/em&gt;,
-and start selling the &lt;em&gt;why&lt;/em&gt;.
-Sell your aesthetic vision for the world
-and experiences that can never be forgotten.&lt;/p&gt;
-&lt;p&gt;Don't argue that poetry should matter.
-Prove that &lt;em&gt;you&lt;/em&gt; matter.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="finding-an-audience-is-your-job"&gt;
-&lt;h2&gt;Finding an Audience is Your Job&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Like subsidized farming that grows food no one wants,
-a poetry industry has been created
-to serve the interests of the producers and not the consumers.&lt;/p&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;p&gt;Poets must recapture the attention of the broader intellectual community
-by writing for nonspecialist publications.
-They must also avoid the jargon of contemporary academic criticism
-and write in a public idiom.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;My audience will not search me out.
-They are not waiting patiently for my next move.
-If they look at my work and don't see a way in,
-they will turn around and leave.&lt;/p&gt;
-&lt;p&gt;The concern for &amp;quot;poetry&amp;quot;
-is a nostalgic yearning for a ready-made audience.
-Let it die.
-We can do better with the audience that we build for ourselves.&lt;/p&gt;
-&lt;p&gt;This isn't a problem,
-this is an opportunity.&lt;/p&gt;
 &lt;/div&gt;
 </content>
   </entry>
