@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://andmeyer.com/feed.atom</id>
-  <updated>2012-10-18T00:00:00Z</updated>
+  <updated>2012-11-20T00:00:00Z</updated>
   <link href="http://andmeyer.com/" />
   <link href="http://andmeyer.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
@@ -262,6 +262,53 @@ I'm working on the final
 neutral narrator font
 for the frontmatter
 and short interlude chapters.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Sketchy</title>
+    <id>http://andmeyer.com/2012/11/20/sketchy-couple</id>
+    <updated>2012-11-20T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/11/20/sketchy-couple" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;Last month I posted my first
+&lt;a class="reference external" href="/2012/10/18/saying-thanks/"&gt;GreenMud reward portrait&lt;/a&gt;
+of Kitten Karlyle.
+This weekend I finished the second portrait,
+a joint image of my ongoing collaborators
+Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra Eby.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/portraits/DanSondra-BW.png" alt=""&gt;
+  &lt;figcaption&gt;
+    Dan Eisenstat &amp; Sondra Eby, a sketchy couple.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Dan &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra are the other 2/3 of &lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup Gorilla&lt;/a&gt;,
+and have been a great help with the novel.
+Sondra has been helping me edit the images,
+while Dan is writing the music.
+In the meantime,
+they have moved downtown
+and started a very exciting art/business venture
+that will be announced very soon.
+I can't wait!&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/portraits/DanSondra-Full.png" alt=""&gt;
+  &lt;figcaption&gt;
+    The sketchy couple in full color.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I began this portrait in the same manner
+as the Kitten Karlyle illustration,
+and quickly found that it was the wrong style for these two.
+I made several more stylistic attempts,
+and was unhappy with all of them.
+We call that &amp;quot;the creative process&amp;quot;.
+I finally found the style I wanted
+by accidentally viewing all my sketches
+layered on top of each other.
+The rest was just a matter of cleanup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
