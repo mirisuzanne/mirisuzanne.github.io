@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://andmeyer.com/feed.atom</id>
-  <updated>2012-11-08T00:00:00Z</updated>
+  <updated>2012-12-13T00:00:00Z</updated>
   <link href="http://andmeyer.com/" />
   <link href="http://andmeyer.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
@@ -490,6 +490,120 @@ Let it die.
 We can do better with the audience that we build for ourselves.&lt;/p&gt;
 &lt;p&gt;This isn't a problem,
 this is an opportunity.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Starting from a Seed</title>
+    <id>http://andmeyer.com/2012/12/13/starting-from-a-seed</id>
+    <updated>2012-12-13T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/12/13/starting-from-a-seed" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;&amp;quot;What's the driving force behind this project?&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You can't start working
+until you know what you are working towards.
+That doesn't mean knowing all the answers,
+it means knowing the questions that will guide you.&lt;/p&gt;
+&lt;p&gt;I refer to those guiding questions as
+the &amp;quot;seed&amp;quot; of a project.&lt;/p&gt;
+&lt;div class="section" id="a-range-of-specimen"&gt;
+&lt;h2&gt;A Range of Specimen&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/seed/specimen.jpg" alt=""/&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;There are many ways to find,
+define, and refine your seed.
+&lt;a class="reference external" href="http://lida.org/"&gt;The LIDA Project&lt;/a&gt;
+borrows from &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Scientific_method"&gt;Scientific Method&lt;/a&gt;,
+starting with a question and related hypothesis.&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Formulate a &lt;em&gt;question&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Do &lt;em&gt;background research&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Construct a &lt;em&gt;hypothesis&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/seed/golden-circle.jpg" alt=""/&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://startwithwhy.com/"&gt;Simon Sinek&lt;/a&gt; starts his projects with
+&amp;quot;why&amp;quot; then &amp;quot;how&amp;quot; and finally &amp;quot;what&amp;quot; -
+statements of belief, values, and finally product.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.siti.org/"&gt;Anne Bogart&lt;/a&gt; covers similar territory
+with her three-part seed:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;What is the &lt;em&gt;question&lt;/em&gt; that motivates the piece?&lt;/li&gt;
+&lt;li&gt;Who or what is the &lt;em&gt;anchor&lt;/em&gt; through which we explore the question?&lt;/li&gt;
+&lt;li&gt;What is the &lt;em&gt;structure&lt;/em&gt; of our exploration?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These are all variations on finding a seed.
+It doesn't have to be a formal process,
+but it helps to know more-or-less what you need
+in order to move forward.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/seed/flies.jpg" alt=""/&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;My seeds usually start with a single idea
+floating around in my mind
+until other ideas attach themselves.
+Once the parts begin to gel,
+I know it's time to pay closer attention.
+In the end,
+I'm have a list roughly similar to Anne's
+before I move to the next step.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-seed-of-my-own"&gt;
+&lt;h2&gt;A Seed of My Own&lt;/h2&gt;
+&lt;p&gt;One of my current projects-in-development
+started with a quote I found on the internet
+(from &lt;a class="reference external" href="http://books.google.com/books?id=S8BB1K361SUC&amp;amp;lpg=PP1&amp;amp;pg=PA15#v=onepage&amp;amp;q&amp;amp;f=false"&gt;The Invention of Heterosexuality&lt;/a&gt;
+by Jonathan Ned Katz):&lt;/p&gt;
+&lt;blockquote&gt;
+We name and speak of a troublesome ‘transsexualism,’ the feeling of being the other sex… We do not name and talk much about the feeling of being the same sex—the sex we think we are, the sex most of us desire to stay. But does not our feeling relatively comfortable with our sex, and our intense desire to maintain the integrity of our sex, indicate something that needs to be explained?&lt;/blockquote&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/seed/science.jpg" alt=""/&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I combined that with an article
+describing the &lt;a class="reference external" href="http://www.scientificamerican.com/article.cfm?id=real-outof-body-experiences"&gt;science of out-of-body experience&lt;/a&gt;.
+It raised some questions for me:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;How do we relate to these bodies we live in?&lt;/li&gt;
+&lt;li&gt;What does it mean to identify with a body, let alone a sex or gender?&lt;/li&gt;
+&lt;li&gt;How are trauma and memory involved?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Those &lt;em&gt;questions&lt;/em&gt; became the motivating &amp;quot;&lt;em&gt;why&lt;/em&gt;&amp;quot; of the project.
+With a little &lt;em&gt;background research&lt;/em&gt;
+(I used &lt;a class="reference external" href="http://en.wikipedia.org/"&gt;Wikipedia&lt;/a&gt;, &lt;a class="reference external" href="http://google.com/"&gt;Google&lt;/a&gt;, and &lt;a class="reference external" href="http://tatteredcover.com/"&gt;my local bookstore&lt;/a&gt;),
+the other pieces fell into place.&lt;/p&gt;
+&lt;p&gt;&lt;figure class="gallery"&gt;
+  &lt;img src="/static/pictures/seed/herm.jpg" alt=""/&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;The fragmented &amp;amp; unreliable nature of memory inspired a &lt;em&gt;structure&lt;/em&gt;:
+note cards, each written as a fragment of memory,
+and then shuffled before reading.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;anchor&lt;/em&gt; is a mashup of several existing characters and places
+taken from history, mythology and song:
+The transformation of &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Hermaphroditos"&gt;Hermaphroditus&lt;/a&gt;,
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Mother_Clap"&gt;Mother Clap&lt;/a&gt;'s 18th-century &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Molly_house"&gt;Molly Houses&lt;/a&gt;,
+and the songs of &lt;a class="reference external" href="http://rd.io/x/QFp1K1LvjA"&gt;Tom Waits&lt;/a&gt; &amp;amp; &lt;a class="reference external" href="http://rd.io/x/QFp1KzMxvg"&gt;Lou&lt;/a&gt; &lt;a class="reference external" href="http://rd.io/x/QFp1K2_sfw"&gt;Reed&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="diyourself"&gt;
+&lt;h2&gt;DIYourself&lt;/h2&gt;
+&lt;p&gt;The goal isn't to do it exactly the way I do it,
+or the way LIDA, Anne Bogart, or Simon Sinek do it.
+The goal is to know what you need,
+and then pay attention to how you get there.&lt;/p&gt;
+&lt;p&gt;De-mystify the process,
+then learn to repeat it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-mini-series"&gt;
+&lt;h2&gt;The Mini-Series&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series [intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a Seed&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/div&gt;
 </content>
   </entry>
