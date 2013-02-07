@@ -8,6 +8,623 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Get Curious [Part 1]</title>
+    <id>http://andmeyer.com/2013/02/07/get-curious</id>
+    <updated>2013-02-07T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2013/02/07/get-curious" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;Now that you have &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;a seed worth exploring&lt;/a&gt;,
+you are ready for step 2 of the creative process.
+The goal of this phase is explosive growth,
+following your curiosity out from the seed in every&amp;nbsp;direction.&lt;/p&gt;
+&lt;p&gt;You&amp;#8217;ve heard of the &lt;a class="reference external" href="http://www.humnet.ucla.edu/humnet/english/wwwroot2/ta/hyperteach/pdfs/shitty.pdf"&gt;shitty first draft&lt;/a&gt;?
+It&amp;#8217;s a nice sentiment,
+writing full shitty drafts without fear or judgment,
+but I think you can do even&amp;nbsp;better:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Write shitty piles of shit,
+and leave the drafting for&amp;nbsp;later.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/curious/bullshit.jpg" alt=""/&gt;
+  &lt;figcaption&gt;
+  I often refer to this as the fertilizer or &amp;#8220;bullshit&amp;#8221; stage.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Drafting is an organizational problem.
+You can&amp;#8217;t organize ideas you don&amp;#8217;t have.
+Start by exploring and playing and wondering,
+free from fear and judgment,
+but also free from purpose, organization, and&amp;nbsp;planning.&lt;/p&gt;
+&lt;p&gt;Don&amp;#8217;t start with outlines.
+Don&amp;#8217;t start with drafts.
+Start with&amp;nbsp;curiosity.&lt;/p&gt;
+&lt;div class="section" id="a-shitty-shopping-list"&gt;
+&lt;h2&gt;A Shitty Shopping&amp;nbsp;List&lt;/h2&gt;
+&lt;p&gt;Our goal is to develop all the raw (shitty) materials
+we will need in order to start drafting.
+I&amp;#8217;m not talking about pen &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; paper,
+or computers,
+or three cans of latex paint.
+I want to know what concepts, phrases,
+images, and aesthetics I am working with.
+I want to soak up inspirations,
+and understand my&amp;nbsp;constraints.&lt;/p&gt;
+&lt;p&gt;I start with three&amp;nbsp;questions:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;What already&amp;nbsp;exists?&lt;/li&gt;
+&lt;li&gt;What still needs to be gathered or&amp;nbsp;created?&lt;/li&gt;
+&lt;li&gt;What will inspire&amp;nbsp;me?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Working on the &lt;a class="reference external" href="/2013/01/22/contour/"&gt;book cover&lt;/a&gt; for &lt;a class="reference external" href="http://www.springgunpress.com/posture"&gt;The Posture of Contour&lt;/a&gt;,
+I asked the publishers and author for everything they had.
+Based on their answers, I ended up with these&amp;nbsp;lists:&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/contour/final.png" alt=""/&gt;
+  &lt;figcaption&gt;
+  Final cover design for &lt;em&gt;The Posture of Contour&lt;/em&gt;.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What already&amp;nbsp;exists?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Dimensions: 5.5&amp;#8221; x&amp;nbsp;8.5&amp;#8221;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.springgunpress.com/"&gt;SpringGun Press&lt;/a&gt;&amp;nbsp;wordmarks&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;ISBN&lt;/span&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; bar code (on white&amp;nbsp;background)&lt;/li&gt;
+&lt;li&gt;Title: The Posture of&amp;nbsp;Contour&lt;/li&gt;
+&lt;li&gt;Subtitle: A Public&amp;nbsp;Primer&lt;/li&gt;
+&lt;li&gt;Author: James&amp;nbsp;Belflower&lt;/li&gt;
+&lt;li&gt;The content of the book&amp;nbsp;itself&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What still needs to be gathered or&amp;nbsp;created?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Color&amp;nbsp;palette&lt;/li&gt;
+&lt;li&gt;Artwork&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What will inspire&amp;nbsp;me?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Diagrams, schematics, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;maps&lt;/li&gt;
+&lt;li&gt;Processes of abstraction &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;representation&lt;/li&gt;
+&lt;li&gt;Mouths, hands, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; black&amp;nbsp;spots&lt;/li&gt;
+&lt;li&gt;Collage&lt;/li&gt;
+&lt;li&gt;Cover art for &amp;#8220;&lt;a class="reference external" href="http://www.fenceportal.org/?page_id=422"&gt;Network&lt;/a&gt;&amp;#8221; by Jena&amp;nbsp;Osman&lt;/li&gt;
+&lt;li&gt;Richard Serra&amp;nbsp;drawings&lt;/li&gt;
+&lt;li&gt;Franz&amp;nbsp;Kline&lt;/li&gt;
+&lt;li&gt;Paul Sharits&amp;nbsp;colors&lt;/li&gt;
+&lt;li&gt;Stan Brakhage &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Joan&amp;nbsp;Miro&lt;/li&gt;
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;The line between language and&amp;nbsp;graphic&amp;#8221;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;They had done most of my work for me.
+That&amp;#8217;s not always the case,
+but if you have a seed,
+you have enough to get&amp;nbsp;started.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sparking-curiosity"&gt;
+&lt;h2&gt;Sparking&amp;nbsp;Curiosity&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/curious/bodies.jpg" alt=""/&gt;
+  &lt;figcaption&gt;
+  Bodies. A diagram.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;seed I developed in phase 1&lt;/a&gt;
+can be used directly to start a list of materials
+in phase 2. Unlike the cover art,
+this project has no pre-existing material that I am required to use.
+Most of the material will have to be found or created,
+but I do have plenty of inspiration to draw&amp;nbsp;from:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What already&amp;nbsp;exists?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Format: a stack of note cards that can be&amp;nbsp;shuffled&lt;/li&gt;
+&lt;li&gt;Some collaborative poems with Jacob Liechty that might&amp;nbsp;fit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What do I still&amp;nbsp;need?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A writing&amp;nbsp;style&lt;/li&gt;
+&lt;li&gt;Characters?&amp;nbsp;Story?&lt;/li&gt;
+&lt;li&gt;Specific&amp;nbsp;memories&lt;/li&gt;
+&lt;li&gt;More on trauma (ptsd,&amp;nbsp;etc)&lt;/li&gt;
+&lt;li&gt;More on bodies (eating disorders,&amp;nbsp;etc)&lt;/li&gt;
+&lt;li&gt;Other&amp;nbsp;voices&lt;/li&gt;
+&lt;li&gt;more?&amp;#8230;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What&amp;#8217;s the&amp;nbsp;inspiration?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;The Invention of&amp;nbsp;Heterosexuality&amp;#8221;&lt;/li&gt;
+&lt;li&gt;Research on out-of-body&amp;nbsp;experiences&lt;/li&gt;
+&lt;li&gt;Bodies &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;identity&lt;/li&gt;
+&lt;li&gt;Sex, gender, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;sexuality&lt;/li&gt;
+&lt;li&gt;Memory &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;trauma&lt;/li&gt;
+&lt;li&gt;Hermaphroditus, Mother Clapp, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Molly&amp;nbsp;Houses&lt;/li&gt;
+&lt;li&gt;Jacob Liechty, Tom Waits, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Lou&amp;nbsp;Reed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It&amp;#8217;s &lt;span class="caps"&gt;OK&lt;/span&gt; that this list isn&amp;#8217;t complete,
+it&amp;#8217;s enough to make me curious,
+and enough to point me in the right&amp;nbsp;direction.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="coming-soon"&gt;
+&lt;h2&gt;Coming&amp;nbsp;Soon&lt;/h2&gt;
+&lt;p&gt;In the next few posts we&amp;#8217;ll talk about
+gathering vs creating,
+blind variation and selective retention,
+judgmental brainstorming,
+the viewpoints, and composition —
+all useful tools for this explosive curiosity&amp;nbsp;phase.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-mini-series"&gt;
+&lt;h2&gt;The&amp;nbsp;Mini-Series&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Starting from a Seed</title>
+    <id>http://andmeyer.com/2012/12/13/starting-from-a-seed</id>
+    <updated>2012-12-13T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/12/13/starting-from-a-seed" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;What&amp;#8217;s the driving force behind this&amp;nbsp;project?&amp;#8221;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You can&amp;#8217;t start working
+until you know what you are working towards.
+That doesn&amp;#8217;t mean knowing all the answers,
+it means knowing the questions that will guide&amp;nbsp;you.&lt;/p&gt;
+&lt;p&gt;I refer to those guiding questions as
+the &amp;#8220;seed&amp;#8221; of a&amp;nbsp;project.&lt;/p&gt;
+&lt;div class="section" id="a-range-of-specimen"&gt;
+&lt;h2&gt;A Range of&amp;nbsp;Specimen&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/seed/specimen.jpg" alt=""/&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;There are many ways to find,
+define, and refine your seed.
+&lt;a class="reference external" href="http://lida.org/"&gt;The &lt;span class="caps"&gt;LIDA&lt;/span&gt; Project&lt;/a&gt;
+borrows from &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Scientific_method"&gt;Scientific Method&lt;/a&gt;,
+starting with a question and related&amp;nbsp;hypothesis.&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Formulate a &lt;em&gt;question&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Do &lt;em&gt;background&amp;nbsp;research&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Construct a &lt;em&gt;hypothesis&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/seed/golden-circle.jpg" alt=""/&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://startwithwhy.com/"&gt;Simon Sinek&lt;/a&gt; starts his projects with
+&amp;#8220;why&amp;#8221; then &amp;#8220;how&amp;#8221; and finally &amp;#8220;what&amp;#8221; -
+statements of belief, values, and finally&amp;nbsp;product.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.siti.org/"&gt;Anne Bogart&lt;/a&gt; covers similar territory
+with her three-part&amp;nbsp;seed:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;What is the &lt;em&gt;question&lt;/em&gt; that motivates the&amp;nbsp;piece?&lt;/li&gt;
+&lt;li&gt;Who or what is the &lt;em&gt;anchor&lt;/em&gt; through which we explore the&amp;nbsp;question?&lt;/li&gt;
+&lt;li&gt;What is the &lt;em&gt;structure&lt;/em&gt; of our&amp;nbsp;exploration?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These are all variations on finding a seed.
+It doesn&amp;#8217;t have to be a formal process,
+but it helps to know more-or-less what you need
+in order to move&amp;nbsp;forward.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/seed/flies.jpg" alt=""/&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;My seeds usually start with a single idea
+floating around in my mind
+until other ideas attach themselves.
+Once the parts begin to gel,
+I know it&amp;#8217;s time to pay closer attention.
+In the end,
+I have a list similar to Anne&amp;#8217;s
+before I move to the next&amp;nbsp;step.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-seed-of-my-own"&gt;
+&lt;h2&gt;A Seed of My&amp;nbsp;Own&lt;/h2&gt;
+&lt;p&gt;One of my current projects-in-development
+started with a quote I found on the internet
+(from &lt;a class="reference external" href="http://books.google.com/books?id=S8BB1K361SUC&amp;amp;lpg=PP1&amp;amp;pg=PA15#v=onepage&amp;amp;q&amp;amp;f=false"&gt;The Invention of Heterosexuality&lt;/a&gt;
+by Jonathan Ned&amp;nbsp;Katz):&lt;/p&gt;
+&lt;blockquote&gt;
+We name and speak of a troublesome ‘transsexualism,’ the feeling of being the other sex… We do not name and talk much about the feeling of being the same sex—the sex we think we are, the sex most of us desire to stay. But does not our feeling relatively comfortable with our sex, and our intense desire to maintain the integrity of our sex, indicate something that needs to be explained?&lt;/blockquote&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/seed/science.jpg" alt=""/&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I combined that with an article
+describing the &lt;a class="reference external" href="http://www.scientificamerican.com/article.cfm?id=real-outof-body-experiences"&gt;science of out-of-body experience&lt;/a&gt;.
+It raised some questions for&amp;nbsp;me:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;How do we relate to these bodies we live&amp;nbsp;in?&lt;/li&gt;
+&lt;li&gt;What does it mean to identify with a body, let alone a sex or&amp;nbsp;gender?&lt;/li&gt;
+&lt;li&gt;How are trauma and memory&amp;nbsp;involved?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Those &lt;em&gt;questions&lt;/em&gt; became the motivating &amp;#8220;&lt;em&gt;why&lt;/em&gt;&amp;#8221; of the project.
+With a little &lt;em&gt;background research&lt;/em&gt;
+(I used &lt;a class="reference external" href="http://en.wikipedia.org/"&gt;Wikipedia&lt;/a&gt;, &lt;a class="reference external" href="http://google.com/"&gt;Google&lt;/a&gt;, and &lt;a class="reference external" href="http://tatteredcover.com/"&gt;my local bookstore&lt;/a&gt;),
+the other pieces fell into&amp;nbsp;place.&lt;/p&gt;
+&lt;p&gt;&lt;figure class="gallery"&gt;
+  &lt;img src="/static/pictures/seed/herm.jpg" alt=""/&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;The fragmented &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; unreliable nature of memory inspired a &lt;em&gt;structure&lt;/em&gt;:
+note cards, each written as a fragment of memory,
+and then shuffled before&amp;nbsp;reading.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;anchor&lt;/em&gt; is a mashup of several existing characters and places
+taken from history, mythology and song:
+The transformation of &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Hermaphroditos"&gt;Hermaphroditus&lt;/a&gt;,
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Mother_Clap"&gt;Mother Clap&lt;/a&gt;&amp;#8216;s 18th-century &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Molly_house"&gt;Molly Houses&lt;/a&gt;,
+and the songs of &lt;a class="reference external" href="http://rd.io/x/QFp1K1LvjA"&gt;Tom Waits&lt;/a&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;a class="reference external" href="http://rd.io/x/QFp1KzMxvg"&gt;Lou&lt;/a&gt; &lt;a class="reference external" href="http://rd.io/x/QFp1K2_sfw"&gt;Reed&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="diyourself"&gt;
+&lt;h2&gt;DIYourself&lt;/h2&gt;
+&lt;p&gt;The goal isn&amp;#8217;t to do it exactly the way I do it,
+or the way &lt;span class="caps"&gt;LIDA&lt;/span&gt;, Anne Bogart, or Simon Sinek do it.
+The goal is to know what you need,
+and then pay attention to how you get&amp;nbsp;there.&lt;/p&gt;
+&lt;p&gt;De-mystify the process,
+then learn to repeat&amp;nbsp;it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-mini-series"&gt;
+&lt;h2&gt;The&amp;nbsp;Mini-Series&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Creative Modes and Cycles</title>
+    <id>http://andmeyer.com/2012/11/08/creative-cycles</id>
+    <updated>2012-11-08T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/11/08/creative-cycles" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;In his 1991 &lt;a class="reference external" href="http://www.youtube.com/watch?v=VShmtsLhkQg"&gt;lecture on creativity&lt;/a&gt;,
+John Cleese describes two modes of operating:
+an &amp;#8220;open&amp;#8221; playful mode,
+and a &amp;#8220;closed&amp;#8221; productive more.
+Creative people, he claims,
+are simply the people that
+cultivate the open mode of&amp;nbsp;operating.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;iframe width="520" height="390" src="http://www.youtube.com/embed/VShmtsLhkQg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+We need to be in the open mode when we&amp;#8217;re pondering a problem,
+but once we come up with a solution,
+we must then switch to the closed mode to implement it.&lt;/blockquote&gt;
+&lt;div class="section" id="your-brain-at-work"&gt;
+&lt;h2&gt;Your Brain at&amp;nbsp;Work&lt;/h2&gt;
+&lt;p&gt;Renowned psychiatrist Iain McGilchrist
+uses the same general framework
+in his &lt;a class="reference external" href="http://www.thersa.org/"&gt;&lt;span class="caps"&gt;RSA&lt;/span&gt;&lt;/a&gt; lecture on the &lt;a class="reference external" href="http://www.youtube.com/watch?v=dFs9WO2B8uI"&gt;Divided Brain&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;iframe width="521" height="293" src="http://www.youtube.com/embed/dFs9WO2B8uI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+The right hemisphere gives sustained,
+broad, open, vigilant alertness
+where the left hemisphere gives narrow,
+sharply-focussed attention to detail&amp;#8230;.
+Let me make it very clear,
+for imagination you need both hemispheres.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="working-in-cycles"&gt;
+&lt;h2&gt;Working in&amp;nbsp;Cycles&lt;/h2&gt;
+&lt;p&gt;Like all tools,
+our different modes of thinking allow us
+to solve different types of problems,
+or to solve the same problems in different ways.
+You have to know when to set down your hammer
+and pick up a chainsaw.
+That&amp;#8217;s where cycles become&amp;nbsp;useful.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/cycle-diagram.jpg" alt="Is your approach working? Keep doing it, or try something else." /&gt;
+  &lt;figcaption&gt;How to everything.&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Cycling through different modes has become
+the core of my creative process.
+Thinking in cycles means I always know
+what to try next,
+even when I feel overwhelmed by the size of a project.
+If I&amp;#8217;m stuck, it&amp;#8217;s time for a new mindset.
+If my last move was to zig, my next move is to&amp;nbsp;zag.&lt;/p&gt;
+&lt;p&gt;But open/closed and right/left aren&amp;#8217;t the only modes
+available to us.
+I keep various mode cycles in mind as I work,
+and invent new ones when they seem&amp;nbsp;useful:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Open vs.&amp;nbsp;Closed&lt;/li&gt;
+&lt;li&gt;Action vs.&amp;nbsp;Reflection&lt;/li&gt;
+&lt;li&gt;Expanding vs.&amp;nbsp;Contracting&lt;/li&gt;
+&lt;li&gt;Inspiring vs.&amp;nbsp;Perspiring&lt;/li&gt;
+&lt;li&gt;Work vs.&amp;nbsp;Play&lt;/li&gt;
+&lt;li&gt;Intake vs.&amp;nbsp;Output&lt;/li&gt;
+&lt;li&gt;Create vs.&amp;nbsp;Destroy&lt;/li&gt;
+&lt;li&gt;Zoomed-In vs.&amp;nbsp;Zoomed-Out&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What cycles are useful to&amp;nbsp;you?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="action-reflection"&gt;
+&lt;h2&gt;Action &lt;span class="amp"&gt;&amp;&lt;/span&gt;&amp;nbsp;Reflection&lt;/h2&gt;
+&lt;p&gt;Putting these ideas to use is a cycle of it&amp;#8217;s own —
+stepping in and out of the work.
+When you hit a snag, step back and consider your approach.
+Often, an obstacle to the open mind
+can be overcome with a closed mind,
+and vice&amp;nbsp;versa.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;iframe width="520" height="390" src="http://www.youtube.com/embed/iZhEcRrMA-M" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;If I&amp;#8217;ve been looking at the details,
+I step back and look at the project from a distance.
+How does it all fit together?
+Are the problems on page 12 caused by something on page 3?
+If I&amp;#8217;ve been writing stream-of-conscious (expanding),
+I start editing with a vengeance (contracting).
+&lt;a class="reference external" href="http://www.austinkleon.com/2010/01/19/creativity-is-subtraction/"&gt;Creativity is subtraction&lt;/a&gt; as much as&amp;nbsp;creation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="garbage-in-please"&gt;
+&lt;h2&gt;Garbage In&amp;nbsp;(Please)&lt;/h2&gt;
+&lt;p&gt;Similarly,
+If I&amp;#8217;m all out of ideas,
+I spend some time doing research.
+It&amp;#8217;s important to have a deep well of material to draw on,
+and that well needs to be maintained.
+Sometimes I&amp;#8217;ll study a related topic,
+or I&amp;#8217;ll read a book,
+watch a movie,
+or just watch &lt;span class="caps"&gt;TV&lt;/span&gt;.
+Ignore the old &amp;#8220;garbage-in, garbage-out&amp;#8221; mantra.
+Watch shitty &lt;span class="caps"&gt;TV&lt;/span&gt;, eat some candy, and enjoy it.
+You can learn a lot from&amp;nbsp;garbage.&lt;/p&gt;
+&lt;p&gt;Practice being critical without being&amp;nbsp;dismissive.&lt;/p&gt;
+&lt;p&gt;The important thing is to replenish.
+Getting new ideas into your head is part of the&amp;nbsp;work.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="stay-agile"&gt;
+&lt;h2&gt;Stay&amp;nbsp;Agile&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;iframe width="520" height="390" src="http://www.youtube.com/embed/K2P86C-1x3o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;No one technique is going to get you the whole way there.
+Practice changing directions quickly.
+What happens if you switch modes every five&amp;nbsp;minutes?&lt;/p&gt;
+&lt;p&gt;Stay responsive to problems as they come up,
+changing your approach based on the problem in front of you.
+When you get stuck, that&amp;#8217;s a good thing.
+Use your frustration as motivation.
+Frustration is just a cue for change.
+Push back.
+Ask why you&amp;#8217;re stuck.
+Explore your stuckness,
+reflect on it,
+dive into it,
+adjust,
+and keep&amp;nbsp;moving.&lt;/p&gt;
+&lt;p&gt;Creativity happens in cycles:
+the end of one cycle is the start of&amp;nbsp;another.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-mini-series"&gt;
+&lt;h2&gt;The&amp;nbsp;Mini-Series&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Ordinary Tools of Thought</title>
+    <id>http://andmeyer.com/2012/10/23/ordinary-tools-of-thought</id>
+    <updated>2012-10-23T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/10/23/ordinary-tools-of-thought" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Creativity isn&amp;#8217;t magic.
+It happens by applying ordinary tools of thought
+to existing&amp;nbsp;materials.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;— Kirby&amp;nbsp;Ferguson&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It seems I can&amp;#8217;t dive straight into
+the &lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;five steps of creative process&lt;/a&gt; —
+my content wants to take a different route
+(more on that later).
+Instead,
+let&amp;#8217;s start by establishing some broad themes
+that will resurface regularly along the&amp;nbsp;way.&lt;/p&gt;
+&lt;div class="section" id="the-elements-of-creativity"&gt;
+&lt;h2&gt;The Elements of&amp;nbsp;Creativity&lt;/h2&gt;
+&lt;p&gt;Kirby Ferguson&amp;#8217;s fantastic video series,
+&lt;a class="reference external" href="http://everythingisaremix.info/"&gt;Everything is a Remix&lt;/a&gt;,
+argues that the three basic techniques of remixing
+(&lt;em&gt;copy&lt;/em&gt;, &lt;em&gt;transform&lt;/em&gt;, &lt;em&gt;combine&lt;/em&gt;)
+are actually the foundation of all creative process.
+He refers to these techniques as the
+&amp;#8220;Elements of&amp;nbsp;Creativity&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;I won&amp;#8217;t go into the details of his argument,
+but you should.
+My goal is to pick up where he leaves off,
+turning creative theory into creative&amp;nbsp;practice.&lt;/p&gt;
+&lt;p&gt;Go watch the entire series.
+I can&amp;nbsp;wait.&lt;/p&gt;
+&lt;blockquote&gt;
+(Pause.)&lt;/blockquote&gt;
+&lt;p&gt;I&amp;#8217;m serious.
+Consider it&amp;nbsp;homework.&lt;/p&gt;
+&lt;blockquote&gt;
+(He remains a moment motionless,
+then goes out.
+He comes back immediately,
+goes to window right,
+takes up the ladder and carries it out.
+Pause.) &lt;a class="reference external" href="http://samuel-beckett.net/endgame.html"&gt;*&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="spark-slip"&gt;
+&lt;h2&gt;Spark &lt;span class="amp"&gt;&amp;&lt;/span&gt;&amp;nbsp;Slip&lt;/h2&gt;
+&lt;p&gt;Douglas Hofstadter,
+a writer and professor of cognitive science,
+makes the same argument in his book
+&lt;a class="reference external" href="http://books.google.com/books/about/Metamagical_Themas.html?id=o8jzWF7rD6oC"&gt;Metamagical Themas&lt;/a&gt;.
+He talks about creativity as
+a process of &amp;#8220;sparking &lt;span class="amp"&gt;&amp;&lt;/span&gt;&amp;nbsp;slipping&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+There is a way that concepts have of &amp;#8220;slipping&amp;#8221;
+from one into another,
+following a quite unpredictable path&amp;#8230;
+An example of such a slip is furnished to us
+whenever we make a typo or grammatical mistake,
+utter a malapropism&amp;#8230;
+or confuse two concepts at a deeply semantic level.&lt;/blockquote&gt;
+&lt;p&gt;This isn&amp;#8217;t just technique,
+this is how our brains work —
+sparking off ideas and slipping towards other ideas —
+copying, transforming, &lt;span class="amp"&gt;&amp;&lt;/span&gt; combining
+into new&amp;nbsp;ideas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-art-is-inevitable"&gt;
+&lt;h2&gt;The Art is&amp;nbsp;Inevitable&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I invented nothing new.
+I simply assembled the discoveries of other men
+behind whom were centuries of work&amp;#8230;
+So it is with every new thing.
+Progress happens when all the factors that make for it are ready,
+and then it is&amp;nbsp;inevitable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;— Henry&amp;nbsp;Ford&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Art is no different.
+Like inventors and scientists,
+our job is to facilitate the process of
+experimentation and transformation,
+then capture the&amp;nbsp;results.&lt;/p&gt;
+&lt;p&gt;These can be difficult skills to master,
+but they aren&amp;#8217;t magic,
+and there are tools that can help us.
+It&amp;#8217;s nothing new —
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Conceptual_art"&gt;conceptual artists&lt;/a&gt; and &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Remix"&gt;remix artists&lt;/a&gt;
+have been honing these tools for years,
+and we&amp;#8217;ll borrow from them regularly —
+but I want to show that the conceptual/remix process is essential
+for &lt;em&gt;every&lt;/em&gt; medium and &lt;em&gt;every&lt;/em&gt;&amp;nbsp;genre.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-mini-series"&gt;
+&lt;h2&gt;The&amp;nbsp;Mini-Series&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Fuck the Muse: A Blog Mini-Series</title>
+    <id>http://andmeyer.com/2012/10/16/muse-intro</id>
+    <updated>2012-10-16T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/10/16/muse-intro" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;I was planning to spend this month
+teaching &lt;a class="reference external" href="http://eric.andmeyer.com/2012/08/30/fuck-the-muse"&gt;a class&lt;/a&gt; for the
+&lt;a class="reference external" href="http://www.boulderwritersworkshop.org/"&gt;Boulder Writers&amp;#8217; Workshop&lt;/a&gt;.
+That garnered some interest,
+but didn&amp;#8217;t pan out in the end.
+Instead, I&amp;#8217;m going to explore the same themes right here
+in a six-part &lt;em&gt;Fuck the Muse&lt;/em&gt; blog &lt;a class="reference external" href="http://www.imdb.com/title/tt0088727/"&gt;mini-series&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The goal is&amp;nbsp;simple:&lt;/p&gt;
+&lt;blockquote&gt;
+Take control of your art
+by focusing on the process of creation.&lt;/blockquote&gt;
+&lt;p&gt;I&amp;#8217;ve been told that you can&amp;#8217;t teach creativity, but I disagree.
+We think of creativity as sudden, sexy, inexplicable moments of inspiration —
+ignoring the hard work that makes those moments possible.
+I can&amp;#8217;t teach you how to be inspired,
+but I can teach you how to hunt down inspiration,
+kill it, and tan the&amp;nbsp;hide.&lt;/p&gt;
+&lt;div class="section" id="the-art-of-control"&gt;
+&lt;h2&gt;The Art of&amp;nbsp;Control&lt;/h2&gt;
+&lt;p&gt;Taking control of your art isn&amp;#8217;t a matter of brute force.
+You have to let go, explore, take risks, and throw yourself off-balance.
+A good process will give you that freedom,
+while nudging you in the right&amp;nbsp;direction.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Ease the burden of originality.&lt;/strong&gt;
+The pressure to be unique and interesting can paralyze you.
+Don&amp;#8217;t try to be interesting.
+Set up the conditions,
+and make sure you capture the&amp;nbsp;results.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Do the unthinkable.&lt;/strong&gt;
+The only way to create something beyond imagining
+is to explore outside your own imagination.
+Let the process take you&amp;nbsp;there.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make informed decisions.&lt;/strong&gt;
+Stepping back from the work allows you to see it more clearly.
+Once you have all the options in front of you,
+you can see what works and what&amp;nbsp;doesn&amp;#8217;t.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Put your strengths (and weaknesses) to use.&lt;/strong&gt;
+Measure your skills against each step of the process.
+Learn what you can count on,
+where you need training or practice,
+and how to turn your flaws into assets along the&amp;nbsp;way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="class-overview"&gt;
+&lt;h2&gt;Class&amp;nbsp;Overview&lt;/h2&gt;
+&lt;p&gt;I break the creative process down into five major steps.
+We&amp;#8217;ll look at each one in it&amp;#8217;s own&amp;nbsp;post:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Define the Seed: &lt;em&gt;What&amp;#8217;s the idea, question, or&amp;nbsp;hypothesis?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Explore: &lt;em&gt;Reasearch, gather, and create the&amp;nbsp;materials.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Organize: &lt;em&gt;Outline the structure, or impose&amp;nbsp;one.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Draft: &lt;em&gt;Compile a complete first&amp;nbsp;draft.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Revise: &lt;em&gt;Consider, critique, and edit as&amp;nbsp;needed.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There&amp;#8217;s more than one way to skin the walrus,
+and each project will call for unique adjustments,
+but the same basic tools are needed to create genre fiction,
+absurdest drama,
+lyric poetry,
+or conceptual installation&amp;nbsp;art.&lt;/p&gt;
+&lt;p&gt;This isn&amp;#8217;t paint-by-numbers —
+it&amp;#8217;s a toolkit and a way of thinking.
+What you do with it is up to&amp;nbsp;you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="credit-where-due"&gt;
+&lt;h2&gt;Credit Where&amp;nbsp;Due&lt;/h2&gt;
+&lt;p&gt;My approach is influenced most heavily by
+Anne Bogart&amp;#8217;s &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Viewpoints"&gt;Viewpoints&lt;/a&gt;,
+Chuck Mee&amp;#8217;s &lt;a class="reference external" href="http://www.charlesmee.org/indexf.html"&gt;(re)making project&lt;/a&gt;,
+&lt;a class="reference external" href="http://lida.org/"&gt;The &lt;span class="caps"&gt;LIDA&lt;/span&gt; Project&lt;/a&gt;&amp;#8216;s &amp;#8220;bucketing&amp;#8221;,
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Lean_manufacturing"&gt;Lean&lt;/a&gt; and &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Agile_software_development"&gt;Agile&lt;/a&gt; web development,
+standard graphic design processes,
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Scientific_method"&gt;scientific method&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/"&gt;Steal Like An Artist&lt;/a&gt; by Austin Kleon,
+&lt;a class="reference external" href="http://www.everythingisaremix.info/"&gt;Everything is a Remix&lt;/a&gt; by Kirby Ferguson,
+Don Fry&amp;#8217;s &lt;a class="reference external" href="http://donfry.wordpress.com/"&gt;Writing Your Way&lt;/a&gt;,
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Queer_theory"&gt;queer theory&lt;/a&gt;,
+and many years of working with ensemble theatres and&amp;nbsp;bands.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-mini-series"&gt;
+&lt;h2&gt;The&amp;nbsp;Mini-Series&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">A Font Family for Susy</title>
     <id>http://andmeyer.com/2012/10/09/susy-fonts</id>
     <updated>2012-10-09T00:00:00Z</updated>
@@ -16,26 +633,26 @@
       <name>Eric A. Meyer</name>
     </author>
     <content type="html">&lt;p&gt;The first drafts
-of the &amp;quot;GreenMud Susy&amp;quot; fonts
+of the &amp;#8220;GreenMud Susy&amp;#8221; fonts
 are kerned, complete,
 and roughly &lt;a class="reference external" href="http://greengreenmud.com/"&gt;in place&lt;/a&gt;.
 Susy chapters now use her font,
-JJ chapters use his,
+&lt;span class="caps"&gt;JJ&lt;/span&gt; chapters use his,
 and the remainder is split
-until I flesh out a neutral &amp;quot;narrator&amp;quot; font.&lt;/p&gt;
-&lt;p&gt;Susy's fonts look like this:&lt;/p&gt;
+until I flesh out a neutral &amp;#8220;narrator&amp;#8221;&amp;nbsp;font.&lt;/p&gt;
+&lt;p&gt;Susy&amp;#8217;s fonts look like&amp;nbsp;this:&lt;/p&gt;
 &lt;p&gt;&lt;ol class="susy-fonts"&gt;
   &lt;li class="susyregular"&gt;
     &lt;strong&gt;Susy Regular:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="susybold"&gt;
     &lt;strong&gt;Susy Bold:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="susysc"&gt;
     &lt;strong&gt;Susy SmallCaps:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -56,22 +673,22 @@ until I flesh out a neutral &amp;quot;narrator&amp;quot; font.&lt;/p&gt;
 &lt;figure&gt;
   &lt;img src="/static/pictures/susy-font-bio.jpg" alt=" " /&gt;
   &lt;figcaption&gt;
-    Susy Bold, SmallCaps, and Regular on the "about" page.
+    Susy Bold, SmallCaps, and Regular on the &amp;#8220;about&amp;#8221; page.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;JJ's fonts (created earlier) look like this:&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt;&amp;#8217;s fonts (created earlier) look like&amp;nbsp;this:&lt;/p&gt;
 &lt;p&gt;&lt;ol class="jj-fonts"&gt;
   &lt;li class="jjregular"&gt;
-    &lt;strong&gt;JJ Regular:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    &lt;strong&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt; Regular:&lt;/strong&gt;
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="jjbold"&gt;
-    &lt;strong&gt;JJ Bold:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    &lt;strong&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt; Bold:&lt;/strong&gt;
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="jjitalic"&gt;
-    &lt;strong&gt;JJ Italic:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    &lt;strong&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt; Italic:&lt;/strong&gt;
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
 &lt;/ol&gt;&lt;/p&gt;
 </content>
@@ -86,10 +703,10 @@ until I flesh out a neutral &amp;quot;narrator&amp;quot; font.&lt;/p&gt;
     </author>
     <content type="html">&lt;p&gt;After submitting on a whim,
 I was &lt;a class="reference external" href="/2012/09/27/slsa2012/"&gt;invited to perform&lt;/a&gt;
-last weekend at the &lt;a class="reference external" href="http://www.litsciarts.org/slsa12/"&gt;SLSA&lt;/a&gt;
+last weekend at the &lt;a class="reference external" href="http://www.litsciarts.org/slsa12/"&gt;&lt;span class="caps"&gt;SLSA&lt;/span&gt;&lt;/a&gt;
 conference in Milwaukee,
 and I went.
-This was not a reasonable thing to do.&lt;/p&gt;
+This was not a reasonable thing to&amp;nbsp;do.&lt;/p&gt;
 &lt;div class="section" id="friday"&gt;
 &lt;h2&gt;Friday&lt;/h2&gt;
 &lt;p&gt;It was a &lt;a class="reference external" href="http://www.chickpeasandhulahoops.com/blog/?page_id=1009#post-1009"&gt;whirlwind&lt;/a&gt; of a weekend.
@@ -99,22 +716,22 @@ The piece,
     The Obsolete Book in a Post-Obsolete World,
     as Represented by a Post-Obsolete Book About Dance&lt;/em&gt;&lt;/a&gt;,
 requires a long list of props,
-but all I took along was a shopping list:&lt;/p&gt;
+but all I took along was a shopping&amp;nbsp;list:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;overhead projector&lt;/li&gt;
-&lt;li&gt;party hats&lt;/li&gt;
-&lt;li&gt;noise makers&lt;/li&gt;
-&lt;li&gt;an old book about dance&lt;/li&gt;
-&lt;li&gt;10-page printed handouts&lt;/li&gt;
-&lt;li&gt;tweed jacket&lt;/li&gt;
+&lt;li&gt;overhead&amp;nbsp;projector&lt;/li&gt;
+&lt;li&gt;party&amp;nbsp;hats&lt;/li&gt;
+&lt;li&gt;noise&amp;nbsp;makers&lt;/li&gt;
+&lt;li&gt;an old book about&amp;nbsp;dance&lt;/li&gt;
+&lt;li&gt;10-page printed&amp;nbsp;handouts&lt;/li&gt;
+&lt;li&gt;tweed&amp;nbsp;jacket&lt;/li&gt;
 &lt;li&gt;whiskey&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;I flew in on Friday night,
 drank a bottle of sake,
 and commandeered my friend, Micah,
-as a driver for the next day.&lt;/p&gt;
+as a driver for the next&amp;nbsp;day.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="saturday"&gt;
 &lt;h2&gt;Saturday&lt;/h2&gt;
@@ -122,10 +739,10 @@ as a driver for the next day.&lt;/p&gt;
 but Micah tracked one down
 at a party-supply rental shop on the other side of town.
 When we arrived, they had to dust it off and test the bulb.
-Lucky for us, it worked.&lt;/p&gt;
+Lucky for us, it&amp;nbsp;worked.&lt;/p&gt;
 &lt;p&gt;And our luck lasted the entire day.
 Apart from a few problems with printers and staplers,
-we found everything with time to spare.&lt;/p&gt;
+we found everything with time to&amp;nbsp;spare.&lt;/p&gt;
 &lt;p&gt;&lt;figure class="gallery"&gt;
   &lt;img src="/static/pictures/slsa12/handout.jpg" alt="handouts!" /&gt;
   &lt;img src="/static/pictures/slsa12/party.jpg" alt="party supplies!" /&gt;
@@ -134,13 +751,13 @@ we found everything with time to spare.&lt;/p&gt;
   &lt;img src="/static/pictures/slsa12/whiskey.jpg" alt="whiskey!" /&gt;
   &lt;img src="/static/pictures/slsa12/gay-bill.jpg" alt="Bill is mad gay. / I'm Gay Bill, &amp; I approve this message." /&gt;
   &lt;figcaption&gt;
-    (1) Two trips to FedEx &amp; two shitty staplers, but we have handouts.
-    (2) Party supplies &amp; a cute boy behind the counter at Walgreen's.
-    (3) Goodwill has tweed &amp; an old book for me,
+    (1) Two trips to FedEx &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; two shitty staplers, but we have handouts.
+    (2) Party supplies &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; a cute boy behind the counter at Walgreen&amp;#8217;s.
+    (3) Goodwill has tweed &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; an old book for me,
         and three gilded soccer trophies for Micah.
     (4) A bread knife helps make this old western more anonymous.
     (5) Just enough to whiskey for a 10-minute piece.
-    (6) "Mad GAY" graffiti conversation above the urinal (unrelated).
+    (6) &amp;#8220;Mad &lt;span class="caps"&gt;GAY&lt;/span&gt;&amp;#8221; graffiti conversation above the urinal (unrelated).
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;We had to sneak into the conference,
@@ -148,7 +765,7 @@ because neither of us had registered,
 carried our gear upstairs to
 Frontier Airlines Center 201C,
 I performed for ten minutes,
-and flew out again the next day.&lt;/p&gt;
+and flew out again the next&amp;nbsp;day.&lt;/p&gt;
 &lt;p&gt;The other performances included
 Jeremy Douglass,
 Katherine Hayles,
@@ -156,265 +773,22 @@ Patrick Jagoda,
 Patrick LeMieux,
 Clarissa Lee,
 Amy Letter,
-M.D. Coverley,
+&lt;span class="caps"&gt;M.D.&lt;/span&gt; Coverley,
 Mark Marino,
 Nick Montfort,
 and Stuart Moulthrop.
-A great group!&lt;/p&gt;
+A great&amp;nbsp;group!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="sunday"&gt;
 &lt;h2&gt;Sunday&lt;/h2&gt;
-&lt;p&gt;Frontier Airlines flight 577.&lt;/p&gt;
+&lt;p&gt;Frontier Airlines flight&amp;nbsp;577.&lt;/p&gt;
 &lt;p&gt;There is &lt;a class="reference external" href="http://youtu.be/FnHsQRUQ1x8?t=1h11m11s"&gt;video&lt;/a&gt; of the performance,
 thanks to the wonderful &lt;a class="reference external" href="http://markcmarino.com/"&gt;Mark Marino&lt;/a&gt;.
-You can't see things very well,
+You can&amp;#8217;t see things very well,
 but you can &lt;a class="reference external" href="/post-obsolete/"&gt;follow along on the website&lt;/a&gt;
 and put all the pieces together.
 It will be just like you were there
-with handout in hand!&lt;/p&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Collaboration, Queer Art, and a Multi-Media Novel</title>
-    <id>http://andmeyer.com/2012/10/01/bww-interview</id>
-    <updated>2012-10-01T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/10/01/bww-interview" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;The &lt;a class="reference external" href="http://www.boulderwritersworkshop.org/"&gt;Boulder Writers' Workshop&lt;/a&gt;
-ran this &lt;a class="reference external" href="http://www.boulderwritersworkshop.org/2012/08/31/eric-meyer-discusses-collaboration-queer-art-and-his-multi-media-novel/"&gt;interview with me&lt;/a&gt;
-at the end of August.&lt;/p&gt;
-&lt;p&gt;Here's a bit
-regarding my &lt;a class="reference external" href="http://www.boulderwritersworkshop.org/writing-workshops-classes-events/event-registration/?ee=28"&gt;upcoming class&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;BWW:&lt;/strong&gt; Your upcoming workshop titled,
-“F*ck the Muse: Grab Your Writing by the Nasty Bits,”
-sounds like instruction in hand-to-hand combat techniques.
-Are you going to show writers how to attack the muse,
-rather than surrender to where she may, or may not, take them?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;EM:&lt;/strong&gt; It’s hand-to-hand-combat,
-but it’s also foreplay,
-late night conversations,
-passionate love-making,
-silent hand-holding,
-and occasional slapstick misunderstandings.
-What’s important is that you participate as an equal.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Don't let the muse stick you in a rut.
-Take control of your art.&lt;/p&gt;
-&lt;div class="section" id="fuck-the-muse"&gt;
-&lt;h2&gt;Fuck the Muse&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;strong&gt;Wednesdays&lt;/strong&gt;, Oct 10 - Nov 14, 7-9pm&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Laundry on Lawrence&lt;/strong&gt;, &lt;a class="reference external" href="http://goo.gl/maps/Q61rD"&gt;2701 Lawrence St., Denver&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Class starts next Wednesday,
-and there are only a few spots left.
-Don't miss it,
-&lt;a class="reference external" href="http://www.eventbrite.com/event/4234481448?ref=ecal"&gt;sign up now&lt;/a&gt;!&lt;/p&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Creative Modes and Cycles</title>
-    <id>http://andmeyer.com/2012/11/08/creative-cycles</id>
-    <updated>2012-11-08T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/11/08/creative-cycles" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;In his 1991 &lt;a class="reference external" href="http://www.youtube.com/watch?v=VShmtsLhkQg"&gt;lecture on creativity&lt;/a&gt;,
-John Cleese describes two modes of operating:
-an &amp;quot;open&amp;quot; playful mode,
-and a &amp;quot;closed&amp;quot; productive more.
-Creative people, he claims,
-are simply the people that
-cultivate the open mode of operating.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="520" height="390" src="http://www.youtube.com/embed/VShmtsLhkQg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-We need to be in the open mode when we're pondering a problem,
-but once we come up with a solution,
-we must then switch to the closed mode to implement it.&lt;/blockquote&gt;
-&lt;div class="section" id="your-brain-at-work"&gt;
-&lt;h2&gt;Your Brain at Work&lt;/h2&gt;
-&lt;p&gt;Renowned psychiatrist Iain McGilchrist
-uses the same general framework
-in his &lt;a class="reference external" href="http://www.thersa.org/"&gt;RSA&lt;/a&gt; lecture on the &lt;a class="reference external" href="http://www.youtube.com/watch?v=dFs9WO2B8uI"&gt;Divided Brain&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="521" height="293" src="http://www.youtube.com/embed/dFs9WO2B8uI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-The right hemisphere gives sustained,
-broad, open, vigilant alertness
-where the left hemisphere gives narrow,
-sharply-focussed attention to detail....
-Let me make it very clear,
-for imagination you need both hemispheres.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div class="section" id="working-in-cycles"&gt;
-&lt;h2&gt;Working in Cycles&lt;/h2&gt;
-&lt;p&gt;Like all tools,
-our different modes of thinking allow us
-to solve different types of problems,
-or to solve the same problems in different ways.
-You have to know when to set down your hammer
-and pick up a chainsaw.
-That's where cycles become useful.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/cycle-diagram.jpg" alt="Is your approach working? Keep doing it, or try something else." /&gt;
-  &lt;figcaption&gt;How to everything.&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Cycling through different modes has become
-the core of my creative process.
-Thinking in cycles means I always know
-what to try next,
-even when I feel overwhelmed by the size of a project.
-If I'm stuck, it's time for a new mindset.
-If my last move was to zig, my next move is to zag.&lt;/p&gt;
-&lt;p&gt;But open/closed and right/left aren't the only modes
-available to us.
-I keep various mode cycles in mind as I work,
-and invent new ones when they seem useful:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Open vs. Closed&lt;/li&gt;
-&lt;li&gt;Action vs. Reflection&lt;/li&gt;
-&lt;li&gt;Expanding vs. Contracting&lt;/li&gt;
-&lt;li&gt;Inspiring vs. Perspiring&lt;/li&gt;
-&lt;li&gt;Work vs. Play&lt;/li&gt;
-&lt;li&gt;Intake vs. Output&lt;/li&gt;
-&lt;li&gt;Create vs. Destroy&lt;/li&gt;
-&lt;li&gt;Zoomed-In vs. Zoomed-Out&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;What cycles are useful to you?&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="action-reflection"&gt;
-&lt;h2&gt;Action &lt;span class="amp"&gt;&amp;&lt;/span&gt; Reflection&lt;/h2&gt;
-&lt;p&gt;Putting these ideas to use is a cycle of it's own —
-stepping in and out of the work.
-When you hit a snag, step back and consider your approach.
-Often, an obstacle to the open mind
-can be overcome with a closed mind,
-and vice versa.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="520" height="390" src="http://www.youtube.com/embed/iZhEcRrMA-M" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;If I've been looking at the details,
-I step back and look at the project from a distance.
-How does it all fit together?
-Are the problems on page 12 caused by something on page 3?
-If I've been writing stream-of-conscious (expanding),
-I start editing with a vengeance (contracting).
-&lt;a class="reference external" href="http://www.austinkleon.com/2010/01/19/creativity-is-subtraction/"&gt;Creativity is subtraction&lt;/a&gt; as much as creation.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="garbage-in-please"&gt;
-&lt;h2&gt;Garbage In (Please)&lt;/h2&gt;
-&lt;p&gt;Similarly,
-If I'm all out of ideas,
-I spend some time doing research.
-It's important to have a deep well of material to draw on,
-and that well needs to be maintained.
-Sometimes I'll study a related topic,
-or I'll read a book,
-watch a movie,
-or just watch TV.
-Ignore the old &amp;quot;garbage-in, garbage-out&amp;quot; mantra.
-Watch shitty TV, eat some candy, and enjoy it.
-You can learn a lot from garbage.&lt;/p&gt;
-&lt;p&gt;Practice being critical without being dismissive.&lt;/p&gt;
-&lt;p&gt;The important thing is to replenish.
-Getting new ideas into your head is part of the work.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="stay-agile"&gt;
-&lt;h2&gt;Stay Agile&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="520" height="390" src="http://www.youtube.com/embed/K2P86C-1x3o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;No one technique is going to get you the whole way there.
-Practice changing directions quickly.
-What happens if you switch modes every five minutes?&lt;/p&gt;
-&lt;p&gt;Stay responsive to problems as they come up,
-changing your approach based on the problem in front of you.
-When you get stuck, that's a good thing.
-Use your frustration as motivation.
-Frustration is just a cue for change.
-Push back.
-Ask why you're stuck.
-Explore your stuckness,
-reflect on it,
-dive into it,
-adjust,
-and keep moving.&lt;/p&gt;
-&lt;p&gt;Creativity happens in cycles:
-the end of one cycle is the start of another.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-mini-series"&gt;
-&lt;h2&gt;The Mini-Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series [intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Electronic Literature and the Nonhuman</title>
-    <id>http://andmeyer.com/2012/09/27/slsa2012</id>
-    <updated>2012-09-27T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/09/27/slsa2012" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;I'll be in &lt;a class="reference external" href="http://goo.gl/maps/MZW3g"&gt;Milwaukee&lt;/a&gt; this weekend
-for a brief appearance at
-&lt;a class="reference external" href="http://www.litsciarts.org/slsa12/"&gt;SLSA 2012&lt;/a&gt;.
-The &lt;a class="reference external" href="http://eliterature.org/electronic-literature-the-nonhuman/"&gt;ELO&lt;/a&gt; is hosting a jurried elit event,
-and accepted my &lt;a class="reference external" href="http://ericam.github.com/post-obsolete"&gt;submission&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-We found the piece to be fun and entertaining,
-but it also contains an argument that is worth considering
-(and not just from a technical perspective).
-The idea of objective forms dying and becoming immortal
-is an interesting way to think about obsolete forms.
-Against the backdrop of the death of the book,
-the question of how to write seems as alive and well as it ever has.
-This piece highlights that in a clever way.&lt;/blockquote&gt;
-&lt;p&gt;Thank you, ELO/SLSA jury.&lt;/p&gt;
-&lt;div class="section" id="the-obsolete-book-in-a-post-obsolete-world"&gt;
-&lt;h2&gt;The Obsolete Book in a Post-Obsolete World&lt;/h2&gt;
-&lt;p&gt;My text is &lt;a class="reference external" href="http://ericam.github.com/post-obsolete"&gt;available online&lt;/a&gt;,
-but the performance includes text-to-speech voice-over,
-&lt;a class="reference external" href="http://michelleellsworth.com/"&gt;Michelle Ellsworth&lt;/a&gt; dancing,
-transparencies,
-party hats,
-diagrams,
-whiskey,
-powerpoint handouts,
-music by &lt;a class="reference external" href="http://www.myspace.com/widowsbane"&gt;The Widow's Bane&lt;/a&gt;,
-one human,
-and one post-obsolete book.&lt;/p&gt;
-&lt;p&gt;Mortimer Leech of Widow's Bane
-was gracious about my theft:&lt;/p&gt;
-&lt;blockquote&gt;
-Follow your bliss, Eric.
-Take no prisoners.
-We're already dead.
-What the fuck do we want with money?&lt;/blockquote&gt;
-&lt;p&gt;Thank you Mr. Leech.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="electronic-literature-the-nonhuman"&gt;
-&lt;h2&gt;Electronic Literature &lt;span class="amp"&gt;&amp;&lt;/span&gt; the Nonhuman&lt;/h2&gt;
-&lt;p&gt;Saturday, September 29th, 5-7pm |
-201C of the Frontier Airlines Center |
-Society for Literature, Science, and the Arts 2012 Conference&lt;/p&gt;
-&lt;p&gt;I'll be performing along with &lt;a class="reference external" href="http://markcmarino.com"&gt;Mark Marino&lt;/a&gt;
-(who is a fantastic human)
-and many others I can't wait to meet.
-Maybe they're humans too! Who can say?&lt;/p&gt;
+with handout in&amp;nbsp;hand!&lt;/p&gt;
 &lt;/div&gt;
 </content>
   </entry>
@@ -430,22 +804,22 @@ Maybe they're humans too! Who can say?&lt;/p&gt;
 a &lt;a class="reference external" href="http://www.rockethub.com/projects/6066-into-the-green-green-mud-multimedia-novel"&gt;RocketHub campaign&lt;/a&gt;
 with your help.
 Since then
-we've been editing,
+we&amp;#8217;ve been editing,
 sketching,
 adjusting,
 coding,
 testing,
 designing,
-and coding some more.&lt;/p&gt;
-&lt;p&gt;I'm happy to say
-we've reached a milestone.
+and coding some&amp;nbsp;more.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m happy to say
+we&amp;#8217;ve reached a milestone.
 The &lt;a class="reference external" href="https://github.com/oddbird/greenmud/"&gt;foundation is complete&lt;/a&gt;,
 the &lt;a class="reference external" href="http://greengreenmud.com/"&gt;frontmatter is styled&lt;/a&gt;,
 and from here on out we are working
 page by page and chapter by chapter
-to bring everything together.&lt;/p&gt;
+to bring everything&amp;nbsp;together.&lt;/p&gt;
 &lt;div class="section" id="those-nice-bright-colors"&gt;
-&lt;h2&gt;Those Nice Bright Colors&lt;/h2&gt;
+&lt;h2&gt;Those Nice Bright&amp;nbsp;Colors&lt;/h2&gt;
 &lt;p&gt;&lt;figure class="gallery"&gt;
   &lt;a href="http://greengreenmud.com/dancing-without-architecture/"&gt;
     &lt;img src="/static/pictures/greenmud-titles/ggm02.png" alt="" /&gt;
@@ -533,19 +907,19 @@ to bring everything together.&lt;/p&gt;
     &lt;img src="/static/pictures/greenmud-titles/ggm29.png" alt="" /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
-    Book &amp; chapter titles for
+    Book &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; chapter titles for
     &lt;a href="http://greengreenmud.com/"&gt;Into the Green Green Mud&lt;/a&gt;.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="getting-things-done"&gt;
-&lt;h2&gt;Getting Things Done&lt;/h2&gt;
+&lt;h2&gt;Getting Things&amp;nbsp;Done&lt;/h2&gt;
 &lt;p&gt;In that time I found a new job,
 went to a million conferences,
 moved into a &lt;a class="reference external" href="http://www.chickpeasandhulahoops.com/blog/?p=1605"&gt;new house&lt;/a&gt;,
 and still managed to get some work done.
 For anyone keeping track,
-this is where we are:&lt;/p&gt;
+this is where we&amp;nbsp;are:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;del&gt; Semi-final edits &lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt; Code structure &lt;/del&gt;&lt;/li&gt;
@@ -555,350 +929,111 @@ this is where we are:&lt;/p&gt;
 &lt;li&gt;&lt;del&gt; Grid handlers &lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt; Animation handlers &lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt; FrontMatter design &lt;span class="amp"&gt;&amp;&lt;/span&gt; code &lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;del&gt; JJ font family &lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;Susy font family (started)&lt;/li&gt;
-&lt;li&gt;Page design (drafted) &lt;span class="amp"&gt;&amp;&lt;/span&gt; code (started)&lt;/li&gt;
-&lt;li&gt;Music (started)&lt;/li&gt;
+&lt;li&gt;&lt;del&gt; &lt;span class="caps"&gt;JJ&lt;/span&gt; font family &lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;Susy font family&amp;nbsp;(started)&lt;/li&gt;
+&lt;li&gt;Page design (drafted) &lt;span class="amp"&gt;&amp;&lt;/span&gt; code&amp;nbsp;(started)&lt;/li&gt;
+&lt;li&gt;Music&amp;nbsp;(started)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </content>
   </entry>
   <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Fuck the Muse: A Blog Mini-Series</title>
-    <id>http://andmeyer.com/2012/10/16/muse-intro</id>
-    <updated>2012-10-16T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/10/16/muse-intro" />
+    <title type="text">Collaboration, Queer Art, and a Multi-Media Novel</title>
+    <id>http://andmeyer.com/2012/10/01/bww-interview</id>
+    <updated>2012-10-01T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/10/01/bww-interview" />
     <author>
       <name>Eric A. Meyer</name>
     </author>
-    <content type="html">&lt;p&gt;I was planning to spend this month
-teaching &lt;a class="reference external" href="http://eric.andmeyer.com/2012/08/30/fuck-the-muse"&gt;a class&lt;/a&gt; for the
-&lt;a class="reference external" href="http://www.boulderwritersworkshop.org/"&gt;Boulder Writers' Workshop&lt;/a&gt;.
-That garnered some interest,
-but didn't pan out in the end.
-Instead, I'm going to explore the same themes right here
-in a six-part &lt;em&gt;Fuck the Muse&lt;/em&gt; blog &lt;a class="reference external" href="http://www.imdb.com/title/tt0088727/"&gt;mini-series&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The goal is simple:&lt;/p&gt;
+    <content type="html">&lt;p&gt;The &lt;a class="reference external" href="http://www.boulderwritersworkshop.org/"&gt;Boulder Writers&amp;#8217; Workshop&lt;/a&gt;
+ran this &lt;a class="reference external" href="http://www.boulderwritersworkshop.org/2012/08/31/eric-meyer-discusses-collaboration-queer-art-and-his-multi-media-novel/"&gt;interview with me&lt;/a&gt;
+at the end of&amp;nbsp;August.&lt;/p&gt;
+&lt;p&gt;Here&amp;#8217;s a bit
+regarding my &lt;a class="reference external" href="http://www.boulderwritersworkshop.org/writing-workshops-classes-events/event-registration/?ee=28"&gt;upcoming class&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-Take control of your art
-by focusing on the process of creation.&lt;/blockquote&gt;
-&lt;p&gt;I've been told that you can't teach creativity, but I disagree.
-We think of creativity as sudden, sexy, inexplicable moments of inspiration —
-ignoring the hard work that makes those moments possible.
-I can't teach you how to be inspired,
-but I can teach you how to hunt down inspiration,
-kill it, and tan the hide.&lt;/p&gt;
-&lt;div class="section" id="the-art-of-control"&gt;
-&lt;h2&gt;The Art of Control&lt;/h2&gt;
-&lt;p&gt;Taking control of your art isn't a matter of brute force.
-You have to let go, explore, take risks, and throw yourself off-balance.
-A good process will give you that freedom,
-while nudging you in the right direction.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;strong&gt;Ease the burden of originality.&lt;/strong&gt;
-The pressure to be unique and interesting can paralyze you.
-Don't try to be interesting.
-Set up the conditions,
-and make sure you capture the results.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Do the unthinkable.&lt;/strong&gt;
-The only way to create something beyond imagining
-is to explore outside your own imagination.
-Let the process take you there.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Make informed decisions.&lt;/strong&gt;
-Stepping back from the work allows you to see it more clearly.
-Once you have all the options in front of you,
-you can see what works and what doesn't.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Put your strengths (and weaknesses) to use.&lt;/strong&gt;
-Measure your skills against each step of the process.
-Learn what you can count on,
-where you need training or practice,
-and how to turn your flaws into assets along the way.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="class-overview"&gt;
-&lt;h2&gt;Class Overview&lt;/h2&gt;
-&lt;p&gt;I break the creative process down into five major steps.
-We'll look at each one in it's own post:&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;Define the Seed: &lt;em&gt;What's the idea, question, or hypothesis?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Explore: &lt;em&gt;Reasearch, gather, and create the materials.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Organize: &lt;em&gt;Outline the structure, or impose one.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Draft: &lt;em&gt;Compile a complete first draft.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Revise: &lt;em&gt;Consider, critique, and edit as needed.&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;There's more than one way to skin the walrus,
-and each project will call for unique adjustments,
-but the same basic tools are needed to create genre fiction,
-absurdest drama,
-lyric poetry,
-or conceptual installation art.&lt;/p&gt;
-&lt;p&gt;This isn't paint-by-numbers —
-it's a toolkit and a way of thinking.
-What you do with it is up to you.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="credit-where-due"&gt;
-&lt;h2&gt;Credit Where Due&lt;/h2&gt;
-&lt;p&gt;My approach is influenced most heavily by
-Anne Bogart's &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Viewpoints"&gt;Viewpoints&lt;/a&gt;,
-Chuck Mee's &lt;a class="reference external" href="http://www.charlesmee.org/indexf.html"&gt;(re)making project&lt;/a&gt;,
-&lt;a class="reference external" href="http://lida.org/"&gt;The LIDA Project&lt;/a&gt;'s &amp;quot;bucketing&amp;quot;,
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Lean_manufacturing"&gt;Lean&lt;/a&gt; and &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Agile_software_development"&gt;Agile&lt;/a&gt; web development,
-standard graphic design processes,
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Scientific_method"&gt;scientific method&lt;/a&gt;,
-&lt;a class="reference external" href="http://www.austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/"&gt;Steal Like An Artist&lt;/a&gt; by Austin Kleon,
-&lt;a class="reference external" href="http://www.everythingisaremix.info/"&gt;Everything is a Remix&lt;/a&gt; by Kirby Ferguson,
-Don Fry's &lt;a class="reference external" href="http://donfry.wordpress.com/"&gt;Writing Your Way&lt;/a&gt;,
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Queer_theory"&gt;queer theory&lt;/a&gt;,
-and many years of working with ensemble theatres and bands.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-mini-series"&gt;
-&lt;h2&gt;The Mini-Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series [intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Fuck the Muse: Grab Your Writing by the Nasty Bits</title>
-    <id>http://andmeyer.com/2012/08/30/fuck-the-muse</id>
-    <updated>2012-08-30T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/08/30/fuck-the-muse" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;The &lt;a class="reference external" href="http://www.boulderwritersworkshop.org/"&gt;Boulder Writer's Workshop&lt;/a&gt;
-has invited me to teach a class
-on writing, creative process,
-and multimedia collaboration,
-from a queer perspective.
-Here's what I came up with:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Do you ever feel like writing is a mysterious dark magic,
-and you are a diviner channeling the ancient muse onto a blank page?
-What do you do when the fickle bastard evaporates,
-leaving only clichés and a nasty stain on your pillow?&lt;/p&gt;
-&lt;p&gt;Take control of your writing.
-Start questioning your assumptions
-about what is or isn’t possible with the art.
-Build a toolkit you can trust to guide you past the fatal mindbog
-of blocks, habits, and hangups.&lt;/p&gt;
-&lt;p&gt;With an understanding of creative process,
-influence from other disciplines,
-the lessons of post-structuralist queer theory,
-and a sprinkle of pixie-stick sugar,
-we can banish the paralyzing muse-delusion once and for all.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class="caps"&gt;BWW&lt;/span&gt;:&lt;/strong&gt; Your upcoming workshop titled,
+“F*ck the Muse: Grab Your Writing by the Nasty Bits,”
+sounds like instruction in hand-to-hand combat techniques.
+Are you going to show writers how to attack the muse,
+rather than surrender to where she may, or may not, take&amp;nbsp;them?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class="caps"&gt;EM&lt;/span&gt;:&lt;/strong&gt; It’s hand-to-hand-combat,
+but it’s also foreplay,
+late night conversations,
+passionate love-making,
+silent hand-holding,
+and occasional slapstick misunderstandings.
+What’s important is that you participate as an&amp;nbsp;equal.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I can't wait to start.
-We'll be working with techniques
-from business, design, theatre, music, and more.
-Anything to take control of the process
-and push our art as far as it will go.
-These aren't one-size-fits-all solutions,
-but a large enough toolkit will go a long way.&lt;/p&gt;
-&lt;div class="section" id="the-details"&gt;
-&lt;h2&gt;The Details:&lt;/h2&gt;
+&lt;p&gt;Don&amp;#8217;t let the muse stick you in a rut.
+Take control of your&amp;nbsp;art.&lt;/p&gt;
+&lt;div class="section" id="fuck-the-muse"&gt;
+&lt;h2&gt;Fuck the&amp;nbsp;Muse&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Wednesdays from 7-9pm, Oct 10 - Nov 14.&lt;/li&gt;
-&lt;li&gt;Laundry on Lawrence, 27th and Lawrence, Denver.&lt;/li&gt;
-&lt;li&gt;$205 Professional Members | $240 General Admission.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wednesdays&lt;/strong&gt;, Oct 10 - Nov 14,&amp;nbsp;7-9pm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Laundry on Lawrence&lt;/strong&gt;, &lt;a class="reference external" href="http://goo.gl/maps/Q61rD"&gt;2701 Lawrence St.,&amp;nbsp;Denver&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;It's going to be a blast.
-Bring a project you want help on,
-or play it by ear.
-We'll help you out with any project
-in any genre/medium.
-&lt;a class="reference external" href="http://www.boulderwritersworkshop.org/writing-workshops-classes-events/event-registration/?ee=28"&gt;Register now&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Class starts next Wednesday,
+and there are only a few spots left.
+Don&amp;#8217;t miss it,
+&lt;a class="reference external" href="http://www.eventbrite.com/event/4234481448?ref=ecal"&gt;sign up now&lt;/a&gt;!&lt;/p&gt;
 &lt;/div&gt;
 </content>
   </entry>
   <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Get Curious [Part 1]</title>
-    <id>http://andmeyer.com/2013/02/07/get-curious</id>
-    <updated>2013-02-07T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2013/02/07/get-curious" />
+    <title type="text">Electronic Literature and the Nonhuman</title>
+    <id>http://andmeyer.com/2012/09/27/slsa2012</id>
+    <updated>2012-09-27T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/09/27/slsa2012" />
     <author>
       <name>Eric A. Meyer</name>
     </author>
-    <content type="html">&lt;p&gt;Now that you have &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;a seed worth exploring&lt;/a&gt;,
-you are ready for step 2 of the creative process.
-The goal of this phase is explosive growth,
-following your curiosity out from the seed in every direction.&lt;/p&gt;
-&lt;p&gt;You've heard of the &lt;a class="reference external" href="http://www.humnet.ucla.edu/humnet/english/wwwroot2/ta/hyperteach/pdfs/shitty.pdf"&gt;shitty first draft&lt;/a&gt;?
-It's a nice sentiment,
-writing full shitty drafts without fear or judgment,
-but I think you can do even better:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Write shitty piles of shit,
-and leave the drafting for later.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/curious/bullshit.jpg" alt=""/&gt;
-  &lt;figcaption&gt;
-  I often refer to this as the fertilizer or "bullshit" stage.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Drafting is an organizational problem.
-You can't organize ideas you don't have.
-Start by exploring and playing and wondering,
-free from fear and judgment,
-but also free from purpose, organization, and planning.&lt;/p&gt;
-&lt;p&gt;Don't start with outlines.
-Don't start with drafts.
-Start with curiosity.&lt;/p&gt;
-&lt;div class="section" id="a-shitty-shopping-list"&gt;
-&lt;h2&gt;A Shitty Shopping List&lt;/h2&gt;
-&lt;p&gt;Our goal is to develop all the raw (shitty) materials
-we will need in order to start drafting.
-I'm not talking about pen &amp;amp; paper,
-or computers,
-or three cans of latex paint.
-I want to know what concepts, phrases,
-images, and aesthetics I am working with.
-I want to soak up inspirations,
-and understand my constraints.&lt;/p&gt;
-&lt;p&gt;I start with three questions:&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;What already exists?&lt;/li&gt;
-&lt;li&gt;What still needs to be gathered or created?&lt;/li&gt;
-&lt;li&gt;What will inspire me?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Working on the &lt;a class="reference external" href="/2013/01/22/contour/"&gt;book cover&lt;/a&gt; for &lt;a class="reference external" href="http://www.springgunpress.com/posture"&gt;The Posture of Contour&lt;/a&gt;,
-I asked the publishers and author for everything they had.
-Based on their answers, I ended up with these lists:&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/contour/final.png" alt=""/&gt;
-  &lt;figcaption&gt;
-  Final cover design for &lt;em&gt;The Posture of Contour&lt;/em&gt;.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What already exists?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Dimensions: 5.5&amp;quot; x 8.5&amp;quot;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.springgunpress.com/"&gt;SpringGun Press&lt;/a&gt; wordmarks&lt;/li&gt;
-&lt;li&gt;ISBN &amp;amp; bar code (on white background)&lt;/li&gt;
-&lt;li&gt;Title: The Posture of Contour&lt;/li&gt;
-&lt;li&gt;Subtitle: A Public Primer&lt;/li&gt;
-&lt;li&gt;Author: James Belflower&lt;/li&gt;
-&lt;li&gt;The content of the book itself&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What still needs to be gathered or created?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Color palette&lt;/li&gt;
-&lt;li&gt;Artwork&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What will inspire me?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Diagrams, schematics, &amp;amp; maps&lt;/li&gt;
-&lt;li&gt;Processes of abstraction &amp;amp; representation&lt;/li&gt;
-&lt;li&gt;Mouths, hands, &amp;amp; black spots&lt;/li&gt;
-&lt;li&gt;Collage&lt;/li&gt;
-&lt;li&gt;Cover art for &amp;quot;&lt;a class="reference external" href="http://www.fenceportal.org/?page_id=422"&gt;Network&lt;/a&gt;&amp;quot; by Jena Osman&lt;/li&gt;
-&lt;li&gt;Richard Serra drawings&lt;/li&gt;
-&lt;li&gt;Franz Kline&lt;/li&gt;
-&lt;li&gt;Paul Sharits colors&lt;/li&gt;
-&lt;li&gt;Stan Brakhage &amp;amp; Joan Miro&lt;/li&gt;
-&lt;li&gt;&amp;quot;The line between language and graphic&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;They had done most of my work for me.
-That's not always the case,
-but if you have a seed,
-you have enough to get started.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="sparking-curiosity"&gt;
-&lt;h2&gt;Sparking Curiosity&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/curious/bodies.jpg" alt=""/&gt;
-  &lt;figcaption&gt;
-  Bodies. A diagram.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;seed I developed in phase 1&lt;/a&gt;
-can be used directly to start a list of materials
-in phase 2. Unlike the cover art,
-this project has no pre-existing material that I am required to use.
-Most of the material will have to be found or created,
-but I do have plenty of inspiration to draw from:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What already exists?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Format: a stack of note cards that can be shuffled&lt;/li&gt;
-&lt;li&gt;Some collaborative poems with Jacob Liechty that might fit&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What do I still need?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;A writing style&lt;/li&gt;
-&lt;li&gt;Characters? Story?&lt;/li&gt;
-&lt;li&gt;Specific memories&lt;/li&gt;
-&lt;li&gt;More on trauma (ptsd, etc)&lt;/li&gt;
-&lt;li&gt;More on bodies (eating disorders, etc)&lt;/li&gt;
-&lt;li&gt;Other voices&lt;/li&gt;
-&lt;li&gt;more?...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What's the inspiration?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&amp;quot;The Invention of Heterosexuality&amp;quot;&lt;/li&gt;
-&lt;li&gt;Research on out-of-body experiences&lt;/li&gt;
-&lt;li&gt;Bodies &amp;amp; identity&lt;/li&gt;
-&lt;li&gt;Sex, gender, &amp;amp; sexuality&lt;/li&gt;
-&lt;li&gt;Memory &amp;amp; trauma&lt;/li&gt;
-&lt;li&gt;Hermaphroditus, Mother Clapp, &amp;amp; Molly Houses&lt;/li&gt;
-&lt;li&gt;Jacob Liechty, Tom Waits, &amp;amp; Lou Reed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;It's OK that this list isn't complete,
-it's enough to make me curious,
-and enough to point me in the right direction.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="coming-soon"&gt;
-&lt;h2&gt;Coming Soon&lt;/h2&gt;
-&lt;p&gt;In the next few posts we'll talk about
-gathering vs creating,
-blind variation and selective retention,
-judgmental brainstorming,
-the viewpoints, and composition —
-all useful tools for this explosive curiosity phase.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-mini-series"&gt;
-&lt;h2&gt;The Mini-Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series [intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a Seed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get Curious&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Lori DeBoer on Self Doubt</title>
-    <id>http://andmeyer.com/2012/08/14/lori-deboer-self-doubt</id>
-    <updated>2012-08-14T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/08/14/lori-deboer-self-doubt" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a class="reference external" href="http://www.lorideboer.com/"&gt;Lori DeBoer&lt;/a&gt; is a very smart person.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I&amp;#8217;ll be in &lt;a class="reference external" href="http://goo.gl/maps/MZW3g"&gt;Milwaukee&lt;/a&gt; this weekend
+for a brief appearance at
+&lt;a class="reference external" href="http://www.litsciarts.org/slsa12/"&gt;&lt;span class="caps"&gt;SLSA&lt;/span&gt; 2012&lt;/a&gt;.
+The &lt;a class="reference external" href="http://eliterature.org/electronic-literature-the-nonhuman/"&gt;&lt;span class="caps"&gt;ELO&lt;/span&gt;&lt;/a&gt; is hosting a jurried elit event,
+and accepted my &lt;a class="reference external" href="http://ericam.github.com/post-obsolete"&gt;submission&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;What has changed in my years of writing
-is that I’ve come to regard the state of self-doubt as normal.&lt;/p&gt;
-&lt;p&gt;The trick to dispel doubts? Write anyway.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Or, as &lt;a class="reference external" href="http://www.chickpeasandhulahoops.com/blog/?author=2"&gt;Megan Sumner&lt;/a&gt; said last night
-after asking &lt;a class="reference external" href="http://thebloggess.com/"&gt;The Bloggess&lt;/a&gt; a similar question:&lt;/p&gt;
+We found the piece to be fun and entertaining,
+but it also contains an argument that is worth considering
+(and not just from a technical perspective).
+The idea of objective forms dying and becoming immortal
+is an interesting way to think about obsolete forms.
+Against the backdrop of the death of the book,
+the question of how to write seems as alive and well as it ever has.
+This piece highlights that in a clever way.&lt;/blockquote&gt;
+&lt;p&gt;Thank you, &lt;span class="caps"&gt;ELO&lt;/span&gt;/&lt;span class="caps"&gt;SLSA&lt;/span&gt;&amp;nbsp;jury.&lt;/p&gt;
+&lt;div class="section" id="the-obsolete-book-in-a-post-obsolete-world"&gt;
+&lt;h2&gt;The Obsolete Book in a Post-Obsolete&amp;nbsp;World&lt;/h2&gt;
+&lt;p&gt;My text is &lt;a class="reference external" href="http://ericam.github.com/post-obsolete"&gt;available online&lt;/a&gt;,
+but the performance includes text-to-speech voice-over,
+&lt;a class="reference external" href="http://michelleellsworth.com/"&gt;Michelle Ellsworth&lt;/a&gt; dancing,
+transparencies,
+party hats,
+diagrams,
+whiskey,
+powerpoint handouts,
+music by &lt;a class="reference external" href="http://www.myspace.com/widowsbane"&gt;The Widow&amp;#8217;s Bane&lt;/a&gt;,
+one human,
+and one post-obsolete&amp;nbsp;book.&lt;/p&gt;
+&lt;p&gt;Mortimer Leech of Widow&amp;#8217;s Bane
+was gracious about my&amp;nbsp;theft:&lt;/p&gt;
 &lt;blockquote&gt;
-Pretend you're really good at it.&lt;/blockquote&gt;
-&lt;p&gt;More from Lori:&lt;/p&gt;
-&lt;blockquote&gt;
-When you train your brain to write
-by making room in your day for doing so regularly,
-you dispel doubt’s strength.
-You become attuned to the process as much as the outcome.
-Cultivating creativity as a habit
-turns writing into a ritual that is comforting.
-You begin to write for yourself,
-not as a way to meet other people’s expectations,
-and you become more confident in your own set of experiences
-and ability to turn out a piece worth reading.&lt;/blockquote&gt;
+Follow your bliss, Eric.
+Take no prisoners.
+We&amp;#8217;re already dead.
+What the fuck do we want with money?&lt;/blockquote&gt;
+&lt;p&gt;Thank you Mr.&amp;nbsp;Leech.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="electronic-literature-the-nonhuman"&gt;
+&lt;h2&gt;Electronic Literature &lt;span class="amp"&gt;&amp;&lt;/span&gt; the&amp;nbsp;Nonhuman&lt;/h2&gt;
+&lt;p&gt;Saturday, September 29th, 5-7pm |
+201C of the Frontier Airlines Center |
+Society for Literature, Science, and the Arts 2012&amp;nbsp;Conference&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ll be performing along with &lt;a class="reference external" href="http://markcmarino.com"&gt;Mark Marino&lt;/a&gt;
+(who is a fantastic human)
+and many others I can&amp;#8217;t wait to meet.
+Maybe they&amp;#8217;re humans too! Who can&amp;nbsp;say?&lt;/p&gt;
+&lt;/div&gt;
 </content>
   </entry>
 </feed>

@@ -8,6 +8,77 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Poetry Doesn't Matter (but you should)</title>
+    <id>http://andmeyer.com/2012/08/02/poetry-doesnt-matter</id>
+    <updated>2012-08-02T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/08/02/poetry-doesnt-matter" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;Theatres are concerned about the lack of audience.
+Poets are concerned about their lack of audience.
+Classical musicians are concerned.
+Dance companies are concerned.
+Every one is filled with concern for the &amp;#8220;survival&amp;#8221;
+of their&amp;nbsp;medium.&lt;/p&gt;
+&lt;p&gt;Yesterday I ran across &amp;#8220;&lt;a class="reference external" href="http://www.theatlantic.com/magazine/archive/1991/05/can-poetry-matter/5062/"&gt;Can Poetry Matter?&lt;/a&gt;&amp;#8220;,
+an old-but-somewhat-prescient article
+about the dwindling influence of modern poetry,
+circulating again through the&amp;nbsp;community.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s a good article,
+but it&amp;#8217;s the wrong&amp;nbsp;question.&lt;/p&gt;
+&lt;div class="section" id="the-medium-is-irrelevant"&gt;
+&lt;h2&gt;The Medium is&amp;nbsp;Irrelevant&lt;/h2&gt;
+&lt;blockquote&gt;
+The established rituals of the poetry world —
+the readings, small magazines, workshops, and conferences —
+exhibit a surprising number of self-imposed limitations.
+Why, for example, does poetry mix so seldom with music, dance, or theater?&lt;/blockquote&gt;
+&lt;p&gt;I don&amp;#8217;t care about poetry.
+A medium is merely a description -
+a reduction used for analysis and&amp;nbsp;critique.&lt;/p&gt;
+&lt;p&gt;Amanda Palmer isn&amp;#8217;t successful because
+&amp;#8220;punk-influenced German-expressionist-cabaret keyboard&amp;#8221; is a hit genre.
+She&amp;#8217;s not riding a wave, she &lt;em&gt;is&lt;/em&gt; the wave.
+There was no market for mp3 players,
+but iPods changed the music industry.
+Lady Gaga is peddling experimental performance art,
+but you&amp;#8217;ll never hear her say&amp;nbsp;it.&lt;/p&gt;
+&lt;p&gt;Only poets buy &amp;#8220;poetry&amp;#8221; -
+everyone else is buying the experience it provides.
+Stop selling the &lt;em&gt;what&lt;/em&gt;,
+and start selling the &lt;em&gt;why&lt;/em&gt;.
+Sell your aesthetic vision for the world
+and experiences that can never be&amp;nbsp;forgotten.&lt;/p&gt;
+&lt;p&gt;Don&amp;#8217;t argue that poetry should matter.
+Prove that &lt;em&gt;you&lt;/em&gt;&amp;nbsp;matter.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="finding-an-audience-is-your-job"&gt;
+&lt;h2&gt;Finding an Audience is Your&amp;nbsp;Job&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Like subsidized farming that grows food no one wants,
+a poetry industry has been created
+to serve the interests of the producers and not the&amp;nbsp;consumers.&lt;/p&gt;
+&lt;p&gt;&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Poets must recapture the attention of the broader intellectual community
+by writing for nonspecialist publications.
+They must also avoid the jargon of contemporary academic criticism
+and write in a public&amp;nbsp;idiom.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;My audience will not search me out.
+They are not waiting patiently for my next move.
+If they look at my work and don&amp;#8217;t see a way in,
+they will turn around and&amp;nbsp;leave.&lt;/p&gt;
+&lt;p&gt;The concern for &amp;#8220;poetry&amp;#8221;
+is a nostalgic yearning for a ready-made audience.
+Let it die.
+We can do better with the audience that we build for&amp;nbsp;ourselves.&lt;/p&gt;
+&lt;p&gt;This isn&amp;#8217;t a problem,
+this is an&amp;nbsp;opportunity.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">Oddities and Curious Lands</title>
     <id>http://andmeyer.com/2012/07/24/arcticacre-oddities</id>
     <updated>2012-07-24T00:00:00Z</updated>
@@ -19,7 +90,7 @@
 there are some things you should be doing
 on the internet.
 Several of those things were made by
-&lt;a class="reference external" href="http://www.secrettechnology.com/"&gt;Jason Nelson&lt;/a&gt;.&lt;/p&gt;
+&lt;a class="reference external" href="http://www.secrettechnology.com/"&gt;Jason&amp;nbsp;Nelson&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;a href="http://www.arcticacre.com/"&gt;
     &lt;img src="/static/pictures/i-made-this.jpg" alt="ArcticAcre Oddities and Curious Lands" /&gt;
@@ -40,83 +111,12 @@ Several of those things were made by
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;You might start with the &lt;a class="reference external" href="http://www.arcticacre.com/"&gt;games&lt;/a&gt;
-(&amp;quot;i made this, you play this, we are enemies&amp;quot;
+(&amp;#8220;i made this, you play this, we are enemies&amp;#8221;
 shown above),
 then perhaps some
-&amp;quot;&lt;a class="reference external" href="http://www.secrettechnology.com/songs/harmsong1.html"&gt;Stunningly Harmful Songs&lt;/a&gt;...for
-spreading and baffling and loving.&amp;quot;
-You can explore on your own from there.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Poetry Doesn't Matter (but you should)</title>
-    <id>http://andmeyer.com/2012/08/02/poetry-doesnt-matter</id>
-    <updated>2012-08-02T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/08/02/poetry-doesnt-matter" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;Theatres are concerned about the lack of audience.
-Poets are concerned about their lack of audience.
-Classical musicians are concerned.
-Dance companies are concerned.
-Every one is filled with concern for the &amp;quot;survival&amp;quot;
-of their medium.&lt;/p&gt;
-&lt;p&gt;Yesterday I ran across &amp;quot;&lt;a class="reference external" href="http://www.theatlantic.com/magazine/archive/1991/05/can-poetry-matter/5062/"&gt;Can Poetry Matter?&lt;/a&gt;&amp;quot;,
-an old-but-somewhat-prescient article
-about the dwindling influence of modern poetry,
-circulating again through the community.&lt;/p&gt;
-&lt;p&gt;It's a good article,
-but it's the wrong question.&lt;/p&gt;
-&lt;div class="section" id="the-medium-is-irrelevant"&gt;
-&lt;h2&gt;The Medium is Irrelevant&lt;/h2&gt;
-&lt;blockquote&gt;
-The established rituals of the poetry world —
-the readings, small magazines, workshops, and conferences —
-exhibit a surprising number of self-imposed limitations.
-Why, for example, does poetry mix so seldom with music, dance, or theater?&lt;/blockquote&gt;
-&lt;p&gt;I don't care about poetry.
-A medium is merely a description -
-a reduction used for analysis and critique.&lt;/p&gt;
-&lt;p&gt;Amanda Palmer isn't successful because
-&amp;quot;punk-influenced German-expressionist-cabaret keyboard&amp;quot; is a hit genre.
-She's not riding a wave, she &lt;em&gt;is&lt;/em&gt; the wave.
-There was no market for mp3 players,
-but iPods changed the music industry.
-Lady Gaga is peddling experimental performance art,
-but you'll never hear her say it.&lt;/p&gt;
-&lt;p&gt;Only poets buy &amp;quot;poetry&amp;quot; -
-everyone else is buying the experience it provides.
-Stop selling the &lt;em&gt;what&lt;/em&gt;,
-and start selling the &lt;em&gt;why&lt;/em&gt;.
-Sell your aesthetic vision for the world
-and experiences that can never be forgotten.&lt;/p&gt;
-&lt;p&gt;Don't argue that poetry should matter.
-Prove that &lt;em&gt;you&lt;/em&gt; matter.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="finding-an-audience-is-your-job"&gt;
-&lt;h2&gt;Finding an Audience is Your Job&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Like subsidized farming that grows food no one wants,
-a poetry industry has been created
-to serve the interests of the producers and not the consumers.&lt;/p&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;p&gt;Poets must recapture the attention of the broader intellectual community
-by writing for nonspecialist publications.
-They must also avoid the jargon of contemporary academic criticism
-and write in a public idiom.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;My audience will not search me out.
-They are not waiting patiently for my next move.
-If they look at my work and don't see a way in,
-they will turn around and leave.&lt;/p&gt;
-&lt;p&gt;The concern for &amp;quot;poetry&amp;quot;
-is a nostalgic yearning for a ready-made audience.
-Let it die.
-We can do better with the audience that we build for ourselves.&lt;/p&gt;
-&lt;p&gt;This isn't a problem,
-this is an opportunity.&lt;/p&gt;
-&lt;/div&gt;
+&amp;#8220;&lt;a class="reference external" href="http://www.secrettechnology.com/songs/harmsong1.html"&gt;Stunningly Harmful Songs&lt;/a&gt;&amp;#8230;for
+spreading and baffling and loving.&amp;#8221;
+You can explore on your own from&amp;nbsp;there.&lt;/p&gt;
 </content>
   </entry>
 </feed>

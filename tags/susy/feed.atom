@@ -8,6 +8,40 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Susy 1.0 Release</title>
+    <id>http://andmeyer.com/2012/08/14/susy-1-0</id>
+    <updated>2012-08-14T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/08/14/susy-1-0" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;Susy 1.0 has officially&amp;nbsp;launched!&lt;/p&gt;
+&lt;p&gt;Thanks to everyone who contributed,
+including
+&lt;a class="reference external" href="https://github.com/dannyprose"&gt;Danny Palmer&lt;/a&gt;,
+&lt;a class="reference external" href="https://github.com/silvenon"&gt;Matija Marohnić&lt;/a&gt;,
+&lt;a class="reference external" href="https://github.com/danielbayerlein"&gt;Daniel Bayerlein&lt;/a&gt;,
+&lt;a class="reference external" href="https://github.com/jina"&gt;Jina Bolton&lt;/a&gt;,
+&lt;a class="reference external" href="https://github.com/tbredin"&gt;Thomas bredin-Grey&lt;/a&gt;,
+and &lt;a class="reference external" href="https://github.com/Snugug"&gt;Sam Richard&lt;/a&gt;.
+Thanks also to the &lt;a class="reference external" href="http://sass-lang.com/"&gt;Sass&lt;/a&gt; and &lt;a class="reference external" href="http://compass-style.org/"&gt;Compass&lt;/a&gt; teams
+for building the tools that make it&amp;nbsp;possible.&lt;/p&gt;
+&lt;p&gt;This release is loaded with new features,
+but don&amp;#8217;t let that fool you.
+Susy has become shockingly simple to use.
+See the &lt;a class="reference external" href="http://susy.oddbird.net/"&gt;website&lt;/a&gt; for more details and&amp;nbsp;demonstrations.&lt;/p&gt;
+&lt;p&gt;The interface and syntax have been simplified
+so that the language is consistent and easy to understand.
+We cleaned up the output,
+taking into account Compass browser-support settings,
+and giving you more control over exactly how your grids are built.
+Then we added a load of responsive tools
+and optional new settings
+to make Susy as absolutely flexible as&amp;nbsp;possible.&lt;/p&gt;
+&lt;p&gt;Happy&amp;nbsp;coding!&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">Off-canvas design with Susy</title>
     <id>http://andmeyer.com/2012/07/25/susy-off-canvas</id>
     <updated>2012-07-25T00:00:00Z</updated>
@@ -18,23 +52,23 @@
     <content type="html">&lt;p&gt;The &lt;a class="reference external" href="http://jasonweaver.name/lab/offcanvas/"&gt;off-canvas&lt;/a&gt; design pattern
 for creating responsive websites
 has been getting all the attention lately,
-and I've had several people ask
-how Susy might play along.&lt;/p&gt;
+and I&amp;#8217;ve had several people ask
+how Susy might play&amp;nbsp;along.&lt;/p&gt;
 &lt;p&gt;The truth is,
 off-canvas design is as simple with Susy
 as any other design pattern.
 All you need to do
 is pull some of your columns off the screen.
-It's that simple.&lt;/p&gt;
-&lt;p&gt;I've thrown together a very &lt;a class="reference external" href="/demos/susy-off-canvas/"&gt;rough demo&lt;/a&gt;
-that only shows Susy's part of the equation.
-You still need to add JS interaction
-and no-js fallbacks.&lt;/p&gt;
-&lt;p&gt;If anyone wants to take what I've done,
+It&amp;#8217;s that&amp;nbsp;simple.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve thrown together a very &lt;a class="reference external" href="/demos/susy-off-canvas/"&gt;rough demo&lt;/a&gt;
+that only shows Susy&amp;#8217;s part of the equation.
+You still need to add &lt;span class="caps"&gt;JS&lt;/span&gt; interaction
+and no-js&amp;nbsp;fallbacks.&lt;/p&gt;
+&lt;p&gt;If anyone wants to take what I&amp;#8217;ve done,
 and flesh it out,
-I would be glad to pull that in.&lt;/p&gt;
+I would be glad to pull that&amp;nbsp;in.&lt;/p&gt;
 &lt;div class="section" id="simple-markup"&gt;
-&lt;h2&gt;Simple Markup:&lt;/h2&gt;
+&lt;h2&gt;Simple&amp;nbsp;Markup:&lt;/h2&gt;
 &lt;pre class="code html literal-block"&gt;
 &lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;container&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
   &lt;span class="nt"&gt;&amp;lt;header&amp;gt;&lt;/span&gt;header&lt;span class="nt"&gt;&amp;lt;/header&amp;gt;&lt;/span&gt;
@@ -46,7 +80,7 @@ I would be glad to pull that in.&lt;/p&gt;
 &lt;/pre&gt;
 &lt;/div&gt;
 &lt;div class="section" id="the-susy-sass-part"&gt;
-&lt;h2&gt;The Susy/Sass Part:&lt;/h2&gt;
+&lt;h2&gt;The Susy/Sass&amp;nbsp;Part:&lt;/h2&gt;
 &lt;pre class="code scss literal-block"&gt;
 &lt;span class="k"&gt;&amp;#64;import&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;compass&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
 &lt;span class="k"&gt;&amp;#64;import&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;susy&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
@@ -171,40 +205,6 @@ I would be glad to pull that in.&lt;/p&gt;
 &lt;span class="p"&gt;}&lt;/span&gt;
 &lt;/pre&gt;
 &lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Susy 1.0 Release</title>
-    <id>http://andmeyer.com/2012/08/14/susy-1-0</id>
-    <updated>2012-08-14T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/08/14/susy-1-0" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;Susy 1.0 has officially launched!&lt;/p&gt;
-&lt;p&gt;Thanks to everyone who contributed,
-including
-&lt;a class="reference external" href="https://github.com/dannyprose"&gt;Danny Palmer&lt;/a&gt;,
-&lt;a class="reference external" href="https://github.com/silvenon"&gt;Matija Marohnić&lt;/a&gt;,
-&lt;a class="reference external" href="https://github.com/danielbayerlein"&gt;Daniel Bayerlein&lt;/a&gt;,
-&lt;a class="reference external" href="https://github.com/jina"&gt;Jina Bolton&lt;/a&gt;,
-&lt;a class="reference external" href="https://github.com/tbredin"&gt;Thomas bredin-Grey&lt;/a&gt;,
-and &lt;a class="reference external" href="https://github.com/Snugug"&gt;Sam Richard&lt;/a&gt;.
-Thanks also to the &lt;a class="reference external" href="http://sass-lang.com/"&gt;Sass&lt;/a&gt; and &lt;a class="reference external" href="http://compass-style.org/"&gt;Compass&lt;/a&gt; teams
-for building the tools that make it possible.&lt;/p&gt;
-&lt;p&gt;This release is loaded with new features,
-but don't let that fool you.
-Susy has become shockingly simple to use.
-See the &lt;a class="reference external" href="http://susy.oddbird.net/"&gt;website&lt;/a&gt; for more details and demonstrations.&lt;/p&gt;
-&lt;p&gt;The interface and syntax have been simplified
-so that the language is consistent and easy to understand.
-We cleaned up the output,
-taking into account Compass browser-support settings,
-and giving you more control over exactly how your grids are built.
-Then we added a load of responsive tools
-and optional new settings
-to make Susy as absolutely flexible as possible.&lt;/p&gt;
-&lt;p&gt;Happy coding!&lt;/p&gt;
 </content>
   </entry>
 </feed>

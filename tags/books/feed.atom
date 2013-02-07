@@ -8,43 +8,6 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Birthday Books</title>
-    <id>http://andmeyer.com/2012/07/27/birthday-books</id>
-    <updated>2012-07-27T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/07/27/birthday-books" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;My birthday was on Tuesday,
-and I received several fantastic books
-from fantastic friends.&lt;/p&gt;
-&lt;p&gt;Julie gave me
-&amp;quot;&lt;a class="reference external" href="http://www.nationalbook.org/nba2010_p_hayes.html#.UBMW_kQ2Y6w"&gt;Lighthead&lt;/a&gt;&amp;quot;
-by &lt;a class="reference external" href="http://www.poets.org/poet.php/prmPID/437"&gt;Terrance Hayes&lt;/a&gt;.
-&lt;a class="reference external" href="http://www.toiderricotte.com/"&gt;Toi Derricotte&lt;/a&gt; had introduced us
-to this book during the
-&lt;a class="reference external" href="http://www.naropa.edu/academics/jks/summer-writing-program/"&gt;Naropa Summer Writing Program&lt;/a&gt;,
-and I can't wait to dive in.&lt;/p&gt;
-&lt;p&gt;&lt;figure id="bday-1"&gt;
-  &lt;img src="/static/pictures/lighthead.jpg" alt="Lighthead, by Terrance Hayes." /&gt;
-  &lt;figcaption&gt;
-    "It was the night I embraced Ron's wife a bit too long /
-    because he'd refused to kiss me goodbye /
-    that I realized the essential nature of sound."
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;I also received
-&amp;quot;The Use of Pleasure&amp;quot;
-by Michel Foucault,
-&amp;quot;Perdido Street Station&amp;quot;
-by China Miéville,
-and my second copy of
-&amp;quot;Steel Like an Artist&amp;quot;
-by &lt;a class="reference external" href="http://www.austinkleon.com/"&gt;Austin Kleon&lt;/a&gt;.
-Now I have an extra copy to loan out!&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">The Contours of Book Design</title>
     <id>http://andmeyer.com/2013/01/22/contour</id>
     <updated>2013-01-22T00:00:00Z</updated>
@@ -57,7 +20,7 @@ to design cover art
 for &lt;em&gt;The Posture of Contour&lt;/em&gt;,
 a new book by &lt;a class="reference external" href="http://www.pw.org/content/james_belflower"&gt;James Belflower&lt;/a&gt;.
 I used the opportunity to get my mind out of an all-digital space,
-and spent most of my time with pen, paper, and oil pastel.&lt;/p&gt;
+and spent most of my time with pen, paper, and oil&amp;nbsp;pastel.&lt;/p&gt;
 &lt;div class="section" id="sketches"&gt;
 &lt;h2&gt;Sketches&lt;/h2&gt;
 &lt;p&gt;&lt;figure class="gallery"&gt;
@@ -80,10 +43,10 @@ and spent most of my time with pen, paper, and oil pastel.&lt;/p&gt;
 &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Blind_contour_drawing"&gt;blind contours&lt;/a&gt; with a capped pen
 over homemade (oil-pastel) carbon paper,
 then arrows traced on a third layer
-using my iPad as a light table.&lt;/p&gt;
+using my iPad as a light&amp;nbsp;table.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="final-ish-design"&gt;
-&lt;h2&gt;Final(ish) Design&lt;/h2&gt;
+&lt;h2&gt;Final(ish)&amp;nbsp;Design&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;img src="/static/pictures/contour/final.png" alt=""&gt;
   &lt;figcaption&gt;
@@ -91,6 +54,43 @@ using my iPad as a light table.&lt;/p&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Birthday Books</title>
+    <id>http://andmeyer.com/2012/07/27/birthday-books</id>
+    <updated>2012-07-27T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/07/27/birthday-books" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;My birthday was on Tuesday,
+and I received several fantastic books
+from fantastic&amp;nbsp;friends.&lt;/p&gt;
+&lt;p&gt;Julie gave me
+&amp;#8220;&lt;a class="reference external" href="http://www.nationalbook.org/nba2010_p_hayes.html#.UBMW_kQ2Y6w"&gt;Lighthead&lt;/a&gt;&amp;#8221;
+by &lt;a class="reference external" href="http://www.poets.org/poet.php/prmPID/437"&gt;Terrance Hayes&lt;/a&gt;.
+&lt;a class="reference external" href="http://www.toiderricotte.com/"&gt;Toi Derricotte&lt;/a&gt; had introduced us
+to this book during the
+&lt;a class="reference external" href="http://www.naropa.edu/academics/jks/summer-writing-program/"&gt;Naropa Summer Writing Program&lt;/a&gt;,
+and I can&amp;#8217;t wait to dive&amp;nbsp;in.&lt;/p&gt;
+&lt;p&gt;&lt;figure id="bday-1"&gt;
+  &lt;img src="/static/pictures/lighthead.jpg" alt="Lighthead, by Terrance Hayes." /&gt;
+  &lt;figcaption&gt;
+    &amp;#8220;It was the night I embraced Ron&amp;#8217;s wife a bit too long /
+    because he&amp;#8217;d refused to kiss me goodbye /
+    that I realized the essential nature of sound.&amp;#8221;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I also received
+&amp;#8220;The Use of Pleasure&amp;#8221;
+by Michel Foucault,
+&amp;#8220;Perdido Street Station&amp;#8221;
+by China Miéville,
+and my second copy of
+&amp;#8220;Steel Like an Artist&amp;#8221;
+by &lt;a class="reference external" href="http://www.austinkleon.com/"&gt;Austin Kleon&lt;/a&gt;.
+Now I have an extra copy to loan&amp;nbsp;out!&lt;/p&gt;
 </content>
   </entry>
 </feed>

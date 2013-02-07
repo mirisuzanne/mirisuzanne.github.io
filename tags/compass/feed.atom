@@ -15,7 +15,7 @@
     <author>
       <name>Eric A. Meyer</name>
     </author>
-    <content type="html">&lt;p&gt;Susy 1.0 has officially launched!&lt;/p&gt;
+    <content type="html">&lt;p&gt;Susy 1.0 has officially&amp;nbsp;launched!&lt;/p&gt;
 &lt;p&gt;Thanks to everyone who contributed,
 including
 &lt;a class="reference external" href="https://github.com/dannyprose"&gt;Danny Palmer&lt;/a&gt;,
@@ -25,11 +25,11 @@ including
 &lt;a class="reference external" href="https://github.com/tbredin"&gt;Thomas bredin-Grey&lt;/a&gt;,
 and &lt;a class="reference external" href="https://github.com/Snugug"&gt;Sam Richard&lt;/a&gt;.
 Thanks also to the &lt;a class="reference external" href="http://sass-lang.com/"&gt;Sass&lt;/a&gt; and &lt;a class="reference external" href="http://compass-style.org/"&gt;Compass&lt;/a&gt; teams
-for building the tools that make it possible.&lt;/p&gt;
+for building the tools that make it&amp;nbsp;possible.&lt;/p&gt;
 &lt;p&gt;This release is loaded with new features,
-but don't let that fool you.
+but don&amp;#8217;t let that fool you.
 Susy has become shockingly simple to use.
-See the &lt;a class="reference external" href="http://susy.oddbird.net/"&gt;website&lt;/a&gt; for more details and demonstrations.&lt;/p&gt;
+See the &lt;a class="reference external" href="http://susy.oddbird.net/"&gt;website&lt;/a&gt; for more details and&amp;nbsp;demonstrations.&lt;/p&gt;
 &lt;p&gt;The interface and syntax have been simplified
 so that the language is consistent and easy to understand.
 We cleaned up the output,
@@ -37,8 +37,8 @@ taking into account Compass browser-support settings,
 and giving you more control over exactly how your grids are built.
 Then we added a load of responsive tools
 and optional new settings
-to make Susy as absolutely flexible as possible.&lt;/p&gt;
-&lt;p&gt;Happy coding!&lt;/p&gt;
+to make Susy as absolutely flexible as&amp;nbsp;possible.&lt;/p&gt;
+&lt;p&gt;Happy&amp;nbsp;coding!&lt;/p&gt;
 </content>
   </entry>
 </feed>

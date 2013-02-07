@@ -16,26 +16,26 @@
       <name>Eric A. Meyer</name>
     </author>
     <content type="html">&lt;p&gt;The first drafts
-of the &amp;quot;GreenMud Susy&amp;quot; fonts
+of the &amp;#8220;GreenMud Susy&amp;#8221; fonts
 are kerned, complete,
 and roughly &lt;a class="reference external" href="http://greengreenmud.com/"&gt;in place&lt;/a&gt;.
 Susy chapters now use her font,
-JJ chapters use his,
+&lt;span class="caps"&gt;JJ&lt;/span&gt; chapters use his,
 and the remainder is split
-until I flesh out a neutral &amp;quot;narrator&amp;quot; font.&lt;/p&gt;
-&lt;p&gt;Susy's fonts look like this:&lt;/p&gt;
+until I flesh out a neutral &amp;#8220;narrator&amp;#8221;&amp;nbsp;font.&lt;/p&gt;
+&lt;p&gt;Susy&amp;#8217;s fonts look like&amp;nbsp;this:&lt;/p&gt;
 &lt;p&gt;&lt;ol class="susy-fonts"&gt;
   &lt;li class="susyregular"&gt;
     &lt;strong&gt;Susy Regular:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="susybold"&gt;
     &lt;strong&gt;Susy Bold:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="susysc"&gt;
     &lt;strong&gt;Susy SmallCaps:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -56,22 +56,22 @@ until I flesh out a neutral &amp;quot;narrator&amp;quot; font.&lt;/p&gt;
 &lt;figure&gt;
   &lt;img src="/static/pictures/susy-font-bio.jpg" alt=" " /&gt;
   &lt;figcaption&gt;
-    Susy Bold, SmallCaps, and Regular on the "about" page.
+    Susy Bold, SmallCaps, and Regular on the &amp;#8220;about&amp;#8221; page.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;JJ's fonts (created earlier) look like this:&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt;&amp;#8217;s fonts (created earlier) look like&amp;nbsp;this:&lt;/p&gt;
 &lt;p&gt;&lt;ol class="jj-fonts"&gt;
   &lt;li class="jjregular"&gt;
-    &lt;strong&gt;JJ Regular:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    &lt;strong&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt; Regular:&lt;/strong&gt;
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="jjbold"&gt;
-    &lt;strong&gt;JJ Bold:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    &lt;strong&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt; Bold:&lt;/strong&gt;
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="jjitalic"&gt;
-    &lt;strong&gt;JJ Italic:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    &lt;strong&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt; Italic:&lt;/strong&gt;
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
 &lt;/ol&gt;&lt;/p&gt;
 </content>

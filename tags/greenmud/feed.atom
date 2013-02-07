@@ -8,6 +8,96 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Sketchy</title>
+    <id>http://andmeyer.com/2012/11/20/sketchy-couple</id>
+    <updated>2012-11-20T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/11/20/sketchy-couple" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;Last month I posted my first
+&lt;a class="reference external" href="/2012/10/18/saying-thanks/"&gt;GreenMud reward portrait&lt;/a&gt;
+of Kitten Karlyle.
+This weekend I finished the second portrait,
+a joint image of my ongoing collaborators
+Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra&amp;nbsp;Eby.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/portraits/DanSondra-BW.png" alt=""&gt;
+  &lt;figcaption&gt;
+    Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra Eby, a sketchy couple.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Dan &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra are the other 2/3 of &lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup Gorilla&lt;/a&gt;,
+and have been a great help with the novel.
+Sondra has been helping me edit the images,
+while Dan is writing the music.
+In the meantime,
+they have moved downtown
+and started a very exciting art/business venture
+that will be announced very soon.
+I can&amp;#8217;t&amp;nbsp;wait!&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/portraits/DanSondra-Full.png" alt=""&gt;
+  &lt;figcaption&gt;
+    The sketchy couple in full color.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I began this portrait in the same manner
+as the Kitten Karlyle illustration,
+and quickly found that it was the wrong style for these two.
+I made several more stylistic attempts,
+and was unhappy with all of them.
+We call that &amp;#8220;the creative process&amp;#8221;.
+I finally found the style I wanted
+by accidentally viewing all my sketches
+layered on top of each other.
+The rest was just a matter of&amp;nbsp;cleanup.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Saying “Thank You”</title>
+    <id>http://andmeyer.com/2012/10/18/saying-thanks</id>
+    <updated>2012-10-18T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/10/18/saying-thanks" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;I was reminded yesterday,
+while being harassed outside the
+&lt;a class="reference external" href="http://www.plannedparenthoodaction.org/"&gt;Planned Parenthood&lt;/a&gt;
+where a friend of mine works,
+&lt;a class="reference external" href="/why/"&gt;why I do what I do&lt;/a&gt;.
+Not for a distant invisible truth,
+but for the world around me and the people in it.
+You make life wonderful —
+laughing, drinking, sexting, dancing, vomiting, holding hands —
+the whole bloody&amp;nbsp;works.&lt;/p&gt;
+&lt;p&gt;You were always the wind beneath my &lt;em&gt;proverbials&lt;/em&gt;,
+but with the &lt;a class="reference external" href="http://www.rockethub.com/projects/6066-into-the-green-green-mud-multimedia-novel"&gt;GreenMud RocketHub campaign&lt;/a&gt;
+you signed me on to a contract.
+Crowdfunding isn&amp;#8217;t a charity system,
+and I made promises in return for your support.
+One of the rewards
+was a custom illustrated portrait,
+and this week I finished the first&amp;nbsp;one:&lt;/p&gt;
+&lt;p&gt;&lt;figure class="gallery"&gt;
+  &lt;img src="/static/pictures/portraits/Kitten-Icon.png" alt="" /&gt;
+  &lt;img src="/static/pictures/portraits/Kitten-Full.png" alt="" /&gt;
+  &lt;figcaption&gt;
+    Kitten Karlyle, close-up and in full.
+    Follow her sex-positive blog,
+    &lt;a href="http://dirty-words-blog.blogspot.com/"&gt;Dirty Words&lt;/a&gt;.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;One down, twelve to go.
+At the same time,
+I&amp;#8217;m working on the final
+neutral narrator font
+for the frontmatter
+and short interlude&amp;nbsp;chapters.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">A Font Family for Susy</title>
     <id>http://andmeyer.com/2012/10/09/susy-fonts</id>
     <updated>2012-10-09T00:00:00Z</updated>
@@ -16,26 +106,26 @@
       <name>Eric A. Meyer</name>
     </author>
     <content type="html">&lt;p&gt;The first drafts
-of the &amp;quot;GreenMud Susy&amp;quot; fonts
+of the &amp;#8220;GreenMud Susy&amp;#8221; fonts
 are kerned, complete,
 and roughly &lt;a class="reference external" href="http://greengreenmud.com/"&gt;in place&lt;/a&gt;.
 Susy chapters now use her font,
-JJ chapters use his,
+&lt;span class="caps"&gt;JJ&lt;/span&gt; chapters use his,
 and the remainder is split
-until I flesh out a neutral &amp;quot;narrator&amp;quot; font.&lt;/p&gt;
-&lt;p&gt;Susy's fonts look like this:&lt;/p&gt;
+until I flesh out a neutral &amp;#8220;narrator&amp;#8221;&amp;nbsp;font.&lt;/p&gt;
+&lt;p&gt;Susy&amp;#8217;s fonts look like&amp;nbsp;this:&lt;/p&gt;
 &lt;p&gt;&lt;ol class="susy-fonts"&gt;
   &lt;li class="susyregular"&gt;
     &lt;strong&gt;Susy Regular:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="susybold"&gt;
     &lt;strong&gt;Susy Bold:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="susysc"&gt;
     &lt;strong&gt;Susy SmallCaps:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -56,22 +146,22 @@ until I flesh out a neutral &amp;quot;narrator&amp;quot; font.&lt;/p&gt;
 &lt;figure&gt;
   &lt;img src="/static/pictures/susy-font-bio.jpg" alt=" " /&gt;
   &lt;figcaption&gt;
-    Susy Bold, SmallCaps, and Regular on the "about" page.
+    Susy Bold, SmallCaps, and Regular on the &amp;#8220;about&amp;#8221; page.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;JJ's fonts (created earlier) look like this:&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt;&amp;#8217;s fonts (created earlier) look like&amp;nbsp;this:&lt;/p&gt;
 &lt;p&gt;&lt;ol class="jj-fonts"&gt;
   &lt;li class="jjregular"&gt;
-    &lt;strong&gt;JJ Regular:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    &lt;strong&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt; Regular:&lt;/strong&gt;
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="jjbold"&gt;
-    &lt;strong&gt;JJ Bold:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    &lt;strong&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt; Bold:&lt;/strong&gt;
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
   &lt;li class="jjitalic"&gt;
-    &lt;strong&gt;JJ Italic:&lt;/strong&gt;
-    The quick &amp; brown fox jumps over the lazy god.
+    &lt;strong&gt;&lt;span class="caps"&gt;JJ&lt;/span&gt; Italic:&lt;/strong&gt;
+    The quick &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; brown fox jumps over the lazy&amp;nbsp;god.
   &lt;/li&gt;
 &lt;/ol&gt;&lt;/p&gt;
 </content>
@@ -88,22 +178,22 @@ until I flesh out a neutral &amp;quot;narrator&amp;quot; font.&lt;/p&gt;
 a &lt;a class="reference external" href="http://www.rockethub.com/projects/6066-into-the-green-green-mud-multimedia-novel"&gt;RocketHub campaign&lt;/a&gt;
 with your help.
 Since then
-we've been editing,
+we&amp;#8217;ve been editing,
 sketching,
 adjusting,
 coding,
 testing,
 designing,
-and coding some more.&lt;/p&gt;
-&lt;p&gt;I'm happy to say
-we've reached a milestone.
+and coding some&amp;nbsp;more.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m happy to say
+we&amp;#8217;ve reached a milestone.
 The &lt;a class="reference external" href="https://github.com/oddbird/greenmud/"&gt;foundation is complete&lt;/a&gt;,
 the &lt;a class="reference external" href="http://greengreenmud.com/"&gt;frontmatter is styled&lt;/a&gt;,
 and from here on out we are working
 page by page and chapter by chapter
-to bring everything together.&lt;/p&gt;
+to bring everything&amp;nbsp;together.&lt;/p&gt;
 &lt;div class="section" id="those-nice-bright-colors"&gt;
-&lt;h2&gt;Those Nice Bright Colors&lt;/h2&gt;
+&lt;h2&gt;Those Nice Bright&amp;nbsp;Colors&lt;/h2&gt;
 &lt;p&gt;&lt;figure class="gallery"&gt;
   &lt;a href="http://greengreenmud.com/dancing-without-architecture/"&gt;
     &lt;img src="/static/pictures/greenmud-titles/ggm02.png" alt="" /&gt;
@@ -191,19 +281,19 @@ to bring everything together.&lt;/p&gt;
     &lt;img src="/static/pictures/greenmud-titles/ggm29.png" alt="" /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
-    Book &amp; chapter titles for
+    Book &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; chapter titles for
     &lt;a href="http://greengreenmud.com/"&gt;Into the Green Green Mud&lt;/a&gt;.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="getting-things-done"&gt;
-&lt;h2&gt;Getting Things Done&lt;/h2&gt;
+&lt;h2&gt;Getting Things&amp;nbsp;Done&lt;/h2&gt;
 &lt;p&gt;In that time I found a new job,
 went to a million conferences,
 moved into a &lt;a class="reference external" href="http://www.chickpeasandhulahoops.com/blog/?p=1605"&gt;new house&lt;/a&gt;,
 and still managed to get some work done.
 For anyone keeping track,
-this is where we are:&lt;/p&gt;
+this is where we&amp;nbsp;are:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;del&gt; Semi-final edits &lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt; Code structure &lt;/del&gt;&lt;/li&gt;
@@ -213,102 +303,12 @@ this is where we are:&lt;/p&gt;
 &lt;li&gt;&lt;del&gt; Grid handlers &lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt; Animation handlers &lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt; FrontMatter design &lt;span class="amp"&gt;&amp;&lt;/span&gt; code &lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;del&gt; JJ font family &lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;Susy font family (started)&lt;/li&gt;
-&lt;li&gt;Page design (drafted) &lt;span class="amp"&gt;&amp;&lt;/span&gt; code (started)&lt;/li&gt;
-&lt;li&gt;Music (started)&lt;/li&gt;
+&lt;li&gt;&lt;del&gt; &lt;span class="caps"&gt;JJ&lt;/span&gt; font family &lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;Susy font family&amp;nbsp;(started)&lt;/li&gt;
+&lt;li&gt;Page design (drafted) &lt;span class="amp"&gt;&amp;&lt;/span&gt; code&amp;nbsp;(started)&lt;/li&gt;
+&lt;li&gt;Music&amp;nbsp;(started)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Saying “Thank You”</title>
-    <id>http://andmeyer.com/2012/10/18/saying-thanks</id>
-    <updated>2012-10-18T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/10/18/saying-thanks" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;I was reminded yesterday,
-while being harassed outside the
-&lt;a class="reference external" href="http://www.plannedparenthoodaction.org/"&gt;Planned Parenthood&lt;/a&gt;
-where a friend of mine works,
-&lt;a class="reference external" href="/why/"&gt;why I do what I do&lt;/a&gt;.
-Not for a distant invisible truth,
-but for the world around me and the people in it.
-You make life wonderful —
-laughing, drinking, sexting, dancing, vomiting, holding hands —
-the whole bloody works.&lt;/p&gt;
-&lt;p&gt;You were always the wind beneath my &lt;em&gt;proverbials&lt;/em&gt;,
-but with the &lt;a class="reference external" href="http://www.rockethub.com/projects/6066-into-the-green-green-mud-multimedia-novel"&gt;GreenMud RocketHub campaign&lt;/a&gt;
-you signed me on to a contract.
-Crowdfunding isn't a charity system,
-and I made promises in return for your support.
-One of the rewards
-was a custom illustrated portrait,
-and this week I finished the first one:&lt;/p&gt;
-&lt;p&gt;&lt;figure class="gallery"&gt;
-  &lt;img src="/static/pictures/portraits/Kitten-Icon.png" alt="" /&gt;
-  &lt;img src="/static/pictures/portraits/Kitten-Full.png" alt="" /&gt;
-  &lt;figcaption&gt;
-    Kitten Karlyle, close-up and in full.
-    Follow her sex-positive blog,
-    &lt;a href="http://dirty-words-blog.blogspot.com/"&gt;Dirty Words&lt;/a&gt;.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;One down, twelve to go.
-At the same time,
-I'm working on the final
-neutral narrator font
-for the frontmatter
-and short interlude chapters.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Sketchy</title>
-    <id>http://andmeyer.com/2012/11/20/sketchy-couple</id>
-    <updated>2012-11-20T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/11/20/sketchy-couple" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;Last month I posted my first
-&lt;a class="reference external" href="/2012/10/18/saying-thanks/"&gt;GreenMud reward portrait&lt;/a&gt;
-of Kitten Karlyle.
-This weekend I finished the second portrait,
-a joint image of my ongoing collaborators
-Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra Eby.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/portraits/DanSondra-BW.png" alt=""&gt;
-  &lt;figcaption&gt;
-    Dan Eisenstat &amp; Sondra Eby, a sketchy couple.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Dan &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra are the other 2/3 of &lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup Gorilla&lt;/a&gt;,
-and have been a great help with the novel.
-Sondra has been helping me edit the images,
-while Dan is writing the music.
-In the meantime,
-they have moved downtown
-and started a very exciting art/business venture
-that will be announced very soon.
-I can't wait!&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/portraits/DanSondra-Full.png" alt=""&gt;
-  &lt;figcaption&gt;
-    The sketchy couple in full color.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;I began this portrait in the same manner
-as the Kitten Karlyle illustration,
-and quickly found that it was the wrong style for these two.
-I made several more stylistic attempts,
-and was unhappy with all of them.
-We call that &amp;quot;the creative process&amp;quot;.
-I finally found the style I wanted
-by accidentally viewing all my sketches
-layered on top of each other.
-The rest was just a matter of cleanup.&lt;/p&gt;
 </content>
   </entry>
 </feed>

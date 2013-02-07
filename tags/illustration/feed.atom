@@ -8,6 +8,53 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">Sketchy</title>
+    <id>http://andmeyer.com/2012/11/20/sketchy-couple</id>
+    <updated>2012-11-20T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2012/11/20/sketchy-couple" />
+    <author>
+      <name>Eric A. Meyer</name>
+    </author>
+    <content type="html">&lt;p&gt;Last month I posted my first
+&lt;a class="reference external" href="/2012/10/18/saying-thanks/"&gt;GreenMud reward portrait&lt;/a&gt;
+of Kitten Karlyle.
+This weekend I finished the second portrait,
+a joint image of my ongoing collaborators
+Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra&amp;nbsp;Eby.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/portraits/DanSondra-BW.png" alt=""&gt;
+  &lt;figcaption&gt;
+    Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra Eby, a sketchy couple.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Dan &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra are the other 2/3 of &lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup Gorilla&lt;/a&gt;,
+and have been a great help with the novel.
+Sondra has been helping me edit the images,
+while Dan is writing the music.
+In the meantime,
+they have moved downtown
+and started a very exciting art/business venture
+that will be announced very soon.
+I can&amp;#8217;t&amp;nbsp;wait!&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/portraits/DanSondra-Full.png" alt=""&gt;
+  &lt;figcaption&gt;
+    The sketchy couple in full color.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I began this portrait in the same manner
+as the Kitten Karlyle illustration,
+and quickly found that it was the wrong style for these two.
+I made several more stylistic attempts,
+and was unhappy with all of them.
+We call that &amp;#8220;the creative process&amp;#8221;.
+I finally found the style I wanted
+by accidentally viewing all my sketches
+layered on top of each other.
+The rest was just a matter of&amp;nbsp;cleanup.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">Saying “Thank You”</title>
     <id>http://andmeyer.com/2012/10/18/saying-thanks</id>
     <updated>2012-10-18T00:00:00Z</updated>
@@ -24,15 +71,15 @@ Not for a distant invisible truth,
 but for the world around me and the people in it.
 You make life wonderful —
 laughing, drinking, sexting, dancing, vomiting, holding hands —
-the whole bloody works.&lt;/p&gt;
+the whole bloody&amp;nbsp;works.&lt;/p&gt;
 &lt;p&gt;You were always the wind beneath my &lt;em&gt;proverbials&lt;/em&gt;,
 but with the &lt;a class="reference external" href="http://www.rockethub.com/projects/6066-into-the-green-green-mud-multimedia-novel"&gt;GreenMud RocketHub campaign&lt;/a&gt;
 you signed me on to a contract.
-Crowdfunding isn't a charity system,
+Crowdfunding isn&amp;#8217;t a charity system,
 and I made promises in return for your support.
 One of the rewards
 was a custom illustrated portrait,
-and this week I finished the first one:&lt;/p&gt;
+and this week I finished the first&amp;nbsp;one:&lt;/p&gt;
 &lt;p&gt;&lt;figure class="gallery"&gt;
   &lt;img src="/static/pictures/portraits/Kitten-Icon.png" alt="" /&gt;
   &lt;img src="/static/pictures/portraits/Kitten-Full.png" alt="" /&gt;
@@ -44,57 +91,10 @@ and this week I finished the first one:&lt;/p&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;One down, twelve to go.
 At the same time,
-I'm working on the final
+I&amp;#8217;m working on the final
 neutral narrator font
 for the frontmatter
-and short interlude chapters.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Sketchy</title>
-    <id>http://andmeyer.com/2012/11/20/sketchy-couple</id>
-    <updated>2012-11-20T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2012/11/20/sketchy-couple" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;Last month I posted my first
-&lt;a class="reference external" href="/2012/10/18/saying-thanks/"&gt;GreenMud reward portrait&lt;/a&gt;
-of Kitten Karlyle.
-This weekend I finished the second portrait,
-a joint image of my ongoing collaborators
-Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra Eby.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/portraits/DanSondra-BW.png" alt=""&gt;
-  &lt;figcaption&gt;
-    Dan Eisenstat &amp; Sondra Eby, a sketchy couple.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Dan &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra are the other 2/3 of &lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup Gorilla&lt;/a&gt;,
-and have been a great help with the novel.
-Sondra has been helping me edit the images,
-while Dan is writing the music.
-In the meantime,
-they have moved downtown
-and started a very exciting art/business venture
-that will be announced very soon.
-I can't wait!&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/portraits/DanSondra-Full.png" alt=""&gt;
-  &lt;figcaption&gt;
-    The sketchy couple in full color.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;I began this portrait in the same manner
-as the Kitten Karlyle illustration,
-and quickly found that it was the wrong style for these two.
-I made several more stylistic attempts,
-and was unhappy with all of them.
-We call that &amp;quot;the creative process&amp;quot;.
-I finally found the style I wanted
-by accidentally viewing all my sketches
-layered on top of each other.
-The rest was just a matter of cleanup.&lt;/p&gt;
+and short interlude&amp;nbsp;chapters.&lt;/p&gt;
 </content>
   </entry>
 </feed>
