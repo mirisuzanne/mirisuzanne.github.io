@@ -92,54 +92,5 @@ but here&amp;#8217;s a&amp;nbsp;summary:&lt;/p&gt;
 &lt;/div&gt;
 </content>
   </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">The Contours of Book Design</title>
-    <id>http://andmeyer.com/2013/01/22/contour</id>
-    <updated>2013-01-22T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2013/01/22/contour" />
-    <author>
-      <name>Eric A. Meyer</name>
-    </author>
-    <content type="html">&lt;p&gt;The editors at &lt;a class="reference external" href="http://www.springgunpress.com/"&gt;SpringGun Press&lt;/a&gt; asked me
-to design cover art
-for &lt;em&gt;The Posture of Contour&lt;/em&gt;,
-a new book by &lt;a class="reference external" href="http://www.pw.org/content/james_belflower"&gt;James Belflower&lt;/a&gt;.
-I used the opportunity to get my mind out of an all-digital space,
-and spent most of my time with pen, paper, and oil&amp;nbsp;pastel.&lt;/p&gt;
-&lt;div class="section" id="sketches"&gt;
-&lt;h2&gt;Sketches&lt;/h2&gt;
-&lt;p&gt;&lt;figure class="gallery"&gt;
-  &lt;img src="/static/pictures/contour/contours-coal.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/contours.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/circles.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/jaw.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/mouth-blind.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/colors.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/face-blind.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/face-arrows.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/layers.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/rays.jpg" alt=""&gt;
-  &lt;figcaption&gt;
-    Exploring levels of distance from object to abstraction,
-    using blind contour, layering, tracing, negative space, etc.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;My favorite experiments involved
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Blind_contour_drawing"&gt;blind contours&lt;/a&gt; with a capped pen
-over homemade (oil-pastel) carbon paper,
-then arrows traced on a third layer
-using my iPad as a light&amp;nbsp;table.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="final-ish-design"&gt;
-&lt;h2&gt;Final(ish)&amp;nbsp;Design&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/contour/final.png" alt=""&gt;
-  &lt;figcaption&gt;
-    What was once a diagram of the tongue, teeth and bottom jaw.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;/div&gt;
-</content>
-  </entry>
 </feed>
 
