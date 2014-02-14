@@ -13,7 +13,7 @@
     <updated>2012-07-25T00:00:00Z</updated>
     <link href="http://andmeyer.com/2012/07/25/susy-off-canvas" />
     <author>
-      <name>Eric A. Meyer</name>
+      <name>Eric Meyer</name>
     </author>
     <content type="html">&lt;p&gt;The &lt;a class="reference external" href="http://jasonweaver.name/lab/offcanvas/"&gt;off-canvas&lt;/a&gt; design pattern
 for creating responsive websites
@@ -179,7 +179,7 @@ I would be glad to pull that&amp;nbsp;in.&lt;/p&gt;
     <updated>2012-07-20T00:00:00Z</updated>
     <link href="http://andmeyer.com/2012/07/20/sass-striped-background" />
     <author>
-      <name>Eric A. Meyer</name>
+      <name>Eric Meyer</name>
     </author>
     <content type="html">&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/jina/status/225811628338323458"&gt;Jina&lt;/a&gt; asked twitter for Sass advice the other day.
 She was working on a &lt;a class="reference external" href="https://gist.github.com/3140730"&gt;bit of code&lt;/a&gt; to create
