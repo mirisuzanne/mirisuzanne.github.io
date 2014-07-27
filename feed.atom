@@ -2,11 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://andmeyer.com/feed.atom</id>
-  <updated>2014-02-26T00:00:00Z</updated>
+  <updated>2014-07-27T00:00:00Z</updated>
   <link href="http://andmeyer.com/" />
   <link href="http://andmeyer.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">UMS Day 3</title>
+    <id>http://andmeyer.com/2014/07/27/ums-day3</id>
+    <updated>2014-07-27T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2014/07/27/ums-day3" />
+    <author>
+      <name>Eric M Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;(cross-posted at &lt;a class="reference external" href="http://teacupgorilla.com"&gt;teacupgorilla.com&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;I have no time to write this
+before I dive back into the fray.
+Magic Cyclops is always magic,
+and we love Jen Korte in all her incarnations.
+We played with Abandin Pictures
+back when they were just getting started,
+and it was great to see them rocking the Hi Dive.
+If you haven&amp;#8217;t heard them yet, it&amp;#8217;s&amp;nbsp;time.&lt;/p&gt;
+&lt;div class="section" id="tonight"&gt;
+&lt;h2&gt;Tonight:&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Landlines&lt;/li&gt;
+&lt;li&gt;Kitty&amp;nbsp;Crimes&lt;/li&gt;
+&lt;li&gt;Broken&amp;nbsp;Spirits&lt;/li&gt;
+&lt;li&gt;Blonde&amp;nbsp;Redhead&lt;/li&gt;
+&lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">A Dark Plain [Demo]</title>
+    <id>http://andmeyer.com/2014/07/26/darkplain</id>
+    <updated>2014-07-26T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2014/07/26/darkplain" />
+    <author>
+      <name>Eric M Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;Here it is!
+The first in a new set of demos,
+updated to reflect our current sound.
+There are more on the way,
+so check back again&amp;nbsp;tomorrow.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/159477907&amp;amp;color=ff0000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Feel free to leave comments on &lt;a class="reference external" href="https://soundcloud.com/teacupgorilla"&gt;SoundCloud&lt;/a&gt;,
+or find us on &lt;a class="reference external" href="http://twitter.com/teacupgorilla"&gt;Twitter&lt;/a&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;a class="reference external" href="http://facebook.com/teacupgorilla"&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">UMS Day 2</title>
+    <id>http://andmeyer.com/2014/07/26/ums-day2</id>
+    <updated>2014-07-26T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2014/07/26/ums-day2" />
+    <author>
+      <name>Eric M Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;(cross-posted at &lt;a class="reference external" href="http://teacupgorilla.com"&gt;teacupgorilla.com&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m overwhelmed by all the music!
+At this point I wander half-aimless,
+in and out of venues —
+quick to judge,
+but more often inspired.
+Glad to discover that most of my favorites are local,
+and I can stalk them like a groupie
+until the next &lt;span class="caps"&gt;UMS&lt;/span&gt; arrives&amp;nbsp;again.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve always loved &lt;a class="reference external" href="http://accordion-crimes.blogspot.com/"&gt;Accordion Crimes&lt;/a&gt;,
+and they pulled through again last night —
+full of dynamic surprise.
+&lt;a class="reference external" href="http://mako1972.weebly.com/"&gt;Mako1972&lt;/a&gt; has a similar post-punk thing going,
+which I always enjoy.
+&lt;a class="reference external" href="http://www.ravenjane.com/"&gt;Raven Jane&lt;/a&gt; and &lt;a class="reference external" href="http://thetruthandspectacle.com/"&gt;The Truth &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Spectacle&lt;/a&gt; were excellent
+(from our unbiased opinion of Daniel in a hat).
+I&amp;#8217;ve followed &lt;a class="reference external" href="http://www.iancookemusic.com/"&gt;Ian Cooke&lt;/a&gt; for a while,
+and was glad to see him returning to a simpler,
+cello-driven sound.
+Only caught the tail-end of &lt;a class="reference external" href="http://stag.bandcamp.com/"&gt;StaG&lt;/a&gt;,
+but they earned another listen.
+&lt;a class="reference external" href="http://saturncowboysmusic.com/"&gt;Saturn Cowboys&lt;/a&gt; was a raucus fun time,
+and &lt;a class="reference external" href="http://dragondeer.com/"&gt;Dragondeer&lt;/a&gt; got the whole room (including us) excited
+like no effect-heavy lead mandolin has ever done&amp;nbsp;before.&lt;/p&gt;
+&lt;p&gt;This was a wonderful night of live/local music,
+but my favorite discovery was the intricate shoegazing
+soundscapes of &lt;a class="reference external" href="http://davedevine.com/relay"&gt;Dave Devine&amp;nbsp;Relay&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hey guys, want to share a bill&amp;nbsp;sometime?&lt;/p&gt;
+&lt;div class="section" id="tonight"&gt;
+&lt;h2&gt;Tonight:&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Magic&amp;nbsp;Cyclops&lt;/li&gt;
+&lt;li&gt;Jen Korte &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; The&amp;nbsp;Loss&lt;/li&gt;
+&lt;li&gt;Dirty&amp;nbsp;Femmes&lt;/li&gt;
+&lt;li&gt;A Band In&amp;nbsp;Pictures&lt;/li&gt;
+&lt;li&gt;The Raven and The Writing&amp;nbsp;Desk&lt;/li&gt;
+&lt;li&gt;and&amp;nbsp;more!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://andmeyer.com/feed.atom">
+    <title type="text">UMS Day 1</title>
+    <id>http://andmeyer.com/2014/07/25/ums-day1</id>
+    <updated>2014-07-25T00:00:00Z</updated>
+    <link href="http://andmeyer.com/2014/07/25/ums-day1" />
+    <author>
+      <name>Eric M Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;(cross-posted at &lt;a class="reference external" href="http://teacupgorilla.com"&gt;teacupgorilla.com&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;So many people! So much music!
+And &lt;a class="reference external" href="http://elinpalmer.com/"&gt;Elin Palmer&lt;/a&gt; is a badass on the &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Nyckelharpa"&gt;Nyckelharpa&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tonight —&amp;nbsp;Daniel is playing with both
+&lt;a class="reference external" href="http://www.ravenjane.com/"&gt;Raven Jane&lt;/a&gt; (7pm &amp;#64; Moes Original &lt;span class="caps"&gt;BBQ&lt;/span&gt;),
+and &lt;a class="reference external" href="http://thetruthandspectacle.com/"&gt;The Truth &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Spectacle&lt;/a&gt; (midnight &amp;#64; The Hornet).
+Also at midnight,
+&lt;a class="reference external" href="http://accordion-crimes.blogspot.com/"&gt;Accordion Crimes&lt;/a&gt; is worth checking out
+if you like Fugazi-style noise
+coming from an aluminum&amp;nbsp;guitar.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="http://andmeyer.com/feed.atom">
     <title type="text">Middle Meyer</title>
     <id>http://andmeyer.com/2014/02/26/name</id>
@@ -270,391 +388,6 @@ my very own &amp;#8220;Fuck the Muse&amp;#8221; &lt;a class="reference external"
 &lt;p&gt;Words don&amp;#8217;t speak for themselves: they require&amp;nbsp;punctuation.&lt;/p&gt;
 &lt;p&gt;Sincerely, &lt;br /&gt;
 —&amp;nbsp;&lt;em&gt;Trying Not To Fall&amp;nbsp;Asleep&lt;/em&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Teacup Gorilla + Bouldering Poets</title>
-    <id>http://andmeyer.com/2013/02/28/teacup-gorilla</id>
-    <updated>2013-02-28T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2013/02/28/teacup-gorilla" />
-    <author>
-      <name>Eric M Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F36314485&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=false"&gt;&lt;/iframe&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup Gorilla&lt;/a&gt; formed in 2010
-to create the live soundscape for &lt;a class="reference external" href="http://vicioustrap.com/tagged/missa_populi"&gt;Missa Populi&lt;/a&gt;,
-an original performance by &lt;a class="reference external" href="http://vicioustrap.com/shows/"&gt;Vicious Trap&lt;/a&gt;.
-From there we were asked to play a steampunk wedding,
-which turned into a year-long collaboration
-with &lt;a class="reference external" href="http://racheleisenstat.com/"&gt;Rachel Eisenstat&lt;/a&gt;,
-followed by a &lt;a class="reference external" href="http://greengreenmud.com/"&gt;novel soundtrack&lt;/a&gt;,
-and a new &lt;a class="reference external" href="http://thebakerydenver.com/"&gt;recording studio &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; venue&lt;/a&gt;
-in the Denver&amp;nbsp;downtown.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;div class="video"&gt;
-    &lt;iframe src="http://player.vimeo.com/video/39468690?title=0&amp;amp;byline=0&amp;amp;portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-  &lt;figcaption&gt;
-    Into the Green Green Mud, Chapter 12,
-    with music by Teacup Gorilla.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Over three years,
-we&amp;#8217;ve only performed as Teacup Gorilla
-a handful of times,
-but we&amp;#8217;ve been quite active.
-And now we&amp;#8217;re making our way back to the original performance vision,
-starting at the &lt;a class="reference external" href="http://boulderingpoets.wordpress.com/"&gt;Bouldering Poets&lt;/a&gt;&amp;nbsp;series:&lt;/p&gt;
-&lt;blockquote&gt;
-March 22, 7:30pm at &lt;a class="reference external" href="http://303vodka.com/"&gt;303 Vodka&lt;/a&gt; |
-see &lt;a class="reference external" href="https://www.facebook.com/events/146730512153484/"&gt;facebook&lt;/a&gt; for details.&lt;/blockquote&gt;
-&lt;p&gt;We&amp;#8217;re back,
-and we have big&amp;nbsp;plans.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-&lt;div class="video"&gt;
-  &lt;iframe src="http://www.youtube.com/embed/HI8oU9xUqy8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;figcaption&gt;
-  Reggie is cute, but he is not us. Petite? Yes. Deadly? Hard to say.
-&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Explosive Growth</title>
-    <id>http://andmeyer.com/2013/02/14/explosive-growth</id>
-    <updated>2013-02-14T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2013/02/14/explosive-growth" />
-    <author>
-      <name>Eric M Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;[This is &lt;em&gt;part 6&lt;/em&gt; in the ongoing
-&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
-&lt;p&gt;It&amp;#8217;s always useful to remember where you are
-in the overall creative process.
-Here&amp;#8217;s a&amp;nbsp;refresher:&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Define the Seed&lt;/a&gt;: &lt;em&gt;What&amp;#8217;s the idea, question, or&amp;nbsp;hypothesis?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Explore&lt;/a&gt;: &lt;em&gt;Reasearch, gather, and create the&amp;nbsp;materials.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Organize: &lt;em&gt;Outline the structure, or impose&amp;nbsp;one.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Draft: &lt;em&gt;Compile a complete first&amp;nbsp;draft.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Revise: &lt;em&gt;Consider, critique, and edit as&amp;nbsp;needed.&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;We&amp;#8217;re still following up on Step 2,
-which we started last week
-by compiling our curiosity shopping lists.
-We need to push out from our &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;seed&lt;/a&gt; in every direction,
-and the list is there to help guide&amp;nbsp;us.&lt;/p&gt;
-&lt;p&gt;Now it&amp;#8217;s time to go&amp;nbsp;shopping.&lt;/p&gt;
-&lt;div class="section" id="surround-yourself-with-material"&gt;
-&lt;h2&gt;Surround Yourself with&amp;nbsp;Material&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/explosion/hoarding.jpg" alt=""/&gt;
-  &lt;figcaption&gt;
-    It&amp;#8217;s time to get your hoarding on.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;The goal of this phase is to collect all the material
-you might possibly need to create your piece.
-It doesn&amp;#8217;t matter what genre or medium you will use at the end,
-right now you want everything.
-You are building your &lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;shitty pile of shit&lt;/a&gt;
-that will get organized into a draft down the&amp;nbsp;road.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Get your facts first, and then you can distort them as much as you&amp;nbsp;please.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;— Mark&amp;nbsp;Twain&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;You need to fill your head (and your notebook) with possibilities.
-You need to start understanding the world you are creating —
-not by thinking about it, but by surrounding yourself with it.
-Your creative mind works
-by &lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;copying, transforming, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; combining&lt;/a&gt; —
-so the more ideas you put into your head,
-the more you can get out when it&amp;#8217;s&amp;nbsp;time.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="research-steal-create"&gt;
-&lt;h2&gt;Research » Steal »&amp;nbsp;Create&lt;/h2&gt;
-&lt;p&gt;The first instinct of most artists is to sit down with a blank paper
-and stare at it until the muse strikes.
-Fuck the muse.
-Start with material that already exists.
-Use your shopping list as a guide and follow your curiosity.
-Explore your list of &amp;#8220;things that will inspire you&amp;#8221; —
-use Wikipedia and Google to follow one hyperlinked thought to the next,
-and add more inspirations to your&amp;nbsp;list.&lt;/p&gt;
-&lt;p&gt;When you read/see/hear something you like, take it.
-Clip it out of an article,
-take a photo,
-make a playlist,
-or just take notes.
-When ideas start to merge and you are inspired to say something,
-then say&amp;nbsp;it.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/explosion/cutup.jpg" alt=""/&gt;
-  &lt;figcaption&gt;
-    Cut it up. You can put it back together later.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Ebb and flow with the &lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;cycles&lt;/a&gt; of research, theft, and creation.
-Let your inspiration drive you back and forth
-between exploring what&amp;#8217;s there, and creating what isn&amp;#8217;t.
-If research isn&amp;#8217;t working, make shit up.
-If you can&amp;#8217;t think of anything to make,
-&lt;a class="reference external" href="http://www.austinkleon.com/steal/"&gt;find something to&amp;nbsp;steal&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="for-example"&gt;
-&lt;h2&gt;For&amp;nbsp;Example&lt;/h2&gt;
-&lt;p&gt;Following up on my list from last week,
-I spent time reading about Hermaphroditus &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Mother Clapp.
-I started to see patterns around social gatherings,
-betrayal, and water.
-I copied and pasted large sections of pro-anorexia websites,
-wrote down important lines from Lou Reed songs,
-and wrote about my own memories of body and sexual experience.
-I even pulled from old email conversations
-that seemed&amp;nbsp;relevant.&lt;/p&gt;
-&lt;p&gt;I used &lt;a class="reference external" href="http://www.nanowrimo.org/"&gt;NaNoWriMo&lt;/a&gt; to get through this phase
-with a massive pile of 50,000 shitty words,
-along with a number of images and songs.
-Some are stolen, and some are my own,
-but all of them will be useful when I come back to start&amp;nbsp;drafting.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="checking-it-twice"&gt;
-&lt;h2&gt;Checking it&amp;nbsp;Twice&lt;/h2&gt;
-&lt;p&gt;Look back at your list.
-focus on researching the &amp;#8220;things that will inspire you,&amp;#8221;
-and stealing or creating the &amp;#8220;things that need to be gathered&amp;#8221;
-so you can cross them off your list.
-Add to the list if you realize something is missing,
-but focus on exploring each item in extreme detail,
-and following where it takes&amp;nbsp;you.&lt;/p&gt;
-&lt;p&gt;There are several interesting tools you can use
-to help push you along when you get stuck —
-both as a solo artist and in collaborative settings.
-I&amp;#8217;ll go into more detail on some of those next&amp;nbsp;week.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-series"&gt;
-&lt;h2&gt;The&amp;nbsp;Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/14/explosive-growth/"&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/03/29/rethinking-on-your-feet/"&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">Get Curious</title>
-    <id>http://andmeyer.com/2013/02/07/get-curious</id>
-    <updated>2013-02-07T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2013/02/07/get-curious" />
-    <author>
-      <name>Eric M Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;[This is &lt;em&gt;part 5&lt;/em&gt; in the ongoing
-&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
-&lt;p&gt;Now that you have &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;a seed worth exploring&lt;/a&gt;,
-you are ready for step 2 of the creative process.
-The goal of this phase is explosive growth,
-following your curiosity out from the seed in every&amp;nbsp;direction.&lt;/p&gt;
-&lt;p&gt;You&amp;#8217;ve heard of the &lt;a class="reference external" href="http://www.humnet.ucla.edu/humnet/english/wwwroot2/ta/hyperteach/pdfs/shitty.pdf"&gt;shitty first draft&lt;/a&gt;?
-It&amp;#8217;s a nice sentiment,
-writing full shitty drafts without fear or judgment,
-but I think you can do even&amp;nbsp;better:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Write shitty piles of shit,
-and leave the drafting for&amp;nbsp;later.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/curious/bullshit.jpg" alt=""/&gt;
-  &lt;figcaption&gt;
-  I often refer to this as the fertilizer or &amp;#8220;bullshit&amp;#8221; stage.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Drafting is an organizational problem.
-You can&amp;#8217;t organize ideas you don&amp;#8217;t have.
-Start by exploring and playing and wondering,
-free from fear and judgment,
-but also free from purpose, organization, and&amp;nbsp;planning.&lt;/p&gt;
-&lt;p&gt;Don&amp;#8217;t start with outlines.
-Don&amp;#8217;t start with drafts.
-Start with&amp;nbsp;curiosity.&lt;/p&gt;
-&lt;div class="section" id="a-shitty-shopping-list"&gt;
-&lt;h2&gt;A Shitty Shopping&amp;nbsp;List&lt;/h2&gt;
-&lt;p&gt;Our goal is to develop all the raw (shitty) materials
-we will need in order to start drafting.
-I&amp;#8217;m not talking about pen &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; paper,
-or computers,
-or three cans of latex paint.
-I want to know what concepts, phrases,
-images, and aesthetics I am working with.
-I want to soak up inspirations,
-and understand my&amp;nbsp;constraints.&lt;/p&gt;
-&lt;p&gt;I start with three&amp;nbsp;questions:&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;What already&amp;nbsp;exists?&lt;/li&gt;
-&lt;li&gt;What still needs to be gathered or&amp;nbsp;created?&lt;/li&gt;
-&lt;li&gt;What will inspire&amp;nbsp;me?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Working on the &lt;a class="reference external" href="/2013/01/22/contour/"&gt;book cover&lt;/a&gt; for &lt;a class="reference external" href="http://www.springgunpress.com/posture"&gt;The Posture of Contour&lt;/a&gt;,
-I asked the publishers and author for everything they had.
-Based on their answers, I ended up with these&amp;nbsp;lists:&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/contour/final.png" alt=""/&gt;
-  &lt;figcaption&gt;
-  Final cover design for &lt;em&gt;The Posture of Contour&lt;/em&gt;.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What already&amp;nbsp;exists?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Dimensions: 5.5&amp;#8221; x&amp;nbsp;8.5&amp;#8221;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.springgunpress.com/"&gt;SpringGun Press&lt;/a&gt;&amp;nbsp;wordmarks&lt;/li&gt;
-&lt;li&gt;&lt;span class="caps"&gt;ISBN&lt;/span&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; bar code (on white&amp;nbsp;background)&lt;/li&gt;
-&lt;li&gt;Title: The Posture of&amp;nbsp;Contour&lt;/li&gt;
-&lt;li&gt;Subtitle: A Public&amp;nbsp;Primer&lt;/li&gt;
-&lt;li&gt;Author: James&amp;nbsp;Belflower&lt;/li&gt;
-&lt;li&gt;The content of the book&amp;nbsp;itself&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What still needs to be gathered or&amp;nbsp;created?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Color&amp;nbsp;palette&lt;/li&gt;
-&lt;li&gt;Artwork&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What will inspire&amp;nbsp;me?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Diagrams, schematics, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;maps&lt;/li&gt;
-&lt;li&gt;Processes of abstraction &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;representation&lt;/li&gt;
-&lt;li&gt;Mouths, hands, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; black&amp;nbsp;spots&lt;/li&gt;
-&lt;li&gt;Collage&lt;/li&gt;
-&lt;li&gt;Cover art for &amp;#8220;&lt;a class="reference external" href="http://www.fenceportal.org/?page_id=422"&gt;Network&lt;/a&gt;&amp;#8221; by Jena&amp;nbsp;Osman&lt;/li&gt;
-&lt;li&gt;Richard Serra&amp;nbsp;drawings&lt;/li&gt;
-&lt;li&gt;Franz&amp;nbsp;Kline&lt;/li&gt;
-&lt;li&gt;Paul Sharits&amp;nbsp;colors&lt;/li&gt;
-&lt;li&gt;Stan Brakhage &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Joan&amp;nbsp;Miro&lt;/li&gt;
-&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;The line between language and&amp;nbsp;graphic&amp;#8221;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;They had done most of my work for me.
-That&amp;#8217;s not always the case,
-but if you have a seed,
-you have enough to get&amp;nbsp;started.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="sparking-curiosity"&gt;
-&lt;h2&gt;Sparking&amp;nbsp;Curiosity&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/curious/bodies.jpg" alt=""/&gt;
-  &lt;figcaption&gt;
-  Bodies. A diagram.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;seed I developed in phase 1&lt;/a&gt;
-can be used directly to start a list of materials
-in phase 2. Unlike the cover art,
-this project has no pre-existing material that I am required to use.
-Most of the material will have to be found or created,
-but I do have plenty of inspiration to draw&amp;nbsp;from:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What already&amp;nbsp;exists?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Format: a stack of note cards that can be&amp;nbsp;shuffled&lt;/li&gt;
-&lt;li&gt;Some collaborative poems with Jacob Liechty that might&amp;nbsp;fit&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What do I still&amp;nbsp;need?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;A writing&amp;nbsp;style&lt;/li&gt;
-&lt;li&gt;Characters?&amp;nbsp;Story?&lt;/li&gt;
-&lt;li&gt;Specific&amp;nbsp;memories&lt;/li&gt;
-&lt;li&gt;More on trauma (ptsd,&amp;nbsp;etc)&lt;/li&gt;
-&lt;li&gt;More on bodies (eating disorders,&amp;nbsp;etc)&lt;/li&gt;
-&lt;li&gt;Other&amp;nbsp;voices&lt;/li&gt;
-&lt;li&gt;more?&amp;#8230;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What&amp;#8217;s the&amp;nbsp;inspiration?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;The Invention of&amp;nbsp;Heterosexuality&amp;#8221;&lt;/li&gt;
-&lt;li&gt;Research on out-of-body&amp;nbsp;experiences&lt;/li&gt;
-&lt;li&gt;Bodies &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;identity&lt;/li&gt;
-&lt;li&gt;Sex, gender, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;sexuality&lt;/li&gt;
-&lt;li&gt;Memory &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;trauma&lt;/li&gt;
-&lt;li&gt;Hermaphroditus, Mother Clapp, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Molly&amp;nbsp;Houses&lt;/li&gt;
-&lt;li&gt;Jacob Liechty, Tom Waits, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Lou&amp;nbsp;Reed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;It&amp;#8217;s &lt;span class="caps"&gt;OK&lt;/span&gt; that this list isn&amp;#8217;t complete,
-it&amp;#8217;s enough to make me curious,
-and enough to point me in the right&amp;nbsp;direction.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="coming-soon"&gt;
-&lt;h2&gt;Coming&amp;nbsp;Soon&lt;/h2&gt;
-&lt;p&gt;In the next few posts we&amp;#8217;ll talk about
-gathering vs creating,
-blind variation and selective retention,
-judgmental brainstorming,
-the viewpoints, and composition —
-all useful tools for this explosive curiosity&amp;nbsp;phase.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-series"&gt;
-&lt;h2&gt;The&amp;nbsp;Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/14/explosive-growth/"&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/03/29/rethinking-on-your-feet/"&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://andmeyer.com/feed.atom">
-    <title type="text">The Contours of Book Design</title>
-    <id>http://andmeyer.com/2013/01/22/contour</id>
-    <updated>2013-01-22T00:00:00Z</updated>
-    <link href="http://andmeyer.com/2013/01/22/contour" />
-    <author>
-      <name>Eric M Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;The editors at &lt;a class="reference external" href="http://www.springgunpress.com/"&gt;SpringGun Press&lt;/a&gt; asked me
-to design cover art
-for &lt;em&gt;The Posture of Contour&lt;/em&gt;,
-a new book by &lt;a class="reference external" href="http://www.pw.org/content/james_belflower"&gt;James Belflower&lt;/a&gt;.
-I used the opportunity to get my mind out of an all-digital space,
-and spent most of my time with pen, paper, and oil&amp;nbsp;pastel.&lt;/p&gt;
-&lt;div class="section" id="sketches"&gt;
-&lt;h2&gt;Sketches&lt;/h2&gt;
-&lt;p&gt;&lt;figure class="gallery"&gt;
-  &lt;img src="/static/pictures/contour/contours-coal.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/contours.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/circles.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/jaw.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/mouth-blind.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/colors.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/face-blind.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/face-arrows.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/layers.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/rays.jpg" alt=""&gt;
-  &lt;figcaption&gt;
-    Exploring levels of distance from object to abstraction,
-    using blind contour, layering, tracing, negative space, etc.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;My favorite experiments involved
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Blind_contour_drawing"&gt;blind contours&lt;/a&gt; with a capped pen
-over homemade (oil-pastel) carbon paper,
-then arrows traced on a third layer
-using my iPad as a light&amp;nbsp;table.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="final-ish-design"&gt;
-&lt;h2&gt;Final(ish)&amp;nbsp;Design&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/contour/final.png" alt=""&gt;
-  &lt;figcaption&gt;
-    What was once a diagram of the tongue, teeth and bottom jaw.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;/div&gt;
 </content>
   </entry>
 </feed>
