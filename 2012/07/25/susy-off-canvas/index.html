@@ -78,7 +78,7 @@
   
 </head>
 
-<body id="andmeyer" class=""data-bg="true" style="background-image: url(/static/pictures/tennis/volley6.jpg);">
+<body id="andmeyer" class="">
 
 
 
@@ -129,17 +129,9 @@ how Susy might play&nbsp;along.</p>
 off-canvas design is as simple with Susy
 as any other design pattern.
 All you need to do
-is pull some of your columns off the screen.
-It&#8217;s that&nbsp;simple.</p>
-<p>I&#8217;ve thrown together a very <a class="reference external" href="/demos/susy-off-canvas/">rough demo</a>
-that only shows Susy&#8217;s part of the equation.
-You still need to add <span class="caps">JS</span> interaction
-and no-js&nbsp;fallbacks.</p>
-<p>If anyone wants to take what I&#8217;ve done,
-and flesh it out,
-I would be glad to pull that&nbsp;in.</p>
-<div class="section" id="simple-markup">
-<h2>Simple&nbsp;Markup:</h2>
+is pull some of your columns off the&nbsp;screen.</p>
+<div class="section" id="basic-markup">
+<h2>Basic&nbsp;Markup:</h2>
 <pre class="code html literal-block">
 <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;container&quot;</span><span class="nt">&gt;</span>
   <span class="nt">&lt;header&gt;</span>header<span class="nt">&lt;/header&gt;</span>
@@ -159,10 +151,10 @@ I would be glad to pull that&nbsp;in.</p>
 <span class="c1">// --------------------------------------------
 // settings
 </span>
-<span class="na">$total-columns</span><span class="o">  :</span> <span class="mi">12</span><span class="p">;</span>
-<span class="na">$column-width</span><span class="o">   :</span> <span class="mi">5</span><span class="kt">em</span><span class="p">;</span>
-<span class="na">$gutter-width</span><span class="o">   :</span> <span class="mi">1</span><span class="kt">em</span><span class="p">;</span>
-<span class="na">$grid-padding</span><span class="o">   :</span> <span class="mi">0</span><span class="p">;</span>
+<span class="nv">$total-columns</span><span class="o">  :</span> <span class="mi">12</span><span class="p">;</span>
+<span class="nv">$column-width</span><span class="o">   :</span> <span class="mi">5</span><span class="kt">em</span><span class="p">;</span>
+<span class="nv">$gutter-width</span><span class="o">   :</span> <span class="mi">1</span><span class="kt">em</span><span class="p">;</span>
+<span class="nv">$grid-padding</span><span class="o">   :</span> <span class="mi">0</span><span class="p">;</span>
 
 <span class="c1">// --------------------------------------------
 // layout
@@ -172,7 +164,7 @@ I would be glad to pull that&nbsp;in.</p>
 // because it will automatically remain full-width
 // at any smaller size.
 </span>
-<span class="nt">body</span> <span class="p">{</span> <span class="na">padding</span><span class="o">:</span> <span class="mi">0</span><span class="p">;</span> <span class="na">margin</span><span class="o">:</span> <span class="mi">0</span><span class="p">;</span> <span class="p">}</span>
+<span class="nt">body</span> <span class="p">{</span> <span class="na">padding</span><span class="o">:</span> <span class="mi">0</span><span class="p">;</span><span class="err"> </span><span class="na">margin</span><span class="o">:</span> <span class="mi">0</span><span class="p">;</span><span class="err"> </span><span class="na">}</span>
 <span class="o">*</span> <span class="p">{</span> <span class="k">&#64;include</span><span class="nd"> box-sizing</span><span class="p">(</span><span class="no">border</span><span class="o">-</span><span class="n">box</span><span class="p">);</span> <span class="p">}</span>
 
 <span class="nc">.container</span> <span class="p">{</span>
@@ -181,7 +173,7 @@ I would be glad to pull that&nbsp;in.</p>
   <span class="na">overflow</span><span class="o">:</span> <span class="no">hidden</span><span class="p">;</span>
 <span class="p">}</span>
 
-<span class="nt">header</span><span class="o">,</span> <span class="nt">footer</span> <span class="p">{</span> <span class="na">clear</span><span class="o">:</span> <span class="no">both</span><span class="p">;</span> <span class="p">}</span>
+<span class="nt">header</span><span class="o">,</span> <span class="nt">footer</span> <span class="p">{</span> <span class="na">clear</span><span class="o">:</span> <span class="no">both</span><span class="p">;</span><span class="err"> </span><span class="na">}</span>
 
 <span class="c1">// --------------------------------------------
 // phone
@@ -266,8 +258,8 @@ I would be glad to pull that&nbsp;in.</p>
   <span class="na">height</span><span class="o">:</span> <span class="mi">20</span><span class="kt">em</span><span class="p">;</span>
   <span class="na">padding</span><span class="o">:</span> <span class="mi">1</span><span class="kt">em</span><span class="p">;</span>
 <span class="p">}</span>
-<span class="nc">.left</span> <span class="p">{</span> <span class="na">background</span><span class="o">:</span> <span class="mh">#cff</span><span class="p">;</span> <span class="p">}</span>
-<span class="nc">.right</span> <span class="p">{</span> <span class="na">background</span><span class="o">:</span> <span class="mh">#ffc</span><span class="p">;</span> <span class="p">}</span>
+<span class="nc">.left</span> <span class="p">{</span> <span class="na">background</span><span class="o">:</span> <span class="mh">#cff</span><span class="p">;</span><span class="err"> </span><span class="na">}</span>
+<span class="nc">.right</span> <span class="p">{</span> <span class="na">background</span><span class="o">:</span> <span class="mh">#ffc</span><span class="p">;</span><span class="err"> </span><span class="na">}</span>
 
 <span class="nt">header</span><span class="o">,</span> <span class="nt">footer</span> <span class="p">{</span>
   <span class="na">height</span><span class="o">:</span> <span class="mi">3</span><span class="kt">em</span><span class="p">;</span>

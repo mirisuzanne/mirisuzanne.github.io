@@ -58,17 +58,9 @@ how Susy might play&amp;nbsp;along.&lt;/p&gt;
 off-canvas design is as simple with Susy
 as any other design pattern.
 All you need to do
-is pull some of your columns off the screen.
-It&amp;#8217;s that&amp;nbsp;simple.&lt;/p&gt;
-&lt;p&gt;I&amp;#8217;ve thrown together a very &lt;a class="reference external" href="/demos/susy-off-canvas/"&gt;rough demo&lt;/a&gt;
-that only shows Susy&amp;#8217;s part of the equation.
-You still need to add &lt;span class="caps"&gt;JS&lt;/span&gt; interaction
-and no-js&amp;nbsp;fallbacks.&lt;/p&gt;
-&lt;p&gt;If anyone wants to take what I&amp;#8217;ve done,
-and flesh it out,
-I would be glad to pull that&amp;nbsp;in.&lt;/p&gt;
-&lt;div class="section" id="simple-markup"&gt;
-&lt;h2&gt;Simple&amp;nbsp;Markup:&lt;/h2&gt;
+is pull some of your columns off the&amp;nbsp;screen.&lt;/p&gt;
+&lt;div class="section" id="basic-markup"&gt;
+&lt;h2&gt;Basic&amp;nbsp;Markup:&lt;/h2&gt;
 &lt;pre class="code html literal-block"&gt;
 &lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;container&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
   &lt;span class="nt"&gt;&amp;lt;header&amp;gt;&lt;/span&gt;header&lt;span class="nt"&gt;&amp;lt;/header&amp;gt;&lt;/span&gt;
@@ -88,10 +80,10 @@ I would be glad to pull that&amp;nbsp;in.&lt;/p&gt;
 &lt;span class="c1"&gt;// --------------------------------------------
 // settings
 &lt;/span&gt;
-&lt;span class="na"&gt;$total-columns&lt;/span&gt;&lt;span class="o"&gt;  :&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="na"&gt;$column-width&lt;/span&gt;&lt;span class="o"&gt;   :&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="na"&gt;$gutter-width&lt;/span&gt;&lt;span class="o"&gt;   :&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="na"&gt;$grid-padding&lt;/span&gt;&lt;span class="o"&gt;   :&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="nv"&gt;$total-columns&lt;/span&gt;&lt;span class="o"&gt;  :&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="nv"&gt;$column-width&lt;/span&gt;&lt;span class="o"&gt;   :&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="nv"&gt;$gutter-width&lt;/span&gt;&lt;span class="o"&gt;   :&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="nv"&gt;$grid-padding&lt;/span&gt;&lt;span class="o"&gt;   :&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
 
 &lt;span class="c1"&gt;// --------------------------------------------
 // layout
@@ -101,7 +93,7 @@ I would be glad to pull that&amp;nbsp;in.&lt;/p&gt;
 // because it will automatically remain full-width
 // at any smaller size.
 &lt;/span&gt;
-&lt;span class="nt"&gt;body&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;padding&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="na"&gt;margin&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;body&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;padding&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="err"&gt; &lt;/span&gt;&lt;span class="na"&gt;margin&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="err"&gt; &lt;/span&gt;&lt;span class="na"&gt;}&lt;/span&gt;
 &lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; box-sizing&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="no"&gt;border&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;box&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
 
 &lt;span class="nc"&gt;.container&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
@@ -110,7 +102,7 @@ I would be glad to pull that&amp;nbsp;in.&lt;/p&gt;
   &lt;span class="na"&gt;overflow&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="no"&gt;hidden&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
 &lt;span class="p"&gt;}&lt;/span&gt;
 
-&lt;span class="nt"&gt;header&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;footer&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;clear&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="no"&gt;both&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;header&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;footer&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;clear&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="no"&gt;both&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="err"&gt; &lt;/span&gt;&lt;span class="na"&gt;}&lt;/span&gt;
 
 &lt;span class="c1"&gt;// --------------------------------------------
 // phone
@@ -195,8 +187,8 @@ I would be glad to pull that&amp;nbsp;in.&lt;/p&gt;
   &lt;span class="na"&gt;height&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
   &lt;span class="na"&gt;padding&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
 &lt;span class="p"&gt;}&lt;/span&gt;
-&lt;span class="nc"&gt;.left&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;background&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#cff&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
-&lt;span class="nc"&gt;.right&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;background&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#ffc&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nc"&gt;.left&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;background&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#cff&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="err"&gt; &lt;/span&gt;&lt;span class="na"&gt;}&lt;/span&gt;
+&lt;span class="nc"&gt;.right&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;background&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#ffc&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="err"&gt; &lt;/span&gt;&lt;span class="na"&gt;}&lt;/span&gt;
 
 &lt;span class="nt"&gt;header&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;footer&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
   &lt;span class="na"&gt;height&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
