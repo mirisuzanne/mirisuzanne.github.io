@@ -13,10 +13,10 @@
     <updated>2013-04-18T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2013/04/18/layer-tennis" />
     <author>
-      <name>Miriam Eric Suzanne</name>
+      <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/tennis/volley10.jpg" alt="volley 10" /&gt;
+  &lt;img src="/static/pictures/tennis/volley10.jpg" alt="" /&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.exitstrata.com/"&gt;Exit Strata&lt;/a&gt; asked me to design the cover of their next issue,
 &lt;a class="reference external" href="http://www.exitstrata.com/category/print-2/"&gt;&lt;span class="caps"&gt;PRINT&lt;/span&gt;!&lt;/a&gt; &lt;span class="caps"&gt;VOL&lt;/span&gt;&amp;nbsp;3.&lt;/p&gt;
@@ -31,7 +31,7 @@ and that of the new virtual realities&amp;#8230;&lt;/blockquote&gt;
 &lt;div class="section" id="layer-tennis"&gt;
 &lt;h2&gt;Layer&amp;nbsp;Tennis&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/tennis/volley8.jpg" alt="volley 8" /&gt;
+  &lt;img src="/static/pictures/tennis/volley8.jpg" alt="" /&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://layertennis.com/"&gt;Layer tennis&lt;/a&gt; is a design game
 made popular by &lt;a class="reference external" href="http://www.coudal.com/"&gt;Coudal Partners&lt;/a&gt;.
@@ -59,7 +59,7 @@ but here are the&amp;nbsp;volleys:&lt;/p&gt;
     <updated>2013-01-22T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2013/01/22/contour" />
     <author>
-      <name>Miriam Eric Suzanne</name>
+      <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;The editors at &lt;a class="reference external" href="http://www.springgunpress.com/"&gt;SpringGun Press&lt;/a&gt; asked me
 to design cover art
@@ -100,6 +100,45 @@ using my iPad as a light&amp;nbsp;table.&lt;/p&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://miriamsuzanne.com/feed.atom">
+    <title type="text">A Font Family for Susy</title>
+    <id>http://miriamsuzanne.com/2012/10/09/susy-fonts</id>
+    <updated>2012-10-09T00:00:00Z</updated>
+    <link href="http://miriamsuzanne.com/2012/10/09/susy-fonts" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;The first drafts
+of the &amp;#8220;GreenMud Susy&amp;#8221; fonts
+are kerned, complete,
+and roughly &lt;a class="reference external" href="http://greengreenmud.com/"&gt;in place&lt;/a&gt;.
+Susy chapters now use her font,
+&lt;span class="caps"&gt;JJ&lt;/span&gt; chapters use his,
+and the remainder is split
+until I flesh out a neutral &amp;#8220;narrator&amp;#8221;&amp;nbsp;font.&lt;/p&gt;
+&lt;p&gt;Susy&amp;#8217;s fonts look like&amp;nbsp;this:&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/susy-font.jpg" alt=" " /&gt;
+  &lt;figcaption&gt;
+    Susy Regular in action, Chapter 18.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src="/static/pictures/susy-font-vector.jpg" alt=" " /&gt;
+  &lt;figcaption&gt;
+    Susy Bold Q, under construction.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src="/static/pictures/susy-font-bio.jpg" alt=" " /&gt;
+  &lt;figcaption&gt;
+    Susy Bold, SmallCaps, and Regular on the &amp;#8220;about&amp;#8221; page.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>

@@ -2,18 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://miriamsuzanne.com/feed.atom</id>
-  <updated>2013-03-29T00:00:00Z</updated>
+  <updated>2013-04-18T00:00:00Z</updated>
   <link href="http://miriamsuzanne.com/" />
   <link href="http://miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://miriamsuzanne.com/feed.atom">
+    <title type="text">Stratified Design</title>
+    <id>http://miriamsuzanne.com/2013/04/18/layer-tennis</id>
+    <updated>2013-04-18T00:00:00Z</updated>
+    <link href="http://miriamsuzanne.com/2013/04/18/layer-tennis" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/tennis/volley10.jpg" alt="" /&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.exitstrata.com/"&gt;Exit Strata&lt;/a&gt; asked me to design the cover of their next issue,
+&lt;a class="reference external" href="http://www.exitstrata.com/category/print-2/"&gt;&lt;span class="caps"&gt;PRINT&lt;/span&gt;!&lt;/a&gt; &lt;span class="caps"&gt;VOL&lt;/span&gt;&amp;nbsp;3.&lt;/p&gt;
+&lt;blockquote&gt;
+&amp;#8230;focussed on issues of translation, transmutation,
+and language forms across media,
+as well as the textual/visual/sonic/physical (etc) manifestations
+of these transmissions as they travel between and betwixt our minds&amp;#8230;
+The biggest tension is between that of the printed page
+and that of the new virtual realities&amp;#8230;&lt;/blockquote&gt;
+&lt;p&gt;There&amp;#8217;s only one way I know to make all that&amp;nbsp;happen.&lt;/p&gt;
+&lt;div class="section" id="layer-tennis"&gt;
+&lt;h2&gt;Layer&amp;nbsp;Tennis&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/tennis/volley8.jpg" alt="" /&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://layertennis.com/"&gt;Layer tennis&lt;/a&gt; is a design game
+made popular by &lt;a class="reference external" href="http://www.coudal.com/"&gt;Coudal Partners&lt;/a&gt;.
+Two competitors
+(myself &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;a class="reference external" href="http://aaronliechty.tumblr.com/"&gt;Aaron Liechty&lt;/a&gt;)
+pass design files back and forth,
+riffing on the same work under extreme time constraints.
+Each 30-minute &amp;#8220;volley&amp;#8221; is posted live as it is created,
+along with commentary (&lt;a class="reference external" href="http://jacobliechty.tumblr.com/"&gt;Jacob Liechty&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://sondraedesign.tumblr.com/"&gt;Sondra Eisenstat&lt;/a&gt; agreed to
+help us with
+the thankless task of posting it all online,
+since the rest of us were pre-occupied with
+writing &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; designing under&amp;nbsp;pressure.&lt;/p&gt;
+&lt;p&gt;The battle took place on Sunday afternoon.
+The full experience is still available
+on the &lt;a class="reference external" href="http://www.exitstrata.com/layer-tennis-live-stream-print-vol-3-ole/"&gt;Exit Strata blog&lt;/a&gt;,
+but here are the&amp;nbsp;volleys:&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry xml:base="http://miriamsuzanne.com/feed.atom">
     <title type="text">(re)Thinking on Your Feet</title>
     <id>http://miriamsuzanne.com/2013/03/29/rethinking-on-your-feet</id>
     <updated>2013-03-29T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2013/03/29/rethinking-on-your-feet" />
     <author>
-      <name>Miriam Eric Suzanne</name>
+      <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;[This is &lt;em&gt;part 7&lt;/em&gt; in the ongoing
 &lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
@@ -92,7 +138,7 @@ my very own &amp;#8220;Fuck the Muse&amp;#8221; &lt;a class="reference external"
     <updated>2013-02-28T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2013/02/28/teacup-gorilla" />
     <author>
-      <name>Miriam Eric Suzanne</name>
+      <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;&lt;figure&gt;
   &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F36314485&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=false"&gt;&lt;/iframe&gt;
@@ -142,7 +188,7 @@ and we have big&amp;nbsp;plans.&lt;/p&gt;
     <updated>2013-02-14T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2013/02/14/explosive-growth" />
     <author>
-      <name>Miriam Eric Suzanne</name>
+      <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;[This is &lt;em&gt;part 6&lt;/em&gt; in the ongoing
 &lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
@@ -269,7 +315,7 @@ I&amp;#8217;ll go into more detail on some of those next&amp;nbsp;week.&lt;/p&gt
     <updated>2013-02-07T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2013/02/07/get-curious" />
     <author>
-      <name>Miriam Eric Suzanne</name>
+      <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;[This is &lt;em&gt;part 5&lt;/em&gt; in the ongoing
 &lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
@@ -428,7 +474,7 @@ all useful tools for this explosive curiosity&amp;nbsp;phase.&lt;/p&gt;
     <updated>2013-01-22T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2013/01/22/contour" />
     <author>
-      <name>Miriam Eric Suzanne</name>
+      <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;The editors at &lt;a class="reference external" href="http://www.springgunpress.com/"&gt;SpringGun Press&lt;/a&gt; asked me
 to design cover art
@@ -477,7 +523,7 @@ using my iPad as a light&amp;nbsp;table.&lt;/p&gt;
     <updated>2012-12-13T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2012/12/13/starting-from-a-seed" />
     <author>
-      <name>Miriam Eric Suzanne</name>
+      <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;[This is &lt;em&gt;part 4&lt;/em&gt; in the ongoing
 &lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
@@ -591,12 +637,59 @@ then learn to repeat&amp;nbsp;it.&lt;/p&gt;
 </content>
   </entry>
   <entry xml:base="http://miriamsuzanne.com/feed.atom">
+    <title type="text">Sketchy</title>
+    <id>http://miriamsuzanne.com/2012/11/20/sketchy-couple</id>
+    <updated>2012-11-20T00:00:00Z</updated>
+    <link href="http://miriamsuzanne.com/2012/11/20/sketchy-couple" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;Last month I posted my first
+&lt;a class="reference external" href="/2012/10/18/saying-thanks/"&gt;GreenMud reward portrait&lt;/a&gt;
+of Kitten Karlyle.
+This weekend I finished the second portrait,
+a joint image of my ongoing collaborators
+Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra&amp;nbsp;Eby.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/portraits/DanSondra-BW.png" alt=""&gt;
+  &lt;figcaption&gt;
+    Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra Eby, a sketchy couple.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Dan &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra are the other 2/3 of &lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup Gorilla&lt;/a&gt;,
+and have been a great help with the novel.
+Sondra has been helping me edit the images,
+while Dan is writing the music.
+In the meantime,
+they have moved downtown
+and started a very exciting art/business venture
+that will be announced very soon.
+I can&amp;#8217;t&amp;nbsp;wait!&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src="/static/pictures/portraits/DanSondra-Full.png" alt=""&gt;
+  &lt;figcaption&gt;
+    The sketchy couple in full color.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I began this portrait in the same manner
+as the Kitten Karlyle illustration,
+and quickly found that it was the wrong style for these two.
+I made several more stylistic attempts,
+and was unhappy with all of them.
+We call that &amp;#8220;the creative process&amp;#8221;.
+I finally found the style I wanted
+by accidentally viewing all my sketches
+layered on top of each other.
+The rest was just a matter of&amp;nbsp;cleanup.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://miriamsuzanne.com/feed.atom">
     <title type="text">Creative Modes and Cycles</title>
     <id>http://miriamsuzanne.com/2012/11/08/creative-cycles</id>
     <updated>2012-11-08T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2012/11/08/creative-cycles" />
     <author>
-      <name>Miriam Eric Suzanne</name>
+      <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;[This is &lt;em&gt;part 3&lt;/em&gt; in the ongoing
 &lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
@@ -746,7 +839,7 @@ the end of one cycle is the start of&amp;nbsp;another.&lt;/p&gt;
     <updated>2012-10-31T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2012/10/31/exit-strata" />
     <author>
-      <name>Miriam Eric Suzanne</name>
+      <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;The multimedia arts (&lt;a class="reference external" href="http://www.exitstrata.com/about/"&gt;non&lt;/a&gt;)magazine,
 &lt;a class="reference external" href="http://www.exitstrata.com/"&gt;Exit Strata&lt;/a&gt; has asked to cross post
@@ -763,222 +856,6 @@ go on tangents,
 dispute semantic minutia,
 and otherwise be influenced by your&amp;nbsp;thoughts.&lt;/p&gt;
 &lt;p&gt;Let&amp;#8217;s do&amp;nbsp;this!&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://miriamsuzanne.com/feed.atom">
-    <title type="text">Ordinary Tools of Thought</title>
-    <id>http://miriamsuzanne.com/2012/10/23/ordinary-tools-of-thought</id>
-    <updated>2012-10-23T00:00:00Z</updated>
-    <link href="http://miriamsuzanne.com/2012/10/23/ordinary-tools-of-thought" />
-    <author>
-      <name>Miriam Eric Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;[This is &lt;em&gt;part 2&lt;/em&gt; in the ongoing
-&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Creativity isn&amp;#8217;t magic.
-It happens by applying ordinary tools of thought
-to existing&amp;nbsp;materials.&amp;#8221;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;— Kirby&amp;nbsp;Ferguson&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It seems I can&amp;#8217;t dive straight into
-the &lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;five steps of creative process&lt;/a&gt; —
-my content wants to take a different route
-(more on that later).
-Instead,
-let&amp;#8217;s start by establishing some broad themes
-that will resurface regularly along the&amp;nbsp;way.&lt;/p&gt;
-&lt;div class="section" id="the-elements-of-creativity"&gt;
-&lt;h2&gt;The Elements of&amp;nbsp;Creativity&lt;/h2&gt;
-&lt;p&gt;Kirby Ferguson&amp;#8217;s fantastic video series,
-&lt;a class="reference external" href="http://everythingisaremix.info/"&gt;Everything is a Remix&lt;/a&gt;,
-argues that the three basic techniques of remixing
-(&lt;em&gt;copy&lt;/em&gt;, &lt;em&gt;transform&lt;/em&gt;, &lt;em&gt;combine&lt;/em&gt;)
-are actually the foundation of all creative process.
-He refers to these techniques as the
-&amp;#8220;Elements of&amp;nbsp;Creativity&amp;#8221;.&lt;/p&gt;
-&lt;p&gt;I won&amp;#8217;t go into the details of his argument,
-but you should.
-My goal is to pick up where he leaves off,
-turning creative theory into creative&amp;nbsp;practice.&lt;/p&gt;
-&lt;p&gt;Go watch the entire series.
-I can&amp;nbsp;wait.&lt;/p&gt;
-&lt;blockquote&gt;
-(Pause.)&lt;/blockquote&gt;
-&lt;p&gt;I&amp;#8217;m serious.
-Consider it&amp;nbsp;homework.&lt;/p&gt;
-&lt;blockquote&gt;
-(He remains a moment motionless,
-then goes out.
-He comes back immediately,
-goes to window right,
-takes up the ladder and carries it out.
-Pause.) &lt;a class="reference external" href="http://samuel-beckett.net/endgame.html"&gt;*&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div class="section" id="spark-slip"&gt;
-&lt;h2&gt;Spark &lt;span class="amp"&gt;&amp;&lt;/span&gt;&amp;nbsp;Slip&lt;/h2&gt;
-&lt;p&gt;Douglas Hofstadter,
-a writer and professor of cognitive science,
-makes the same argument in his book
-&lt;a class="reference external" href="http://books.google.com/books/about/Metamagical_Themas.html?id=o8jzWF7rD6oC"&gt;Metamagical Themas&lt;/a&gt;.
-He talks about creativity as
-a process of &amp;#8220;sparking &lt;span class="amp"&gt;&amp;&lt;/span&gt;&amp;nbsp;slipping&amp;#8221;:&lt;/p&gt;
-&lt;blockquote&gt;
-There is a way that concepts have of &amp;#8220;slipping&amp;#8221;
-from one into another,
-following a quite unpredictable path&amp;#8230;
-An example of such a slip is furnished to us
-whenever we make a typo or grammatical mistake,
-utter a malapropism&amp;#8230;
-or confuse two concepts at a deeply semantic level.&lt;/blockquote&gt;
-&lt;p&gt;This isn&amp;#8217;t just technique,
-this is how our brains work —
-sparking off ideas and slipping towards other ideas —
-copying, transforming, &lt;span class="amp"&gt;&amp;&lt;/span&gt; combining
-into new&amp;nbsp;ideas.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-art-is-inevitable"&gt;
-&lt;h2&gt;The Art is&amp;nbsp;Inevitable&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I invented nothing new.
-I simply assembled the discoveries of other men
-behind whom were centuries of work&amp;#8230;
-So it is with every new thing.
-Progress happens when all the factors that make for it are ready,
-and then it is&amp;nbsp;inevitable.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;— Henry&amp;nbsp;Ford&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Art is no different.
-Like inventors and scientists,
-our job is to facilitate the process of
-experimentation and transformation,
-then capture the&amp;nbsp;results.&lt;/p&gt;
-&lt;p&gt;These can be difficult skills to master,
-but they aren&amp;#8217;t magic,
-and there are tools that can help us.
-It&amp;#8217;s nothing new —
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Conceptual_art"&gt;conceptual artists&lt;/a&gt; and &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Remix"&gt;remix artists&lt;/a&gt;
-have been honing these tools for years,
-and we&amp;#8217;ll borrow from them regularly —
-but I want to show that the conceptual/remix process is essential
-for &lt;em&gt;every&lt;/em&gt; medium and &lt;em&gt;every&lt;/em&gt;&amp;nbsp;genre.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-series"&gt;
-&lt;h2&gt;The&amp;nbsp;Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/14/explosive-growth/"&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/03/29/rethinking-on-your-feet/"&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://miriamsuzanne.com/feed.atom">
-    <title type="text">Fuck the Muse: A Blog Mini-Series</title>
-    <id>http://miriamsuzanne.com/2012/10/16/muse-intro</id>
-    <updated>2012-10-16T00:00:00Z</updated>
-    <link href="http://miriamsuzanne.com/2012/10/16/muse-intro" />
-    <author>
-      <name>Miriam Eric Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;[This is &lt;em&gt;part 1&lt;/em&gt; in the ongoing
-&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
-&lt;p&gt;I was planning to spend this month
-teaching &lt;a class="reference external" href="http://eric.andmeyer.com/2012/08/30/fuck-the-muse"&gt;a class&lt;/a&gt; for the
-&lt;a class="reference external" href="http://www.boulderwritersworkshop.org/"&gt;Boulder Writers&amp;#8217; Workshop&lt;/a&gt;.
-That garnered some interest,
-but didn&amp;#8217;t pan out in the end.
-Instead, I&amp;#8217;m going to explore the same themes right here
-in a six-part &lt;em&gt;Fuck the Muse&lt;/em&gt; blog &lt;a class="reference external" href="http://www.imdb.com/title/tt0088727/"&gt;mini-series&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The goal is&amp;nbsp;simple:&lt;/p&gt;
-&lt;blockquote&gt;
-Take control of your art
-by focusing on the process of creation.&lt;/blockquote&gt;
-&lt;p&gt;I&amp;#8217;ve been told that you can&amp;#8217;t teach creativity, but I disagree.
-We think of creativity as sudden, sexy, inexplicable moments of inspiration —
-ignoring the hard work that makes those moments possible.
-I can&amp;#8217;t teach you how to be inspired,
-but I can teach you how to hunt down inspiration,
-kill it, and tan the&amp;nbsp;hide.&lt;/p&gt;
-&lt;div class="section" id="the-art-of-control"&gt;
-&lt;h2&gt;The Art of&amp;nbsp;Control&lt;/h2&gt;
-&lt;p&gt;Taking control of your art isn&amp;#8217;t a matter of brute force.
-You have to let go, explore, take risks, and throw yourself off-balance.
-A good process will give you that freedom,
-while nudging you in the right&amp;nbsp;direction.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;strong&gt;Ease the burden of originality.&lt;/strong&gt;
-The pressure to be unique and interesting can paralyze you.
-Don&amp;#8217;t try to be interesting.
-Set up the conditions,
-and make sure you capture the&amp;nbsp;results.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Do the unthinkable.&lt;/strong&gt;
-The only way to create something beyond imagining
-is to explore outside your own imagination.
-Let the process take you&amp;nbsp;there.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Make informed decisions.&lt;/strong&gt;
-Stepping back from the work allows you to see it more clearly.
-Once you have all the options in front of you,
-you can see what works and what&amp;nbsp;doesn&amp;#8217;t.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Put your strengths (and weaknesses) to use.&lt;/strong&gt;
-Measure your skills against each step of the process.
-Learn what you can count on,
-where you need training or practice,
-and how to turn your flaws into assets along the&amp;nbsp;way.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="class-overview"&gt;
-&lt;h2&gt;Class&amp;nbsp;Overview&lt;/h2&gt;
-&lt;p&gt;I break the creative process down into five major steps.
-We&amp;#8217;ll look at each one in it&amp;#8217;s own&amp;nbsp;post:&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;Define the Seed: &lt;em&gt;What&amp;#8217;s the idea, question, or&amp;nbsp;hypothesis?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Explore: &lt;em&gt;Reasearch, gather, and create the&amp;nbsp;materials.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Organize: &lt;em&gt;Outline the structure, or impose&amp;nbsp;one.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Draft: &lt;em&gt;Compile a complete first&amp;nbsp;draft.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Revise: &lt;em&gt;Consider, critique, and edit as&amp;nbsp;needed.&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;There&amp;#8217;s more than one way to skin the walrus,
-and each project will call for unique adjustments,
-but the same basic tools are needed to create genre fiction,
-absurdest drama,
-lyric poetry,
-or conceptual installation&amp;nbsp;art.&lt;/p&gt;
-&lt;p&gt;This isn&amp;#8217;t paint-by-numbers —
-it&amp;#8217;s a toolkit and a way of thinking.
-What you do with it is up to&amp;nbsp;you.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="credit-where-due"&gt;
-&lt;h2&gt;Credit Where&amp;nbsp;Due&lt;/h2&gt;
-&lt;p&gt;My approach is influenced most heavily by
-Anne Bogart&amp;#8217;s &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Viewpoints"&gt;Viewpoints&lt;/a&gt;,
-Chuck Mee&amp;#8217;s &lt;a class="reference external" href="http://www.charlesmee.org/indexf.html"&gt;(re)making project&lt;/a&gt;,
-&lt;a class="reference external" href="http://lida.org/"&gt;The &lt;span class="caps"&gt;LIDA&lt;/span&gt; Project&lt;/a&gt;&amp;#8216;s &amp;#8220;bucketing&amp;#8221;,
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Lean_manufacturing"&gt;Lean&lt;/a&gt; and &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Agile_software_development"&gt;Agile&lt;/a&gt; web development,
-standard graphic design processes,
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Scientific_method"&gt;scientific method&lt;/a&gt;,
-&lt;a class="reference external" href="http://www.austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/"&gt;Steal Like An Artist&lt;/a&gt; by Austin Kleon,
-&lt;a class="reference external" href="http://www.everythingisaremix.info/"&gt;Everything is a Remix&lt;/a&gt; by Kirby Ferguson,
-Don Fry&amp;#8217;s &lt;a class="reference external" href="http://donfry.wordpress.com/"&gt;Writing Your Way&lt;/a&gt;,
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Queer_theory"&gt;queer theory&lt;/a&gt;,
-and many years of working with ensemble theatres and&amp;nbsp;bands.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-series"&gt;
-&lt;h2&gt;The&amp;nbsp;Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/14/explosive-growth/"&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/03/29/rethinking-on-your-feet/"&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
 </content>
   </entry>
 </feed>
