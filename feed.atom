@@ -2,11 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://miriamsuzanne.com/feed.atom</id>
-  <updated>2016-08-17T00:00:00Z</updated>
+  <updated>2016-08-18T00:00:00Z</updated>
   <link href="http://miriamsuzanne.com/" />
   <link href="http://miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://miriamsuzanne.com/feed.atom">
+    <title type="text">SitePoint: Live Q&amp;A on Toolkits</title>
+    <id>http://miriamsuzanne.com/2016/08/18/sitepoint-qa</id>
+    <updated>2016-08-18T00:00:00Z</updated>
+    <link href="http://miriamsuzanne.com/2016/08/18/sitepoint-qa" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;I did a &lt;a class="reference external" href="https://www.sitepoint.com/community/t/live-q-a-miriam-suzanne-on-susy-and-the-need-for-toolkits-on-18th-aug-2pm-pst/232664"&gt;live Q&amp;amp;A at SitePoint&lt;/a&gt;
+talking&amp;nbsp;about:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Customizing Susy for your&amp;nbsp;projects&lt;/li&gt;
+&lt;li&gt;Other ways to do layouts (and why you might not even need a&amp;nbsp;toolkit)&lt;/li&gt;
+&lt;li&gt;How to select a toolkit, or build your very&amp;nbsp;own!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+To be clear:
+now that we have border-box sizing,
+grid math can be much simpler.
+Complex math is only required
+if you are using margin-based gutters.
+Move your gutters into padding,
+and the math is simple.
+That&amp;#8217;s why I don&amp;#8217;t use Susy
+(or any grid system)
+much any more.
+&lt;cite&gt;percentage(1/5)&lt;/cite&gt; works great in Sass -
+and flexbox takes care of the&amp;nbsp;rest.
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;You can read
+&lt;a class="reference external" href="https://www.sitepoint.com/how-to-choose-the-right-css-toolkits-and-frameworks/"&gt;a summary of the conversation&lt;/a&gt;
+as well —
+but it leaves out some good bits.&amp;nbsp;;)&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="http://miriamsuzanne.com/feed.atom">
     <title type="text">Miriam: A How-To Guide</title>
     <id>http://miriamsuzanne.com/2016/08/17/trans</id>
@@ -277,6 +313,98 @@ The rest can happen&amp;nbsp;slowly.&lt;/p&gt;
 </content>
   </entry>
   <entry xml:base="http://miriamsuzanne.com/feed.atom">
+    <title type="text">SitePoint: Jump Start Sass</title>
+    <id>http://miriamsuzanne.com/2016/05/30/jssass</id>
+    <updated>2016-05-30T00:00:00Z</updated>
+    <link href="http://miriamsuzanne.com/2016/05/30/jssass" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;I&amp;#8217;m excited to release
+&lt;a class="reference external" href="https://www.sitepoint.com/premium/books/jump-start-sass"&gt;Jump Start Sass&lt;/a&gt;,
+a book I co-authored with &lt;a class="reference external" href="http://hugogiraudel.com/"&gt;Hugo Giraudel&lt;/a&gt;.
+Digital coppies are available from &lt;a class="reference external" href="https://www.sitepoint.com/"&gt;SitePoint&lt;/a&gt;,
+wih print edditions sold by &lt;a class="reference external" href="http://shop.oreilly.com/product/9780994182678.do"&gt;O&amp;#8217;Reilly&lt;/a&gt;.
+Here&amp;#8217;s an excerpt from Chapter 11,
+&lt;a class="reference external" href="https://www.sitepoint.com/architecture-in-sass/"&gt;Sass&amp;nbsp;Architecture&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="components-and-organization"&gt;
+&lt;h2&gt;Components and&amp;nbsp;Organization&lt;/h2&gt;
+&lt;p&gt;Most &lt;span class="caps"&gt;CSS&lt;/span&gt; and Sass organization systems
+are based on some concept of user interface “components”
+or discrete pieces that can be put together
+to form a complete project.
+Components can be any size or shape,
+but they should focus on doing one task independently,
+and in a reusable way.
+A button, a drop-down, a calendar, and a search form
+are all examples of components
+that can be reused at different places across a project.
+Thinking about your project as a collection of components
+will help you towards having an organized and maintainable architecture,
+whether you’re using Sass or plain&amp;nbsp;&lt;span class="caps"&gt;CSS&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Because of the way &lt;span class="caps"&gt;CSS&lt;/span&gt; works,
+the order of your code will also affect its meaning:
+later code has priority in the cascade over the code before it.
+Some of the popular branded architectures
+(the ones you know by name)
+try to eliminate this feature of the cascade entirely,
+but I use it as a guide —
+organizing code from the most general to the most specific —
+so the priority override makes sense.
+Code that we want applied generally across the site should come first,
+growing slowly in specificity and detail
+as we move towards more unique components and special&amp;nbsp;cases.&lt;/p&gt;
+&lt;p&gt;I first learned of this approach from &lt;a class="reference external" href="https://twitter.com/Natbat"&gt;Natalie Downe&lt;/a&gt;’s
+wonderful &lt;a class="reference external" href="http://www.slideshare.net/nataliedowne/css-systems-presentation"&gt;&lt;span class="caps"&gt;CSS&lt;/span&gt; Systems&lt;/a&gt; talk in 2008
+before I’d ever used Sass.
+Her architecture at the time started with
+elements (h2, ol, ul, and so on) grouped by “type”,
+followed by classes grouped by the “effect” created,
+and finally IDs grouped by the “component” they affect.
+These days it’s common practice to avoid IDs altogether,
+and break elements into smaller pieces,
+but the concept remains the same:
+global defaults first,
+followed by site-wide patterns and broad layouts,
+and finally, more specific modules, themes, and&amp;nbsp;overrides.&lt;/p&gt;
+&lt;p&gt;Sass projects include another category of site-wide defaults
+not found in &lt;span class="caps"&gt;CSS&lt;/span&gt;:
+code with no output at all —
+such as variables, functions, and mixin definitions.
+Many people
+(myself included)
+break that code into its own set of partials,
+to be imported anywhere it might be useful.
+I have a complete folder
+just for site-wide Sass helpers and configuration
+that don’t result in output.
+Those files act as a single, definitive, and reusable configuration
+that defines the boundaries of a project.
+By ensuring your configuration is output-free,
+you can import it anywhere
+without worrying about duplicated or unwanted&amp;nbsp;styles.&lt;/p&gt;
+&lt;p&gt;Here are some guidelines for thinking about&amp;nbsp;architecture:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Break your code into the smallest logical component&amp;nbsp;partials.&lt;/li&gt;
+&lt;li&gt;Organize your partials into grouped folders based on&amp;nbsp;specificity.&lt;/li&gt;
+&lt;li&gt;Import those partials into one master file in order of&amp;nbsp;specificity.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;However, many variations do exist
+on the specific ways people implement those&amp;nbsp;ideas.&lt;/p&gt;
+&lt;p&gt;You may also find that a lot of the branded systems
+developed by and for massive companies with large-scale needs
+don’t always translate to smaller teams and products.
+Every project has different requirements,
+so you should never assume that the best solution
+for InstaFace or MyPinBook
+is going to be the best solution for&amp;nbsp;you.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.sitepoint.com/architecture-in-sass/" class="btn"&gt;
+  Read the full chapter on&amp;nbsp;SitePoint
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="http://miriamsuzanne.com/feed.atom">
     <title type="text">10 Myths at Buntport</title>
     <id>http://miriamsuzanne.com/2016/03/04/10-myths</id>
     <updated>2016-03-04T00:00:00Z</updated>
@@ -284,12 +412,7 @@ The rest can happen&amp;nbsp;slowly.&lt;/p&gt;
     <author>
       <name>Miriam Suzanne</name>
     </author>
-    <content type="html">&lt;p&gt;&lt;figure&gt;
-  &lt;a href="http://buntport.com/archive/archive.htm"&gt;
-    &lt;img src="/static/pictures/10-myths.png" alt="" /&gt;
-  &lt;/a&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;#8217;m very excited to be part of &lt;a class="reference external" href="http://buntport.com"&gt;Buntport Theater&lt;/a&gt;’s
+    <content type="html">&lt;p&gt;I&amp;#8217;m excited to be part of &lt;a class="reference external" href="http://buntport.com"&gt;Buntport Theater&lt;/a&gt;’s
 40th original full-length production —
 based on my novel, &lt;a class="reference external" href="http://ridingsidesaddle.com"&gt;Riding SideSaddle*&lt;/a&gt;,
 and featuring a live score by &lt;a class="reference external" href="http://teacupgorilla.com"&gt;Teacup Gorilla&lt;/a&gt;.
@@ -305,6 +428,48 @@ Read the reviews in
 &lt;a class="reference external" href="http://www.outfrontonline.com/culture/buntport-theater-presents-10-myths-proper-application-beauty-products/"&gt;Out Front&lt;/a&gt;, &lt;a class="reference external" href="http://www.denverpost.com/theater/ci_29605936/buntports-dark-comedy-10-myths-an-oddly-satisfying"&gt;The Denver Post&lt;/a&gt;,
 &lt;a class="reference external" href="http://www.huffingtonpost.com/tracy-shaffer/buntport-theatres-new-sho_b_9386846.html"&gt;Huffington Post&lt;/a&gt;, and &lt;a class="reference external" href="http://coloradodrama.com/10_myths.html"&gt;Colorado Drama&lt;/a&gt; —
 then &lt;a class="reference external" href="http://buntport.com/archive/archive.htm"&gt;reserve your tickets before they&amp;#8217;re gone&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://miriamsuzanne.com/feed.atom">
+    <title type="text">Miriam E* Suzanne</title>
+    <id>http://miriamsuzanne.com/2015/10/17/miriam</id>
+    <updated>2015-10-17T00:00:00Z</updated>
+    <link href="http://miriamsuzanne.com/2015/10/17/miriam" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;It’s the third Saturday in October,
+which everyone knows is
+“Announce Your New Name/Gender —
+If You Were &lt;a class="reference external" href="/2014/02/26/name/"&gt;Once Called&lt;/a&gt; Eric A Meyer,
+But Not &lt;a class="reference external" href="http://meyerweb.com"&gt;The One Who Wrote The &lt;span class="caps"&gt;CSS&lt;/span&gt; Reset&lt;/a&gt;,
+The Other One, You Know — Day”.
+It’s a long title for a little-celebrated holiday,
+but it’s important to some of us&amp;nbsp;(me).&lt;/p&gt;
+&lt;p&gt;To commemorate the moment,
+I’ve expanded that previously un-defined “M”
+that’s been hanging out in the middle of my name —
+now “Miriam Eric Suzanne” —
+with “Miriam” as the colloquial,
+and moved my site to &lt;a class="reference external" href="/"&gt;miriamsuzanne.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Miriam Suzanne is the name
+my parents had picked out for me
+33-odd years ago,
+and forgot to apply.
+It&amp;#8217;s never too late.
+Thanks Mom! Thanks&amp;nbsp;Dad!&lt;/p&gt;
+&lt;p&gt;If you thought I was out a long time ago,
+you&amp;#8217;re not entirely wrong —
+but sometimes a slow process
+requires the occasional re-fresh.
+If you are surprised and confused,
+so am I —
+maybe we&amp;#8217;ll get through this together?
+If you are interested in some highlights from
+my &lt;a class="reference external" href="https://oddbooksapp.com/book/trans-reading-list"&gt;summer-of-trans* reading list&lt;/a&gt;,
+I made it available online
+(and I&amp;#8217;m always open to more suggestions).
+Happy&amp;nbsp;queerness!&lt;/p&gt;
 </content>
   </entry>
   <entry xml:base="http://miriamsuzanne.com/feed.atom">
@@ -398,67 +563,6 @@ self-proclaimed prophet.
 Created by Adam Stone &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Erin Rollman
 at Buntport Theatre,
 with contributions from myself and many others (August 8-9,&amp;nbsp;2014).&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://miriamsuzanne.com/feed.atom">
-    <title type="text">The Post-Obsolete Book (again)</title>
-    <id>http://miriamsuzanne.com/2014/08/04/post-obsolete</id>
-    <updated>2014-08-04T00:00:00Z</updated>
-    <link href="http://miriamsuzanne.com/2014/08/04/post-obsolete" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a class="reference external" href="http://www.post-obsolete.com/"&gt;The Obsolete Book in a Post-Obsolete World as Represented by an Obsolete Book About Dance&lt;/a&gt;
-is a reflection on the obsolescence of obsolescence,
-and a performable website in the spirit of &lt;a class="reference external" href="http://www.michelleellsworth.com/"&gt;Michelle Ellsworth&lt;/a&gt;.
-This summer it also became a gallery installation,
-when I was invited to install &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; perform
-in the &lt;a class="reference external" href="http://eliterature.org/"&gt;Electronic Literature Organization&lt;/a&gt; conference&amp;nbsp;gallery.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.huffingtonpost.com/illya-szilak/"&gt;Illya Szilak&lt;/a&gt; reviewed the show &lt;a class="reference external" href="http://www.huffingtonpost.com/illya-szilak/disperse-the-light-an-int_b_5603196.html"&gt;The Huffington Post&lt;/a&gt;,
-and &lt;a class="reference external" href="http://kathiiberens.com/"&gt;Kathi Inman Berens&lt;/a&gt; (the gallery curator) posted
-the video above on&amp;nbsp;YouTube.&lt;/p&gt;
-&lt;p&gt;Thanks for keeping the obsolete book&amp;nbsp;alive!&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://miriamsuzanne.com/feed.atom">
-    <title type="text">Pig Sez [Demo]</title>
-    <id>http://miriamsuzanne.com/2014/08/01/pigsez</id>
-    <updated>2014-08-01T00:00:00Z</updated>
-    <link href="http://miriamsuzanne.com/2014/08/01/pigsez" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;The last demo of new material (for now).
-This is Pig Sez,
-with words from &lt;span class="caps"&gt;CA&lt;/span&gt; Conrad&amp;#8217;s
-&lt;a class="reference external" href="http://wavepoetry.myshopify.com/products/the-book-of-frank"&gt;The Book of&amp;nbsp;Frank&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/159477906&amp;amp;color=ff0000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Feel free to leave comments on &lt;a class="reference external" href="https://soundcloud.com/teacupgorilla"&gt;SoundCloud&lt;/a&gt;,
-or find us on &lt;a class="reference external" href="http://twitter.com/teacupgorilla"&gt;Twitter&lt;/a&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;a class="reference external" href="http://facebook.com/teacupgorilla"&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://miriamsuzanne.com/feed.atom">
-    <title type="text">I'm Not Ready To Go Yet [Demo]</title>
-    <id>http://miriamsuzanne.com/2014/07/29/inrtgy</id>
-    <updated>2014-07-29T00:00:00Z</updated>
-    <link href="http://miriamsuzanne.com/2014/07/29/inrtgy" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;Another demo!
-This one features Daniel Rule on the second guitar &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; vocals.
-Daniel has started playing with us regularly these days —
-we&amp;#8217;re excited to have him in the&amp;nbsp;band!&lt;/p&gt;
-&lt;p&gt;I&amp;#8217;m Not Ready To Go Yet is our follow-up
-to the earlier Suicide Note.
-We have an updated demo of that coming soon&amp;nbsp;too&amp;#8230;&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/159561832&amp;amp;color=ff0000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Feel free to leave comments on &lt;a class="reference external" href="https://soundcloud.com/teacupgorilla"&gt;SoundCloud&lt;/a&gt;,
-or find us on &lt;a class="reference external" href="http://twitter.com/teacupgorilla"&gt;Twitter&lt;/a&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;a class="reference external" href="http://facebook.com/teacupgorilla"&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
