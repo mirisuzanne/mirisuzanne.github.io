@@ -2,11 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://miriamsuzanne.com/feed.atom</id>
-  <updated>2016-08-18T00:00:00Z</updated>
+  <updated>2016-10-10T00:00:00Z</updated>
   <link href="http://miriamsuzanne.com/" />
   <link href="http://miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://miriamsuzanne.com/feed.atom">
+    <title type="text">Estrogentrification: Jordan Wieleba</title>
+    <id>http://miriamsuzanne.com/2016/10/10/wieleba</id>
+    <updated>2016-10-10T00:00:00Z</updated>
+    <link href="http://miriamsuzanne.com/2016/10/10/wieleba" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;blockquote&gt;
+&lt;p&gt;
+  I look in the mirror
+  and see a person looking back at me every day,
+  a person I didn’t necessarily think I’d ever see.
+  I like that person.
+  I genuinely like that person.
+  I like the way she holds herself.
+  I like the confidence you can see
+  behind her muted green eyes.
+  She has seen me at my worst
+  and she has seen me at my best.
+  She is a person that makes me happy
+  and I am so thrilled I get to spend
+  the rest of my life with her.
+  I wish everyone could look into that&amp;nbsp;mirror.
+&lt;/p&gt;
+&lt;cite&gt;
+  —
+  Jordan Wieleba,
+  &lt;a href="http://wieleblog.tumblr.com/post/145865299161/the-happiest-place-on-earth"&gt;The Happiest Place on Earth&lt;/a&gt;
+&lt;/cite&gt;
+&lt;/blockquote&gt;
+&lt;div data-gallery="video" data-size="full"&gt;
+&lt;div class="video-wrap"&gt;
+  &lt;iframe width="723" height="419" src="https://www.youtube.com/embed/Uxp4xx9YHDw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Jordan and I were never close.
+Her colleagues say she was private,
+but I only experienced her generosisty,
+kindness, and humor.
+She is one of the first trans women I talked to
+before coming out.
+She was blunt about her own experience,
+but endlessly supportive.
+&lt;em&gt;You do you, girl. You have to do you.&lt;/em&gt;
+After that, she checked in regularly —
+making sure I was&amp;nbsp;ok.&lt;/p&gt;
+&lt;p&gt;I know I wasn&amp;#8217;t the only trans woman she helped.
+Jordan saved&amp;nbsp;lives.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/219256111&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;I only saw her perform once,
+and it was amazing.
+She&amp;#8217;s also a great &lt;a class="reference external" href="http://harlot.media/articles/1385/on-the-joys-of-cis-people-telling-me-how-well-i-pass"&gt;writer&lt;/a&gt;.
+I recommend a trip down her &lt;a class="reference external" href="http://wieleblog.tumblr.com"&gt;rabbit hole&lt;/a&gt;.
+Is that gross?
+It sounds&amp;nbsp;gross.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="http://miriamsuzanne.com/feed.atom">
     <title type="text">SitePoint: Live Q&amp;A on Toolkits</title>
     <id>http://miriamsuzanne.com/2016/08/18/sitepoint-qa</id>
@@ -545,24 +603,6 @@ published by &lt;a class="reference external" href="http://springgunpress.com/"&
 featuring &lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup Gorilla&lt;/a&gt;,
 &lt;a class="reference external" href="http://ridingsidesaddle.net/www.jkandtheloss.com"&gt;Jen Korte&lt;/a&gt;, and &lt;a class="reference external" href="http://ridingsidesaddle.net/www.opentothehound.com"&gt;Open to the Hound&lt;/a&gt;
 at &lt;a class="reference external" href="http://ridingsidesaddle.net/physicopera.com"&gt;Syntax Physic Opera&lt;/a&gt; 554 S Broadway, Denver&amp;nbsp;&lt;span class="caps"&gt;CO&lt;/span&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://miriamsuzanne.com/feed.atom">
-    <title type="text">PROPHETIA VETITUM MUNDI</title>
-    <id>http://miriamsuzanne.com/2014/08/19/screwtooth</id>
-    <updated>2014-08-19T00:00:00Z</updated>
-    <link href="http://miriamsuzanne.com/2014/08/19/screwtooth" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;A &lt;a class="reference external" href="http://www.screwtooth.com"&gt;Screw Tooth&lt;/a&gt; installation &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; performance
-built from the prophetic 1982 science-fiction/horror movie,
-“Forbidden World,”
-filtered through the mind of an obsessive,
-self-proclaimed prophet.
-Created by Adam Stone &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Erin Rollman
-at Buntport Theatre,
-with contributions from myself and many others (August 8-9,&amp;nbsp;2014).&lt;/p&gt;
 </content>
   </entry>
 </feed>
