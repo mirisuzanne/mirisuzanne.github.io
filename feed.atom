@@ -8,7 +8,7 @@
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
   <entry xml:base="http://miriamsuzanne.com/feed.atom">
-    <title type="text">Resistence Tour, 2017</title>
+    <title type="text">Resistance Tour, 2017</title>
     <id>http://miriamsuzanne.com/2016/12/09/resistence-tour</id>
     <updated>2016-12-09T00:00:00Z</updated>
     <link href="http://miriamsuzanne.com/2016/12/09/resistence-tour" />
@@ -20,7 +20,7 @@ since our country pseudo-elected
 a bigoted blow-hard for president.
 I&amp;#8217;m heading to &lt;span class="caps"&gt;DC&lt;/span&gt; to protest his inauguration in January,
 visit friends,
-and go on a mixed-media resistence&amp;nbsp;tour:&lt;/p&gt;
+and go on a mixed-media resistance&amp;nbsp;tour:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;reading from my queer-as-fuck novel &lt;a class="reference external" href="http://ridingsidesaddle.com/"&gt;Riding&amp;nbsp;SideSaddle*&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;speaking about code, &lt;span class="caps"&gt;UX&lt;/span&gt;, and empathy in&amp;nbsp;tech&lt;/li&gt;
@@ -30,7 +30,7 @@ and go on a mixed-media resistence&amp;nbsp;tour:&lt;/p&gt;
 &lt;p&gt;If I&amp;#8217;m able to cover my costs,
 any profits will go to
 &lt;a class="reference external" href="http://togetherlist.com/"&gt;one of these rad organizations&lt;/a&gt;
-commited to empowering
+committed to empowering
 women, people of color, immigrants, queers, Muslims, and disabled people —
 or fighting climate change.
 If you have a specific organization to recommend,
@@ -40,7 +40,7 @@ If you have a specific organization to recommend,
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;em&gt;Jan 15&lt;/em&gt; in &lt;strong&gt;Washington, &lt;span class="caps"&gt;DC&lt;/span&gt;&lt;/strong&gt; &lt;br /&gt;
 reading at &lt;a class="reference external" href="http://www.dcpoetry.com/iye"&gt;in your ear&lt;/a&gt;
-(3pm &amp;#64; &lt;span class="caps"&gt;DC&lt;/span&gt; Arts&amp;nbsp;Center)&lt;/li&gt;
+(3pm &amp;#64; &lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;`&lt;span class="caps"&gt;DC&lt;/span&gt; Arts Center`_&lt;/span&gt;&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Jan 19&lt;/em&gt; in &lt;strong&gt;Fredrick, &lt;span class="caps"&gt;MD&lt;/span&gt;&lt;/strong&gt; &lt;br /&gt;
 house reading and conversation
 (details&amp;nbsp;&lt;span class="caps"&gt;TBA&lt;/span&gt;)&lt;/li&gt;
@@ -60,6 +60,12 @@ If you have an event or contacts in
 Baltimore, Philly, &lt;span class="caps"&gt;NYC&lt;/span&gt;,
 or anywhere in-between,
 please &lt;a class="reference external" href="/contact/"&gt;let me know&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="system-messages section"&gt;
+&lt;h2&gt;Docutils System&amp;nbsp;Messages&lt;/h2&gt;
+&lt;div class="system-message" id="id1"&gt;
+&lt;p class="system-message-title"&gt;System Message: &lt;span class="caps"&gt;ERROR&lt;/span&gt;/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 29); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Unknown target name: &amp;#8220;dc arts center&amp;#8221;.&lt;/div&gt;
 &lt;/div&gt;
 </content>
   </entry>
