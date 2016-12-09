@@ -40,7 +40,7 @@ If you have a specific organization to recommend,
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;em&gt;Jan 15&lt;/em&gt; in &lt;strong&gt;Washington, &lt;span class="caps"&gt;DC&lt;/span&gt;&lt;/strong&gt; &lt;br /&gt;
 reading at &lt;a class="reference external" href="http://www.dcpoetry.com/iye"&gt;in your ear&lt;/a&gt;
-(3pm &amp;#64; &lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;`&lt;span class="caps"&gt;DC&lt;/span&gt; Arts Center`_&lt;/span&gt;&lt;/a&gt;)&lt;/li&gt;
+(3pm &amp;#64; &lt;a class="reference external" href="http://www.dcartscenter.org"&gt;&lt;span class="caps"&gt;DC&lt;/span&gt; Arts Center&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Jan 19&lt;/em&gt; in &lt;strong&gt;Fredrick, &lt;span class="caps"&gt;MD&lt;/span&gt;&lt;/strong&gt; &lt;br /&gt;
 house reading and conversation
 (details&amp;nbsp;&lt;span class="caps"&gt;TBA&lt;/span&gt;)&lt;/li&gt;
@@ -60,12 +60,6 @@ If you have an event or contacts in
 Baltimore, Philly, &lt;span class="caps"&gt;NYC&lt;/span&gt;,
 or anywhere in-between,
 please &lt;a class="reference external" href="/contact/"&gt;let me know&lt;/a&gt;!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="system-messages section"&gt;
-&lt;h2&gt;Docutils System&amp;nbsp;Messages&lt;/h2&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: &lt;span class="caps"&gt;ERROR&lt;/span&gt;/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 29); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Unknown target name: &amp;#8220;dc arts center&amp;#8221;.&lt;/div&gt;
 &lt;/div&gt;
 </content>
   </entry>
