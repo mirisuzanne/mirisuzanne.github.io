@@ -2,11 +2,388 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://miriamsuzanne.com/feed.atom</id>
-  <updated>2016-12-18T00:00:00Z</updated>
+  <updated>2016-12-24T00:00:00Z</updated>
   <link href="http://miriamsuzanne.com/" />
   <link href="http://miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://miriamsuzanne.com/feed.atom">
+    <title type="text">Some Clarifications on Trans Language</title>
+    <id>http://miriamsuzanne.com/2016/12/24/clarifications</id>
+    <updated>2016-12-24T00:00:00Z</updated>
+    <link href="http://miriamsuzanne.com/2016/12/24/clarifications" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;There&amp;#8217;s a lot of language that gets thrown around,
+but much of it comes loaded with
+&lt;label for="erasure"&gt;over-simplified&lt;/label&gt; baggage and misconceptions.
+Here are a few that have been on my&amp;nbsp;mind&amp;#8230;&lt;/p&gt;
+&lt;p&gt;(See also &lt;a class="reference external" href="http://juliaserano.com/"&gt;Julia Serano&lt;/a&gt;’s wonderful
+&lt;a class="reference external" href="http://juliaserano.com/terminology.html"&gt;Transgender Glossary&lt;/a&gt;
+if you are interested in more.
+I link to it&amp;nbsp;throughout.)&lt;/p&gt;
+&lt;div class="section" id="gender-identity"&gt;
+&lt;h2&gt;Gender&amp;nbsp;&amp;#8220;Identity&amp;#8221;&lt;/h2&gt;
+&lt;p&gt;Identity comes up regularly in trans politics,
+but refers to two very &lt;strong&gt;different concepts&lt;/strong&gt; —
+often interchangeably,
+and without&amp;nbsp;distinction.&lt;/p&gt;
+&lt;ol class="arabic"&gt;
+&lt;li&gt;&lt;p class="first"&gt;Our conscious acts of identifying
+with a gender or sexuality —
+male, female, non-binary, fluid,
+straight, bi, gay,
+cis, trans, &lt;strong&gt;non-conforming,&lt;/strong&gt;
+or otherwise.
+We all have &lt;strong&gt;multiple conscious identities,&lt;/strong&gt;
+that interact and change over&amp;nbsp;time.&lt;/p&gt;
+&lt;p&gt;Those identities are curated,
+public,
+and often fluid.
+I&amp;#8217;m still learning to identify
+as a woman,
+trans,
+and lesbian —
+even while the realities are more complex,
+queer, and fluctuating.
+I also identify as an author,
+a web developer,
+bi/pansexual,
+gender queer,
+and polyamorous.
+&lt;strong&gt;None of this is unique to the trans&amp;nbsp;experience.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Our vague and &lt;strong&gt;often-elusive&lt;/strong&gt;
+sense of innate gender —
+something most people seem to have,
+but trans people spend more time dealing with.
+&lt;a class="reference external" href="http://juliaserano.com/terminology.html#subconscioussex"&gt;Subconscious sex&lt;/a&gt; is really a better term
+for understanding trans identities.
+This is not a conscious or curated self-labeling,
+but more like the sensation of being
+angry &lt;strong&gt;because you are hungry&lt;/strong&gt; —
+a feeling that can be &lt;strong&gt;difficult to pin down&lt;/strong&gt;.
+For some of us it is simply male or female,
+and becomes obvious early on —
+but for many it is more complex,
+and takes years to dig through &lt;strong&gt;the rubble
+of&lt;/strong&gt; assumptions, fears, and prejudices
+around &lt;strong&gt;our&amp;nbsp;bodies&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Cis people also have subconscious gender identities,
+though it&amp;#8217;s more easy to assume
+that your sex is completely &lt;a class="reference external" href="http://juliaserano.com/terminology.html#genderartifactualism"&gt;constructed&lt;/a&gt;
+or &lt;a class="reference external" href="http://juliaserano.com/terminology.html#genderdeterminism"&gt;flows seamlessly&lt;/a&gt; from your genitalia
+when it has never been &lt;strong&gt;called into&amp;nbsp;question&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="biological-sex"&gt;
+&lt;h2&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Biological&amp;#8221;&amp;nbsp;Sex&lt;/h2&gt;
+&lt;p&gt;Many people distinguish &amp;#8220;gender identity&amp;#8221;
+(&lt;em&gt;between the ears&lt;/em&gt;)
+from &amp;#8220;biological sex&amp;#8221;
+(&lt;em&gt;between the legs&lt;/em&gt;) —
+as though one is natural and static,
+while the other is invented or fluid.
+That&amp;#8217;s a vast oversimplification of the science,
+and &lt;strong&gt;a dangerous&lt;/strong&gt; false dichotomy.
+Our identities don&amp;#8217;t exist outside of &lt;strong&gt;biology&lt;/strong&gt;,
+and sex &lt;strong&gt;is&lt;/strong&gt; not &lt;strong&gt;fixed&lt;/strong&gt; concept
+outside our identities.
+These two ideas are&amp;nbsp;inseparable.&lt;/p&gt;
+&lt;p&gt;When a doctor assigns our gender &lt;strong&gt;at birth&lt;/strong&gt;,
+they base the assignment &lt;strong&gt;on our genitalia alone.&lt;/strong&gt;
+For the many people born with &amp;#8220;ambiguous&amp;#8221; genitalia,
+it&amp;#8217;s common practice for doctors to perform surgery —
+assigning their &amp;#8220;biological sex&amp;#8221; by force.
+There were never two discrete categories to begin&amp;nbsp;with.&lt;/p&gt;
+&lt;p&gt;When we try to &lt;strong&gt;talk about sex&lt;/strong&gt;
+as a reproductive distinction,
+we&amp;#8217;re really talking about internal gonads
+producing eggs or sperm:
+testis and ovary.
+Reproductive gonads often align with genitals,
+but not always,
+and not in any simple binary.
+Some people are infertile,
+some past menopause,
+or vasectomies,
+or other common reproductive changes —
+making it clear that gonads
+don&amp;#8217;t directly correlate with
+what we call &amp;#8220;biological&amp;#8221; &lt;strong&gt;sex&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;When we&amp;#8217;re in public
+no one knows what genitals or gonads
+exist &lt;em&gt;between our legs&lt;/em&gt;,
+but they feel comfortable assigning our &lt;strong&gt;sex&lt;/strong&gt; anyway.
+Social gendering relies mainly
+on &amp;#8220;secondary &lt;strong&gt;sex&lt;/strong&gt; characteristics&amp;#8221;
+(especially masculine-associated facial hair etc)
+and gender presentation.
+Our lived &lt;strong&gt;sex&lt;/strong&gt; —
+the way we are perceived and treated by others —
+has nothing to do &lt;strong&gt;with genitals&lt;/strong&gt; or&amp;nbsp;gonads.&lt;/p&gt;
+&lt;p&gt;Organizations like the &lt;a class="reference external" href="http://www.nytimes.com/2016/07/03/magazine/the-humiliating-practice-of-sex-testing-female-athletes.html"&gt;International Olympic Committee&lt;/a&gt;
+have gone further,
+attempting to find a definable &amp;#8220;biological sex&amp;#8221;
+in &lt;a class="reference external" href="http://www.vox.com/2014/6/3/5776396/why-theyre-not-really-sex-chromosomes"&gt;chromosomes&lt;/a&gt; and hormone levels.
+The results are the same wherever you look:
+our biology &lt;strong&gt;is a complicated&lt;/strong&gt; mix of
+genetic inclinations
+that interact with our &lt;strong&gt;experiences&lt;/strong&gt;
+in complex ways over&amp;nbsp;time.&lt;/p&gt;
+&lt;p&gt;Biology is fluid,
+identity is biological,
+and the male/female binary is &lt;strong&gt;more social than&amp;nbsp;scientific.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="transition"&gt;
+&lt;h2&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Transition&amp;#8221;&lt;/h2&gt;
+&lt;p&gt;Some trans people &lt;strong&gt;decide to change&lt;/strong&gt;
+how we present to the world.
+We transition our public personas,
+hoping to bring our social lives and/or bodies
+more in line with our subconscious&amp;nbsp;sex.&lt;/p&gt;
+&lt;p&gt;That means different things for different people,
+but &amp;#8220;transition&amp;#8221; is not a surgery,
+transgender is not a medical term,
+not &lt;strong&gt;all trans people&lt;/strong&gt; transition,
+and we&amp;#8217;re not all simply men or women
+&lt;em&gt;in the wrong body&lt;/em&gt;
+moving from one binary to another.
+Transition is a million little things,
+&lt;strong&gt;for a million different&lt;/strong&gt;&amp;nbsp;reasons.&lt;/p&gt;
+&lt;p&gt;Some of us change our pronouns, or our names —
+either informally,
+or through legal channels.
+Some take hormones and/or hormone-blockers,
+a few get &amp;#8220;top&amp;#8221; &lt;strong&gt;surgeries&lt;/strong&gt;
+to augment or remove breast tissue,
+&lt;strong&gt;and even fewer&lt;/strong&gt; opt for more genital surgery,
+tracheal shaves,
+and cosmetic&amp;nbsp;interventions.&lt;/p&gt;
+&lt;p&gt;After transition,
+we &lt;strong&gt;are the same&lt;/strong&gt; person that we were before.
+With or without surgery,
+our genders are just as real.
+Transition does not complete us
+or make us &amp;#8220;real&amp;#8221; men and women.
+My body was already female, because I was.
+How and when and why we transition
+is more personal and complex
+than simple &lt;strong&gt;assimilation&lt;/strong&gt; into cis&amp;nbsp;society.&lt;/p&gt;
+&lt;p&gt;In October 2015,
+I decided to start my transition —
+first socially, and then medically.
+I don&amp;#8217;t believe in a &amp;#8220;true&amp;#8221; self
+that was hidden before,
+or in &lt;strong&gt;vague concepts of authenticity&lt;/strong&gt;,
+or finally becoming whole.
+I wasn&amp;#8217;t born male,
+I was never a woman &lt;strong&gt;trapped in a man&amp;#8217;s&lt;/strong&gt; body,
+I&amp;#8217;m not finally complete,
+I was never broken,
+and I will never be&amp;nbsp;fixed.&lt;/p&gt;
+&lt;p&gt;People regularly assume that my transition
+has or will soon involve &lt;strong&gt;genital surgery&lt;/strong&gt;.
+Maybe. Maybe not.
+But transition was never about my genitals.
+Women are not vaginas,
+and men are not penises.
+I won&amp;#8217;t finally be a woman if I have surgery,
+or let a man &lt;strong&gt;penetrate me.&lt;/strong&gt;
+I&amp;#8217;m not a new or different person,
+and there really was no chasm to cross over.
+My gender and orientation have not changed —
+only my social presentation
+and hormone&amp;nbsp;levels.&lt;/p&gt;
+&lt;p&gt;I am not finally a woman,
+but you are finally aware of my&amp;nbsp;womanhood.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="passing"&gt;
+&lt;h2&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Passing&amp;#8221;&lt;/h2&gt;
+&lt;p&gt;Now that &lt;strong&gt;strangers&lt;/strong&gt; correctly identify me as a woman,
+people say that I am &amp;#8220;passing&amp;#8221; as a woman.
+They&amp;#8217;re&amp;nbsp;wrong.&lt;/p&gt;
+&lt;p&gt;The language of passing is borrowed from racial politics
+(people of color passing as white)
+and later gay/lesbian politics
+(femme lesbians &lt;strong&gt;or butch gays&lt;/strong&gt; passing as straight),
+where &amp;#8220;passing&amp;#8221; means you&amp;#8217;re marginalized identity is not&amp;nbsp;seen.&lt;/p&gt;
+&lt;p&gt;Passing is a complicated privilege —
+making it possible for marginalized people
+to avoid harassment and violence,
+at the cost of rejecting or hiding our marginal&amp;nbsp;identities.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s also complicated because passing
+is &lt;em&gt;done to us&lt;/em&gt;.
+&lt;strong&gt;In a single moment,&lt;/strong&gt;
+different people will come to different conclusions about me,
+leaving me in a state of Schroedinger&amp;#8217;s gender.
+My &amp;#8220;passing&amp;#8221; is based on
+other people&amp;#8217;s assumptions about my&amp;nbsp;history.&lt;/p&gt;
+&lt;p&gt;But passing language is particularly strange for trans people,
+who are said to be &amp;#8220;passing&amp;#8221; when we are identified &lt;em&gt;correctly&lt;/em&gt;,
+in our appropriate genders.
+This plays into the popular notion that
+our gender is a costume we put on,
+&amp;#8220;passing&amp;#8221; &lt;strong&gt;is the entire point of transition,&lt;/strong&gt;
+and the only way to be trans.
+People regularly try to &amp;#8220;help out&amp;#8221;
+by giving us unsolicited advice
+on our looks, voices, or movements —
+assuming that&amp;#8217;s what we mean by &lt;em&gt;transition&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;There&amp;#8217;s a &lt;strong&gt;history&lt;/strong&gt; to that idea,
+enforced by the medical community since the 60&amp;#8217;s
+when hormone replacement therapy
+started to become a medically-accepted treatment.
+Doctors established themselves as gender gatekeepers,
+determining who could transition,
+and who couldn&amp;#8217;t —
+in part by &lt;strong&gt;enforcing strict&lt;/strong&gt; binary stereotypes.
+Until recently,
+medical transition was only available
+if doctors thought you could &amp;#8220;pass&amp;#8221;
+and you promised to live &lt;strong&gt;straight and stealth&lt;/strong&gt;
+after transition.
+The goal of &amp;#8220;passing&amp;#8221; was forced on us,
+and made it difficult for &lt;strong&gt;trans communities&lt;/strong&gt; to&amp;nbsp;form.&lt;/p&gt;
+&lt;p&gt;It might be more accurate to say
+that I &amp;#8220;pass&amp;#8221; as cis-gender at times,
+or that I previously learned
+to &amp;#8220;pass&amp;#8221; (&lt;strong&gt;well enough&lt;/strong&gt;) as man.
+Trans people face a real and constant threat of violence,
+so blending in as cis can save our lives.
+It&amp;#8217;s hard to constantly have your gender
+&lt;strong&gt;called into question,&lt;/strong&gt;
+or made the center of conversation.
+Still, &amp;#8220;passing&amp;#8221;
+is not a goal we otherwise&amp;nbsp;share.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="trans-visibility"&gt;
+&lt;h2&gt;Trans&amp;nbsp;&amp;#8220;Visibility&amp;#8221;&lt;/h2&gt;
+&lt;p&gt;In the last few years,
+everyone is talking about trans visibility.
+Chaz Bono danced with the stars,
+suddenly &lt;strong&gt;Lavern Cox&lt;/strong&gt; was everywhere,
+and then Caitlin Jenner made transition
+a reality &lt;span class="caps"&gt;TV&lt;/span&gt;&amp;nbsp;experience.&lt;/p&gt;
+&lt;p&gt;New media comes out every year
+highlighting trans characters —
+but most of them are written, directed, and acted
+by straight white men,
+reinforcing stereotypes more than &lt;strong&gt;reality&lt;/strong&gt;.
+When a new show or movie comes out,
+we&amp;#8217;re often more scared than&amp;nbsp;excited.&lt;/p&gt;
+&lt;p&gt;These stories tend to focus on
+&amp;#8220;men who think they are women&amp;#8221;
+and love doing their makeup more than anything else.
+After transition they are either
+&lt;strong&gt;beautiful&lt;/strong&gt; straight women who get the boy
+(making them finally &amp;#8220;real&amp;#8221; women),
+or pathetic creatures
+who need more &amp;#8220;help&amp;#8221; passing
+to be &amp;#8220;successfully&amp;#8221;&amp;nbsp;trans.&lt;/p&gt;
+&lt;p&gt;Even the &lt;strong&gt;true stories&lt;/strong&gt;
+are limited to rich and beautiful women
+who fit easily into our existing binary categories:
+men and women,
+&lt;em&gt;just like&amp;nbsp;you&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;That&amp;#8217;s not &lt;a class="reference external" href="http://www.mtv.com/news/1962946/gender-non-conforming-identity-trans/"&gt;how we all do trans&lt;/a&gt;.
+Where are the &lt;a class="reference external" href="http://www.huffingtonpost.com/entry/kate-bornstein-queer-icon-reflects-on-queer-and-trans-identity-in-2015_us_561823aae4b0e66ad4c7ff37"&gt;gender outlaws&lt;/a&gt;,
+the fluid identities,
+&lt;strong&gt;the femme boys and butch women&lt;/strong&gt;
+who have always faced the brunt of harassment?
+Where are the trans people who are complex and proud,
+and happy to mix up our &lt;a class="reference external" href="https://www.washingtonpost.com/news/speaking-of-science/wp/2015/12/01/brains-arent-actually-male-or-female-new-study-suggests/?utm_term=.2fbd4f6b565c"&gt;notions of gender&lt;/a&gt;?
+When we &lt;strong&gt;argue for&lt;/strong&gt; bathroom rights
+based only on &lt;strong&gt;our ability&lt;/strong&gt; to conform,
+we&amp;#8217;re throwing &lt;strong&gt;our own community&lt;/strong&gt; under the&amp;nbsp;bus.&lt;/p&gt;
+&lt;p&gt;This narrow visibility
+has been a mixed bag for the trans community.
+More of us are coming out,
+and we&amp;#8217;re doing it more publicly.
+For a minority that&amp;#8217;s been
+forced into &amp;#8220;stealth&amp;#8221; invisibility,
+it&amp;#8217;s wonderful to see (some of) us
+moving into the light.
+There&amp;#8217;s power in&amp;nbsp;numbers.&lt;/p&gt;
+&lt;p&gt;But the &lt;a class="reference external" href="https://www.theguardian.com/commentisfree/2016/apr/21/transgender-rights-backlash-anti-lgbt-legislation"&gt;backlash has been swift and deadly&lt;/a&gt; —
+moving &lt;strong&gt;faster than&lt;/strong&gt; our cultural gains.
+Trans women
+(and especially women of color)
+were already being killed at unprecedented rates —
+and those numbers have been going up.
+We&amp;#8217;ve been using bathrooms
+since the invention of the toilet,
+but suddenly states
+are passing laws to mandate our bowel movements,
+or protect housing and job discrimination
+(a more basic concern for many trans people)
+as &lt;strong&gt;religious&amp;nbsp;freedoms.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I was much more visibly &lt;strong&gt;queer&lt;/strong&gt; a year ago.
+In some ways my transition has made me safer,
+by making me one more white woman on the street.
+All my femme interests or traits that used to make me &lt;strong&gt;queer&lt;/strong&gt;
+now make me invisible.
+It&amp;#8217;s easy for me to disappear into
+this over-simplified binary trans identity
+that doesn&amp;#8217;t really reflect my experience.
+I want to be a proud gender-bending &lt;strong&gt;dyke&lt;/strong&gt;,
+but that&amp;#8217;s often used as &lt;strong&gt;proof&lt;/strong&gt; that I&amp;#8217;m
+&lt;em&gt;still a man&lt;/em&gt;,
+not &lt;a class="reference external" href="http://www.huffingtonpost.com/mia-violet/yes-youre-trans-enough-to_b_9318754.html"&gt;trans enough&lt;/a&gt;,
+or in need of &lt;strong&gt;gender-assimilating&lt;/strong&gt;&amp;nbsp;guidance.&lt;/p&gt;
+&lt;p&gt;Just because some of us are in the &lt;strong&gt;spotlight&lt;/strong&gt;
+doesn&amp;#8217;t mean we&amp;#8217;re all being&amp;nbsp;seen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="just-like-not-you"&gt;
+&lt;h2&gt;Just Like (Not)&amp;nbsp;You&lt;/h2&gt;
+&lt;p&gt;Across the board,
+marginalized groups face a complex problem
+often referred to as
+&lt;em&gt;respectability politics&lt;/em&gt;.
+The quickest way into the mainstream
+is conformity —
+but what are the costs,
+and who is left behind?
+Many rights-movements have devolved into
+&amp;#8220;just like you&amp;#8221; or &amp;#8220;&lt;a class="reference external" href="https://www.newscientist.com/article/mg22730310-100-sexuality-is-fluid-its-time-to-get-past-born-this-way/"&gt;born this way&lt;/a&gt;&amp;#8221; rhetoric,
+allowing those of us who &amp;#8220;pass&amp;#8221; in the mainstream
+to go about our lives
+as long as we&amp;#8217;re willing to blend&amp;nbsp;in.&lt;/p&gt;
+&lt;p&gt;For a few of us,
+that&amp;#8217;s great —
+or &lt;strong&gt;at least good enough&lt;/strong&gt; —
+but it&amp;#8217;s not the whole story,
+and it&amp;#8217;s not the end of our movement.
+I don&amp;#8217;t want to get married,
+and use gendered toilets
+like any &amp;#8220;normal&amp;#8221; cis straight person —
+I actually want these &lt;strong&gt;systems to break down,&lt;/strong&gt;
+and conform better &lt;em&gt;to us&lt;/em&gt;.
+No matter how well my looks or identity
+fit the popular trans mythology,
+I want to &lt;strong&gt;fight for something&lt;/strong&gt; more fluid and open,
+that helps the whole world be more &lt;strong&gt;queer.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am a &lt;strong&gt;woman,&lt;/strong&gt;
+and I am not just a &lt;strong&gt;woman.&lt;/strong&gt;
+I will continue to fight both sides of that argument,
+until all my friends
+have the &lt;strong&gt;right to live our genders and sexualities&lt;/strong&gt;
+in the ways we see fit:
+monogamous or polyamorous;
+straight or bi, pan or gay;
+sex workers, &lt;strong&gt;sluts,&lt;/strong&gt; and prudes;
+trans-binary, &lt;strong&gt;gender-fluid, **butch and femme;&lt;/strong&gt;
+black, brown, immigrant, Muslim, and interracial;
+asexual, intersex, &lt;strong&gt;closeted, and&amp;nbsp;queer.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We can&amp;#8217;t keep adding groups
+one-at-a-time
+based on our ability to assimilate —
+we have to &lt;strong&gt;rebuild these systems&lt;/strong&gt; with new&amp;nbsp;assumptions.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry xml:base="http://miriamsuzanne.com/feed.atom">
     <title type="text">2016 True West Award</title>
     <id>http://miriamsuzanne.com/2016/12/18/true-west-award</id>
@@ -594,32 +971,6 @@ is going to be the best solution for&amp;nbsp;you.&lt;/p&gt;
   Read the full chapter on&amp;nbsp;SitePoint
 &lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://miriamsuzanne.com/feed.atom">
-    <title type="text">10 Myths at Buntport</title>
-    <id>http://miriamsuzanne.com/2016/03/04/10-myths</id>
-    <updated>2016-03-04T00:00:00Z</updated>
-    <link href="http://miriamsuzanne.com/2016/03/04/10-myths" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;I&amp;#8217;m excited to be part of &lt;a class="reference external" href="http://buntport.com"&gt;Buntport Theater&lt;/a&gt;’s
-40th original full-length production —
-based on my novel, &lt;a class="reference external" href="http://ridingsidesaddle.com"&gt;Riding SideSaddle*&lt;/a&gt;,
-and featuring a live score by &lt;a class="reference external" href="http://teacupgorilla.com"&gt;Teacup Gorilla&lt;/a&gt;.
-It&amp;#8217;s been a wild month pulling it all&amp;nbsp;together!&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://buntport.com/archive/archive.htm"&gt;10 Myths on the Proper Application of Beauty&amp;nbsp;Products&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://buntport.com"&gt;Buntport Theater&lt;/a&gt;: 717 Lipan St, Denver&amp;nbsp;&lt;span class="caps"&gt;CO&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;March 4-26,&amp;nbsp;2016&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The first weekend sold out,
-and the second weekend is going fast.
-Read the reviews in
-&lt;a class="reference external" href="http://www.outfrontonline.com/culture/buntport-theater-presents-10-myths-proper-application-beauty-products/"&gt;Out Front&lt;/a&gt;, &lt;a class="reference external" href="http://www.denverpost.com/theater/ci_29605936/buntports-dark-comedy-10-myths-an-oddly-satisfying"&gt;The Denver Post&lt;/a&gt;,
-&lt;a class="reference external" href="http://www.huffingtonpost.com/tracy-shaffer/buntport-theatres-new-sho_b_9386846.html"&gt;Huffington Post&lt;/a&gt;, and &lt;a class="reference external" href="http://coloradodrama.com/10_myths.html"&gt;Colorado Drama&lt;/a&gt; —
-then &lt;a class="reference external" href="http://buntport.com/archive/archive.htm"&gt;reserve your tickets before they&amp;#8217;re gone&lt;/a&gt;!&lt;/p&gt;
 </content>
   </entry>
 </feed>
