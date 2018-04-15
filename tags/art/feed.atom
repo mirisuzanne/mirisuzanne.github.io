@@ -2,36 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://www.miriamsuzanne.com/feed.atom</id>
-  <updated>2015-04-02T00:00:00Z</updated>
+  <updated>2013-04-18T00:00:00Z</updated>
   <link href="http://www.miriamsuzanne.com/" />
   <link href="http://www.miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">Riding SideSaddle*</title>
-    <id>http://www.miriamsuzanne.com/2015/04/02/sidesaddle</id>
-    <updated>2015-04-02T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2015/04/02/sidesaddle" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Riding SideSaddle*&lt;/strong&gt;
-is a fragmented memory written on
-250 interchangeable index cards —
-following a cast of friends as they navigate
-fluid genders, relationships,
-and bodies that resist order, category, or completion.
-Based loosely on the life of Margaret Clap,
-and the myth of Salmacis and Hermaphroditus —
-SideSaddle* is an
-&lt;a class="reference external" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;open-source text&lt;/a&gt;
-published by &lt;a class="reference external" href="http://springgunpress.com"&gt;SpringGun Press&lt;/a&gt;,
-&lt;a class="reference external" href="http://oddbooksapp.com/book/ridingsidesaddle"&gt;released online&lt;/a&gt; by &lt;a class="reference external" href="http://oddbird.net/"&gt;OddBird&lt;/a&gt;,
-and &lt;a class="reference external" href="#&amp;#64;&amp;#64;&amp;#64;"&gt;adapted for the stage&lt;/a&gt;
-by &lt;a class="reference external" href="http://buntport.com/"&gt;Buntport Theater&lt;/a&gt;
-with &lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup&amp;nbsp;Gorilla&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">Stratified Design</title>
     <id>http://www.miriamsuzanne.com/2013/04/18/layer-tennis</id>
@@ -41,10 +16,10 @@ with &lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup
       <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/tennis/volley10.jpg" alt="" /&gt;
+  &lt;img src=&quot;/static/pictures/tennis/volley10.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.exitstrata.com/"&gt;Exit Strata&lt;/a&gt; asked me to design the cover of their next issue,
-&lt;a class="reference external" href="http://www.exitstrata.com/category/print-2/"&gt;&lt;span class="caps"&gt;PRINT&lt;/span&gt;!&lt;/a&gt; &lt;span class="caps"&gt;VOL&lt;/span&gt;&amp;nbsp;3.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.exitstrata.com/&quot;&gt;Exit Strata&lt;/a&gt; asked me to design the cover of their next issue,
+&lt;a class=&quot;reference external&quot; href=&quot;http://www.exitstrata.com/category/print-2/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;PRINT&lt;/span&gt;!&lt;/a&gt; &lt;span class=&quot;caps&quot;&gt;VOL&lt;/span&gt;&amp;nbsp;3.&lt;/p&gt;
 &lt;blockquote&gt;
 &amp;#8230;focussed on issues of translation, transmutation,
 and language forms across media,
@@ -53,29 +28,29 @@ of these transmissions as they travel between and betwixt our minds&amp;#8230;
 The biggest tension is between that of the printed page
 and that of the new virtual realities&amp;#8230;&lt;/blockquote&gt;
 &lt;p&gt;There&amp;#8217;s only one way I know to make all that&amp;nbsp;happen.&lt;/p&gt;
-&lt;div class="section" id="layer-tennis"&gt;
+&lt;section id=&quot;layer-tennis&quot;&gt;
 &lt;h2&gt;Layer&amp;nbsp;Tennis&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/tennis/volley8.jpg" alt="" /&gt;
+  &lt;img src=&quot;/static/pictures/tennis/volley8.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://layertennis.com/"&gt;Layer tennis&lt;/a&gt; is a design game
-made popular by &lt;a class="reference external" href="http://www.coudal.com/"&gt;Coudal Partners&lt;/a&gt;.
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://layertennis.com/&quot;&gt;Layer tennis&lt;/a&gt; is a design game
+made popular by &lt;a class=&quot;reference external&quot; href=&quot;http://www.coudal.com/&quot;&gt;Coudal Partners&lt;/a&gt;.
 Two competitors
-(myself &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;a class="reference external" href="http://aaronliechty.tumblr.com/"&gt;Aaron Liechty&lt;/a&gt;)
+(myself &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; &lt;a class=&quot;reference external&quot; href=&quot;http://aaronliechty.tumblr.com/&quot;&gt;Aaron Liechty&lt;/a&gt;)
 pass design files back and forth,
 riffing on the same work under extreme time constraints.
-Each 30-minute &amp;#8220;volley&amp;#8221; is posted live as it is created,
-along with commentary (&lt;a class="reference external" href="http://jacobliechty.tumblr.com/"&gt;Jacob Liechty&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://sondraedesign.tumblr.com/"&gt;Sondra Eisenstat&lt;/a&gt; agreed to
+Each 30-minute &amp;quot;volley&amp;quot; is posted live as it is created,
+along with commentary (&lt;a class=&quot;reference external&quot; href=&quot;http://jacobliechty.tumblr.com/&quot;&gt;Jacob Liechty&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://sondraedesign.tumblr.com/&quot;&gt;Sondra Eisenstat&lt;/a&gt; agreed to
 help us with
 the thankless task of posting it all online,
 since the rest of us were pre-occupied with
-writing &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; designing under&amp;nbsp;pressure.&lt;/p&gt;
+writing &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; designing under&amp;nbsp;pressure.&lt;/p&gt;
 &lt;p&gt;The battle took place on Sunday afternoon.
 The full experience is still available
-on the &lt;a class="reference external" href="http://www.exitstrata.com/layer-tennis-live-stream-print-vol-3-ole/"&gt;Exit Strata blog&lt;/a&gt;,
+on the &lt;a class=&quot;reference external&quot; href=&quot;http://www.exitstrata.com/layer-tennis-live-stream-print-vol-3-ole/&quot;&gt;Exit Strata blog&lt;/a&gt;,
 but here are the&amp;nbsp;volleys:&lt;/p&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </content>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
@@ -87,7 +62,7 @@ but here are the&amp;nbsp;volleys:&lt;/p&gt;
       <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;[This is &lt;em&gt;part 7&lt;/em&gt; in the ongoing
-&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
+&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/&quot;&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
 &lt;p&gt;Sometimes you have a great idea for a project,
 or one aspect of a project,
 and you throw everything at it,
@@ -97,30 +72,30 @@ after putting so much into it,
 but neither can you force it through.
 The only way forward is to take a step&amp;nbsp;back.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/cycle-diagram.jpg" alt="Is your approach working? Keep doing it, or try something else." /&gt;
+  &lt;img src=&quot;/static/pictures/cycle-diagram.jpg&quot; alt=&quot;Is your approach working? Keep doing it, or try something else.&quot; /&gt;
   &lt;figcaption&gt;
-    How to everything (&lt;a href="/2012/11/08/creative-cycles/"&gt;again&lt;/a&gt;).
+    How to everything (&lt;a href=&quot;/2012/11/08/creative-cycles/&quot;&gt;again&lt;/a&gt;).
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;div class="section" id="chalk-outline"&gt;
+&lt;section id=&quot;chalk-outline&quot;&gt;
 &lt;h2&gt;Chalk&amp;nbsp;Outline&lt;/h2&gt;
-&lt;p&gt;When I started writing &lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;this blog series&lt;/a&gt; in November,
+&lt;p&gt;When I started writing &lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/&quot;&gt;this blog series&lt;/a&gt; in November,
 I was in a hurry to post articles right away —
 ignoring everything I know about good process.
-I posted a few &lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;pressing&lt;/a&gt; &lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;thoughts&lt;/a&gt;,
-and then tried to write my way through the &lt;a class="reference external" href="/2012/10/16/muse-intro/#class-overview"&gt;5-step process&lt;/a&gt;
-from &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;one end&lt;/a&gt; to the&amp;nbsp;other.&lt;/p&gt;
+I posted a few &lt;a class=&quot;reference external&quot; href=&quot;/2012/10/23/ordinary-tools-of-thought/&quot;&gt;pressing&lt;/a&gt; &lt;a class=&quot;reference external&quot; href=&quot;/2012/11/08/creative-cycles&quot;&gt;thoughts&lt;/a&gt;,
+and then tried to write my way through the &lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/#class-overview&quot;&gt;5-step process&lt;/a&gt;
+from &lt;a class=&quot;reference external&quot; href=&quot;/2012/12/13/starting-from-a-seed/&quot;&gt;one end&lt;/a&gt; to the&amp;nbsp;other.&lt;/p&gt;
 &lt;p&gt;It didn&amp;#8217;t work,
 and each post is now taking me longer and longer to write,
 with more frustration than the last.
 I&amp;#8217;ve written this post 4 times now,
 each time on different&amp;nbsp;topics.&lt;/p&gt;
-&lt;p&gt;Starting from &lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;an outline&lt;/a&gt; can be comforting,
+&lt;p&gt;Starting from &lt;a class=&quot;reference external&quot; href=&quot;/2013/02/07/get-curious/&quot;&gt;an outline&lt;/a&gt; can be comforting,
 but it&amp;#8217;s not possible to organize material you don&amp;#8217;t yet have,
 and you end up pushing yourself off in the wrong direction.
 That&amp;#8217;s where I went&amp;nbsp;wrong.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="play-it-again"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;play-it-again&quot;&gt;
 &lt;h2&gt;Play it&amp;nbsp;Again&lt;/h2&gt;
 &lt;p&gt;I skipped a step,
 and now I have to go back and do it&amp;nbsp;right.&lt;/p&gt;
@@ -131,8 +106,8 @@ and rearrange what&amp;#8217;s left into articles.
 This may take some time,
 but once that is done
 I should be able keep up a regular posting&amp;nbsp;schedule.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="recycle"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;recycle&quot;&gt;
 &lt;h2&gt;Recycle&lt;/h2&gt;
 &lt;p&gt;Lucky for me,
 none of my failed posts are wasted effort.
@@ -141,20 +116,20 @@ collecting material.
 I have a recycling bin for every project —
 a file or folder to catch all the scraps as I work.
 Now I have a substantial start on what I need:
-my very own &amp;#8220;Fuck the Muse&amp;#8221; &lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;shitty pile of&amp;nbsp;shit&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-series"&gt;
+my very own &amp;quot;Fuck the Muse&amp;quot; &lt;a class=&quot;reference external&quot; href=&quot;/2013/02/07/get-curious/&quot;&gt;shitty pile of&amp;nbsp;shit&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;the-series&quot;&gt;
 &lt;h2&gt;The&amp;nbsp;Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/14/explosive-growth/"&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/03/29/rethinking-on-your-feet/"&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/&quot;&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/23/ordinary-tools-of-thought/&quot;&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/11/08/creative-cycles&quot;&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/12/13/starting-from-a-seed/&quot;&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/02/07/get-curious/&quot;&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/02/14/explosive-growth/&quot;&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/03/29/rethinking-on-your-feet/&quot;&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </content>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
@@ -166,20 +141,20 @@ my very own &amp;#8220;Fuck the Muse&amp;#8221; &lt;a class="reference external"
       <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F36314485&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=false"&gt;&lt;/iframe&gt;
+  &lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F36314485&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=false&quot;&gt;&lt;/iframe&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup Gorilla&lt;/a&gt; formed in 2010
-to create the live soundscape for &lt;a class="reference external" href="http://vicioustrap.com/tagged/missa_populi"&gt;Missa Populi&lt;/a&gt;,
-an original performance by &lt;a class="reference external" href="http://vicioustrap.com/shows/"&gt;Vicious Trap&lt;/a&gt;.
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://teacupgorilla.com/&quot;&gt;Teacup Gorilla&lt;/a&gt; formed in 2010
+to create the live soundscape for &lt;a class=&quot;reference external&quot; href=&quot;http://vicioustrap.com/tagged/missa_populi&quot;&gt;Missa Populi&lt;/a&gt;,
+an original performance by &lt;a class=&quot;reference external&quot; href=&quot;http://vicioustrap.com/shows/&quot;&gt;Vicious Trap&lt;/a&gt;.
 From there we were asked to play a steampunk wedding,
 which turned into a year-long collaboration
-with &lt;a class="reference external" href="http://racheleisenstat.com/"&gt;Rachel Eisenstat&lt;/a&gt;,
-followed by a &lt;a class="reference external" href="http://greengreenmud.com/"&gt;novel soundtrack&lt;/a&gt;,
-and a new &lt;a class="reference external" href="http://thebakerydenver.com/"&gt;recording studio &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; venue&lt;/a&gt;
+with &lt;a class=&quot;reference external&quot; href=&quot;http://racheleisenstat.com/&quot;&gt;Rachel Eisenstat&lt;/a&gt;,
+followed by a &lt;a class=&quot;reference external&quot; href=&quot;http://greengreenmud.com/&quot;&gt;novel soundtrack&lt;/a&gt;,
+and a new &lt;a class=&quot;reference external&quot; href=&quot;http://thebakerydenver.com/&quot;&gt;recording studio &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; venue&lt;/a&gt;
 in the Denver&amp;nbsp;downtown.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;div class="video"&gt;
-    &lt;iframe src="http://player.vimeo.com/video/39468690?title=0&amp;amp;byline=0&amp;amp;portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+  &lt;div class=&quot;video&quot;&gt;
+    &lt;iframe src=&quot;http://player.vimeo.com/video/39468690?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
   &lt;/div&gt;
   &lt;figcaption&gt;
     Into the Green Green Mud, Chapter 12,
@@ -191,15 +166,15 @@ we&amp;#8217;ve only performed as Teacup Gorilla
 a handful of times,
 but we&amp;#8217;ve been quite active.
 And now we&amp;#8217;re making our way back to the original performance vision,
-starting at the &lt;a class="reference external" href="http://boulderingpoets.wordpress.com/"&gt;Bouldering Poets&lt;/a&gt;&amp;nbsp;series:&lt;/p&gt;
+starting at the &lt;a class=&quot;reference external&quot; href=&quot;http://boulderingpoets.wordpress.com/&quot;&gt;Bouldering Poets&lt;/a&gt;&amp;nbsp;series:&lt;/p&gt;
 &lt;blockquote&gt;
-March 22, 7:30pm at &lt;a class="reference external" href="http://303vodka.com/"&gt;303 Vodka&lt;/a&gt; |
-see &lt;a class="reference external" href="https://www.facebook.com/events/146730512153484/"&gt;facebook&lt;/a&gt; for details.&lt;/blockquote&gt;
+March 22, 7:30pm at &lt;a class=&quot;reference external&quot; href=&quot;http://303vodka.com/&quot;&gt;303 Vodka&lt;/a&gt; |
+see &lt;a class=&quot;reference external&quot; href=&quot;https://www.facebook.com/events/146730512153484/&quot;&gt;facebook&lt;/a&gt; for details.&lt;/blockquote&gt;
 &lt;p&gt;We&amp;#8217;re back,
 and we have big&amp;nbsp;plans.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-&lt;div class="video"&gt;
-  &lt;iframe src="http://www.youtube.com/embed/HI8oU9xUqy8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video&quot;&gt;
+  &lt;iframe src=&quot;http://www.youtube.com/embed/HI8oU9xUqy8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
   Reggie is cute, but he is not us. Petite? Yes. Deadly? Hard to say.
@@ -216,13 +191,13 @@ and we have big&amp;nbsp;plans.&lt;/p&gt;
       <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;[This is &lt;em&gt;part 6&lt;/em&gt; in the ongoing
-&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
+&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/&quot;&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
 &lt;p&gt;It&amp;#8217;s always useful to remember where you are
 in the overall creative process.
 Here&amp;#8217;s a&amp;nbsp;refresher:&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Define the Seed&lt;/a&gt;: &lt;em&gt;What&amp;#8217;s the idea, question, or&amp;nbsp;hypothesis?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Explore&lt;/a&gt;: &lt;em&gt;Reasearch, gather, and create the&amp;nbsp;materials.&lt;/em&gt;&lt;/li&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/12/13/starting-from-a-seed/&quot;&gt;Define the Seed&lt;/a&gt;: &lt;em&gt;What&amp;#8217;s the idea, question, or&amp;nbsp;hypothesis?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/02/07/get-curious/&quot;&gt;Explore&lt;/a&gt;: &lt;em&gt;Reasearch, gather, and create the&amp;nbsp;materials.&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Organize: &lt;em&gt;Outline the structure, or impose&amp;nbsp;one.&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Draft: &lt;em&gt;Compile a complete first&amp;nbsp;draft.&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Revise: &lt;em&gt;Consider, critique, and edit as&amp;nbsp;needed.&lt;/em&gt;&lt;/li&gt;
@@ -230,13 +205,13 @@ Here&amp;#8217;s a&amp;nbsp;refresher:&lt;/p&gt;
 &lt;p&gt;We&amp;#8217;re still following up on Step 2,
 which we started last week
 by compiling our curiosity shopping lists.
-We need to push out from our &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;seed&lt;/a&gt; in every direction,
+We need to push out from our &lt;a class=&quot;reference external&quot; href=&quot;/2012/12/13/starting-from-a-seed/&quot;&gt;seed&lt;/a&gt; in every direction,
 and the list is there to help guide&amp;nbsp;us.&lt;/p&gt;
 &lt;p&gt;Now it&amp;#8217;s time to go&amp;nbsp;shopping.&lt;/p&gt;
-&lt;div class="section" id="surround-yourself-with-material"&gt;
+&lt;section id=&quot;surround-yourself-with-material&quot;&gt;
 &lt;h2&gt;Surround Yourself with&amp;nbsp;Material&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/explosion/hoarding.jpg" alt=""/&gt;
+  &lt;img src=&quot;/static/pictures/explosion/hoarding.jpg&quot; alt=&quot;&quot;/&gt;
   &lt;figcaption&gt;
     It&amp;#8217;s time to get your hoarding on.
   &lt;/figcaption&gt;
@@ -245,7 +220,7 @@ and the list is there to help guide&amp;nbsp;us.&lt;/p&gt;
 you might possibly need to create your piece.
 It doesn&amp;#8217;t matter what genre or medium you will use at the end,
 right now you want everything.
-You are building your &lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;shitty pile of shit&lt;/a&gt;
+You are building your &lt;a class=&quot;reference external&quot; href=&quot;/2013/02/07/get-curious/&quot;&gt;shitty pile of shit&lt;/a&gt;
 that will get organized into a draft down the&amp;nbsp;road.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Get your facts first, and then you can distort them as much as you&amp;nbsp;please.&lt;/p&gt;
@@ -255,18 +230,18 @@ that will get organized into a draft down the&amp;nbsp;road.&lt;/p&gt;
 You need to start understanding the world you are creating —
 not by thinking about it, but by surrounding yourself with it.
 Your creative mind works
-by &lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;copying, transforming, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; combining&lt;/a&gt; —
+by &lt;a class=&quot;reference external&quot; href=&quot;/2012/10/23/ordinary-tools-of-thought/&quot;&gt;copying, transforming, &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; combining&lt;/a&gt; —
 so the more ideas you put into your head,
 the more you can get out when it&amp;#8217;s&amp;nbsp;time.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="research-steal-create"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;research-steal-create&quot;&gt;
 &lt;h2&gt;Research » Steal »&amp;nbsp;Create&lt;/h2&gt;
 &lt;p&gt;The first instinct of most artists is to sit down with a blank paper
 and stare at it until the muse strikes.
 Fuck the muse.
 Start with material that already exists.
 Use your shopping list as a guide and follow your curiosity.
-Explore your list of &amp;#8220;things that will inspire you&amp;#8221; —
+Explore your list of &amp;quot;things that will inspire you&amp;quot; —
 use Wikipedia and Google to follow one hyperlinked thought to the next,
 and add more inspirations to your&amp;nbsp;list.&lt;/p&gt;
 &lt;p&gt;When you read/see/hear something you like, take it.
@@ -277,22 +252,22 @@ or just take notes.
 When ideas start to merge and you are inspired to say something,
 then say&amp;nbsp;it.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/explosion/cutup.jpg" alt=""/&gt;
+  &lt;img src=&quot;/static/pictures/explosion/cutup.jpg&quot; alt=&quot;&quot;/&gt;
   &lt;figcaption&gt;
     Cut it up. You can put it back together later.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Ebb and flow with the &lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;cycles&lt;/a&gt; of research, theft, and creation.
+&lt;p&gt;Ebb and flow with the &lt;a class=&quot;reference external&quot; href=&quot;/2012/11/08/creative-cycles&quot;&gt;cycles&lt;/a&gt; of research, theft, and creation.
 Let your inspiration drive you back and forth
 between exploring what&amp;#8217;s there, and creating what isn&amp;#8217;t.
 If research isn&amp;#8217;t working, make shit up.
 If you can&amp;#8217;t think of anything to make,
-&lt;a class="reference external" href="http://www.austinkleon.com/steal/"&gt;find something to&amp;nbsp;steal&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="for-example"&gt;
+&lt;a class=&quot;reference external&quot; href=&quot;http://www.austinkleon.com/steal/&quot;&gt;find something to&amp;nbsp;steal&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;for-example&quot;&gt;
 &lt;h2&gt;For&amp;nbsp;Example&lt;/h2&gt;
 &lt;p&gt;Following up on my list from last week,
-I spent time reading about Hermaphroditus &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Mother Clapp.
+I spent time reading about Hermaphroditus &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Mother Clapp.
 I started to see patterns around social gatherings,
 betrayal, and water.
 I copied and pasted large sections of pro-anorexia websites,
@@ -300,17 +275,17 @@ wrote down important lines from Lou Reed songs,
 and wrote about my own memories of body and sexual experience.
 I even pulled from old email conversations
 that seemed&amp;nbsp;relevant.&lt;/p&gt;
-&lt;p&gt;I used &lt;a class="reference external" href="http://www.nanowrimo.org/"&gt;NaNoWriMo&lt;/a&gt; to get through this phase
+&lt;p&gt;I used &lt;a class=&quot;reference external&quot; href=&quot;http://www.nanowrimo.org/&quot;&gt;NaNoWriMo&lt;/a&gt; to get through this phase
 with a massive pile of 50,000 shitty words,
 along with a number of images and songs.
 Some are stolen, and some are my own,
 but all of them will be useful when I come back to start&amp;nbsp;drafting.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="checking-it-twice"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;checking-it-twice&quot;&gt;
 &lt;h2&gt;Checking it&amp;nbsp;Twice&lt;/h2&gt;
 &lt;p&gt;Look back at your list.
-focus on researching the &amp;#8220;things that will inspire you,&amp;#8221;
-and stealing or creating the &amp;#8220;things that need to be gathered&amp;#8221;
+focus on researching the &amp;quot;things that will inspire you,&amp;quot;
+and stealing or creating the &amp;quot;things that need to be gathered&amp;quot;
 so you can cross them off your list.
 Add to the list if you realize something is missing,
 but focus on exploring each item in extreme detail,
@@ -319,19 +294,19 @@ and following where it takes&amp;nbsp;you.&lt;/p&gt;
 to help push you along when you get stuck —
 both as a solo artist and in collaborative settings.
 I&amp;#8217;ll go into more detail on some of those next&amp;nbsp;week.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-series"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;the-series&quot;&gt;
 &lt;h2&gt;The&amp;nbsp;Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/14/explosive-growth/"&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/03/29/rethinking-on-your-feet/"&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/&quot;&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/23/ordinary-tools-of-thought/&quot;&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/11/08/creative-cycles&quot;&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/12/13/starting-from-a-seed/&quot;&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/02/07/get-curious/&quot;&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/02/14/explosive-growth/&quot;&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/03/29/rethinking-on-your-feet/&quot;&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </content>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
@@ -343,19 +318,19 @@ I&amp;#8217;ll go into more detail on some of those next&amp;nbsp;week.&lt;/p&gt
       <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;[This is &lt;em&gt;part 5&lt;/em&gt; in the ongoing
-&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
-&lt;p&gt;Now that you have &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;a seed worth exploring&lt;/a&gt;,
+&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/&quot;&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
+&lt;p&gt;Now that you have &lt;a class=&quot;reference external&quot; href=&quot;/2012/12/13/starting-from-a-seed/&quot;&gt;a seed worth exploring&lt;/a&gt;,
 you are ready for step 2 of the creative process.
 The goal of this phase is explosive growth,
 following your curiosity out from the seed in every&amp;nbsp;direction.&lt;/p&gt;
-&lt;p&gt;You&amp;#8217;ve heard of the &lt;a class="reference external" href="http://www.humnet.ucla.edu/humnet/english/wwwroot2/ta/hyperteach/pdfs/shitty.pdf"&gt;shitty first draft&lt;/a&gt;?
+&lt;p&gt;You&amp;#8217;ve heard of the &lt;a class=&quot;reference external&quot; href=&quot;http://www.humnet.ucla.edu/humnet/english/wwwroot2/ta/hyperteach/pdfs/shitty.pdf&quot;&gt;shitty first draft&lt;/a&gt;?
 It&amp;#8217;s a nice sentiment,
 writing full shitty drafts without fear or judgment,
 but I think you can do even&amp;nbsp;better:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Write shitty piles of shit,
 and leave the drafting for&amp;nbsp;later.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/curious/bullshit.jpg" alt=""/&gt;
+  &lt;img src=&quot;/static/pictures/curious/bullshit.jpg&quot; alt=&quot;&quot;/&gt;
   &lt;figcaption&gt;
   I often refer to this as the fertilizer or &amp;#8220;bullshit&amp;#8221; stage.
   &lt;/figcaption&gt;
@@ -368,11 +343,11 @@ but also free from purpose, organization, and&amp;nbsp;planning.&lt;/p&gt;
 &lt;p&gt;Don&amp;#8217;t start with outlines.
 Don&amp;#8217;t start with drafts.
 Start with&amp;nbsp;curiosity.&lt;/p&gt;
-&lt;div class="section" id="a-shitty-shopping-list"&gt;
+&lt;section id=&quot;a-shitty-shopping-list&quot;&gt;
 &lt;h2&gt;A Shitty Shopping&amp;nbsp;List&lt;/h2&gt;
 &lt;p&gt;Our goal is to develop all the raw (shitty) materials
 we will need in order to start drafting.
-I&amp;#8217;m not talking about pen &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; paper,
+I&amp;#8217;m not talking about pen &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; paper,
 or computers,
 or three cans of latex paint.
 I want to know what concepts, phrases,
@@ -380,74 +355,74 @@ images, and aesthetics I am working with.
 I want to soak up inspirations,
 and understand my&amp;nbsp;constraints.&lt;/p&gt;
 &lt;p&gt;I start with three&amp;nbsp;questions:&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
 &lt;li&gt;What already&amp;nbsp;exists?&lt;/li&gt;
 &lt;li&gt;What still needs to be gathered or&amp;nbsp;created?&lt;/li&gt;
 &lt;li&gt;What will inspire&amp;nbsp;me?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Working on the &lt;a class="reference external" href="/2013/01/22/contour/"&gt;book cover&lt;/a&gt; for &lt;a class="reference external" href="http://www.springgunpress.com/posture"&gt;The Posture of Contour&lt;/a&gt;,
+&lt;p&gt;Working on the &lt;a class=&quot;reference external&quot; href=&quot;/2013/01/22/contour/&quot;&gt;book cover&lt;/a&gt; for &lt;a class=&quot;reference external&quot; href=&quot;http://www.springgunpress.com/posture&quot;&gt;The Posture of Contour&lt;/a&gt;,
 I asked the publishers and author for everything they had.
 Based on their answers, I ended up with these&amp;nbsp;lists:&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/contour/final.png" alt=""/&gt;
+  &lt;img src=&quot;/static/pictures/contour/final.png&quot; alt=&quot;&quot;/&gt;
   &lt;figcaption&gt;
   Final cover design for &lt;em&gt;The Posture of Contour&lt;/em&gt;.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What already&amp;nbsp;exists?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Dimensions: 5.5&amp;#8221; x&amp;nbsp;8.5&amp;#8221;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.springgunpress.com/"&gt;SpringGun Press&lt;/a&gt;&amp;nbsp;wordmarks&lt;/li&gt;
-&lt;li&gt;&lt;span class="caps"&gt;ISBN&lt;/span&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; bar code (on white&amp;nbsp;background)&lt;/li&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Dimensions: 5.5&amp;quot; x&amp;nbsp;8.5&amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.springgunpress.com/&quot;&gt;SpringGun Press&lt;/a&gt;&amp;nbsp;wordmarks&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;ISBN&lt;/span&gt; &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; bar code (on white&amp;nbsp;background)&lt;/li&gt;
 &lt;li&gt;Title: The Posture of&amp;nbsp;Contour&lt;/li&gt;
 &lt;li&gt;Subtitle: A Public&amp;nbsp;Primer&lt;/li&gt;
 &lt;li&gt;Author: James&amp;nbsp;Belflower&lt;/li&gt;
 &lt;li&gt;The content of the book&amp;nbsp;itself&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;What still needs to be gathered or&amp;nbsp;created?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
+&lt;ul class=&quot;simple&quot;&gt;
 &lt;li&gt;Color&amp;nbsp;palette&lt;/li&gt;
 &lt;li&gt;Artwork&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;What will inspire&amp;nbsp;me?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Diagrams, schematics, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;maps&lt;/li&gt;
-&lt;li&gt;Processes of abstraction &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;representation&lt;/li&gt;
-&lt;li&gt;Mouths, hands, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; black&amp;nbsp;spots&lt;/li&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Diagrams, schematics, &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;maps&lt;/li&gt;
+&lt;li&gt;Processes of abstraction &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;representation&lt;/li&gt;
+&lt;li&gt;Mouths, hands, &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; black&amp;nbsp;spots&lt;/li&gt;
 &lt;li&gt;Collage&lt;/li&gt;
-&lt;li&gt;Cover art for &amp;#8220;&lt;a class="reference external" href="http://www.fenceportal.org/?page_id=422"&gt;Network&lt;/a&gt;&amp;#8221; by Jena&amp;nbsp;Osman&lt;/li&gt;
+&lt;li&gt;Cover art for &amp;quot;&lt;a class=&quot;reference external&quot; href=&quot;http://www.fenceportal.org/?page_id=422&quot;&gt;Network&lt;/a&gt;&amp;quot; by Jena&amp;nbsp;Osman&lt;/li&gt;
 &lt;li&gt;Richard Serra&amp;nbsp;drawings&lt;/li&gt;
 &lt;li&gt;Franz&amp;nbsp;Kline&lt;/li&gt;
 &lt;li&gt;Paul Sharits&amp;nbsp;colors&lt;/li&gt;
-&lt;li&gt;Stan Brakhage &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Joan&amp;nbsp;Miro&lt;/li&gt;
-&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;The line between language and&amp;nbsp;graphic&amp;#8221;&lt;/li&gt;
+&lt;li&gt;Stan Brakhage &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Joan&amp;nbsp;Miro&lt;/li&gt;
+&lt;li&gt;&amp;quot;The line between language and&amp;nbsp;graphic&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;They had done most of my work for me.
 That&amp;#8217;s not always the case,
 but if you have a seed,
 you have enough to get&amp;nbsp;started.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="sparking-curiosity"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;sparking-curiosity&quot;&gt;
 &lt;h2&gt;Sparking&amp;nbsp;Curiosity&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/curious/bodies.jpg" alt=""/&gt;
+  &lt;img src=&quot;/static/pictures/curious/bodies.jpg&quot; alt=&quot;&quot;/&gt;
   &lt;figcaption&gt;
   Bodies. A diagram.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;seed I developed in phase 1&lt;/a&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;/2012/12/13/starting-from-a-seed/&quot;&gt;seed I developed in phase 1&lt;/a&gt;
 can be used directly to start a list of materials
 in phase 2. Unlike the cover art,
 this project has no pre-existing material that I am required to use.
 Most of the material will have to be found or created,
 but I do have plenty of inspiration to draw&amp;nbsp;from:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What already&amp;nbsp;exists?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
+&lt;ul class=&quot;simple&quot;&gt;
 &lt;li&gt;Format: a stack of note cards that can be&amp;nbsp;shuffled&lt;/li&gt;
 &lt;li&gt;Some collaborative poems with Jacob Liechty that might&amp;nbsp;fit&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;What do I still&amp;nbsp;need?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
+&lt;ul class=&quot;simple&quot;&gt;
 &lt;li&gt;A writing&amp;nbsp;style&lt;/li&gt;
 &lt;li&gt;Characters?&amp;nbsp;Story?&lt;/li&gt;
 &lt;li&gt;Specific&amp;nbsp;memories&lt;/li&gt;
@@ -457,20 +432,20 @@ but I do have plenty of inspiration to draw&amp;nbsp;from:&lt;/p&gt;
 &lt;li&gt;more?&amp;#8230;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;What&amp;#8217;s the&amp;nbsp;inspiration?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;The Invention of&amp;nbsp;Heterosexuality&amp;#8221;&lt;/li&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&amp;quot;The Invention of&amp;nbsp;Heterosexuality&amp;quot;&lt;/li&gt;
 &lt;li&gt;Research on out-of-body&amp;nbsp;experiences&lt;/li&gt;
-&lt;li&gt;Bodies &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;identity&lt;/li&gt;
-&lt;li&gt;Sex, gender, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;sexuality&lt;/li&gt;
-&lt;li&gt;Memory &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;trauma&lt;/li&gt;
-&lt;li&gt;Hermaphroditus, Mother Clapp, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Molly&amp;nbsp;Houses&lt;/li&gt;
-&lt;li&gt;Jacob Liechty, Tom Waits, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Lou&amp;nbsp;Reed&lt;/li&gt;
+&lt;li&gt;Bodies &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;identity&lt;/li&gt;
+&lt;li&gt;Sex, gender, &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;sexuality&lt;/li&gt;
+&lt;li&gt;Memory &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;trauma&lt;/li&gt;
+&lt;li&gt;Hermaphroditus, Mother Clapp, &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Molly&amp;nbsp;Houses&lt;/li&gt;
+&lt;li&gt;Jacob Liechty, Tom Waits, &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Lou&amp;nbsp;Reed&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;It&amp;#8217;s &lt;span class="caps"&gt;OK&lt;/span&gt; that this list isn&amp;#8217;t complete,
+&lt;p&gt;It&amp;#8217;s &lt;span class=&quot;caps&quot;&gt;OK&lt;/span&gt; that this list isn&amp;#8217;t complete,
 it&amp;#8217;s enough to make me curious,
 and enough to point me in the right&amp;nbsp;direction.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="coming-soon"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;coming-soon&quot;&gt;
 &lt;h2&gt;Coming&amp;nbsp;Soon&lt;/h2&gt;
 &lt;p&gt;In the next few posts we&amp;#8217;ll talk about
 gathering vs creating,
@@ -478,19 +453,19 @@ blind variation and selective retention,
 judgmental brainstorming,
 the viewpoints, and composition —
 all useful tools for this explosive curiosity&amp;nbsp;phase.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-series"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;the-series&quot;&gt;
 &lt;h2&gt;The&amp;nbsp;Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/14/explosive-growth/"&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/03/29/rethinking-on-your-feet/"&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/&quot;&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/23/ordinary-tools-of-thought/&quot;&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/11/08/creative-cycles&quot;&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/12/13/starting-from-a-seed/&quot;&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/02/07/get-curious/&quot;&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/02/14/explosive-growth/&quot;&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/03/29/rethinking-on-your-feet/&quot;&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </content>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
@@ -501,45 +476,45 @@ all useful tools for this explosive curiosity&amp;nbsp;phase.&lt;/p&gt;
     <author>
       <name>Miriam Suzanne</name>
     </author>
-    <content type="html">&lt;p&gt;The editors at &lt;a class="reference external" href="http://www.springgunpress.com/"&gt;SpringGun Press&lt;/a&gt; asked me
+    <content type="html">&lt;p&gt;The editors at &lt;a class=&quot;reference external&quot; href=&quot;http://www.springgunpress.com/&quot;&gt;SpringGun Press&lt;/a&gt; asked me
 to design cover art
 for &lt;em&gt;The Posture of Contour&lt;/em&gt;,
-a new book by &lt;a class="reference external" href="http://www.pw.org/content/james_belflower"&gt;James Belflower&lt;/a&gt;.
+a new book by &lt;a class=&quot;reference external&quot; href=&quot;http://www.pw.org/content/james_belflower&quot;&gt;James Belflower&lt;/a&gt;.
 I used the opportunity to get my mind out of an all-digital space,
 and spent most of my time with pen, paper, and oil&amp;nbsp;pastel.&lt;/p&gt;
-&lt;div class="section" id="sketches"&gt;
+&lt;section id=&quot;sketches&quot;&gt;
 &lt;h2&gt;Sketches&lt;/h2&gt;
-&lt;p&gt;&lt;figure class="gallery"&gt;
-  &lt;img src="/static/pictures/contour/contours-coal.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/contours.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/circles.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/jaw.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/mouth-blind.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/colors.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/face-blind.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/face-arrows.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/layers.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/rays.jpg" alt=""&gt;
+&lt;p&gt;&lt;figure class=&quot;gallery&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/contours-coal.jpg&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/contours.png&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/circles.png&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/jaw.png&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/mouth-blind.png&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/colors.png&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/face-blind.jpg&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/face-arrows.jpg&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/layers.jpg&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/rays.jpg&quot; alt=&quot;&quot;&gt;
   &lt;figcaption&gt;
     Exploring levels of distance from object to abstraction,
     using blind contour, layering, tracing, negative space, etc.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;My favorite experiments involved
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Blind_contour_drawing"&gt;blind contours&lt;/a&gt; with a capped pen
+&lt;a class=&quot;reference external&quot; href=&quot;http://en.wikipedia.org/wiki/Blind_contour_drawing&quot;&gt;blind contours&lt;/a&gt; with a capped pen
 over homemade (oil-pastel) carbon paper,
 then arrows traced on a third layer
 using my iPad as a light&amp;nbsp;table.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="final-ish-design"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;final-ish-design&quot;&gt;
 &lt;h2&gt;Final(ish)&amp;nbsp;Design&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/contour/final.png" alt=""&gt;
+  &lt;img src=&quot;/static/pictures/contour/final.png&quot; alt=&quot;&quot;&gt;
   &lt;figcaption&gt;
     What was once a diagram of the tongue, teeth and bottom jaw.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </content>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
@@ -551,38 +526,38 @@ using my iPad as a light&amp;nbsp;table.&lt;/p&gt;
       <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;[This is &lt;em&gt;part 4&lt;/em&gt; in the ongoing
-&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;What&amp;#8217;s the driving force behind this&amp;nbsp;project?&amp;#8221;&lt;/em&gt;&lt;/p&gt;
+&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/&quot;&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;What&amp;#8217;s the driving force behind this&amp;nbsp;project?&amp;quot;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;You can&amp;#8217;t start working
 until you know what you are working towards.
 That doesn&amp;#8217;t mean knowing all the answers,
 it means knowing the questions that will guide&amp;nbsp;you.&lt;/p&gt;
 &lt;p&gt;I refer to those guiding questions as
-the &amp;#8220;seed&amp;#8221; of a&amp;nbsp;project.&lt;/p&gt;
-&lt;div class="section" id="a-range-of-specimen"&gt;
+the &amp;quot;seed&amp;quot; of a&amp;nbsp;project.&lt;/p&gt;
+&lt;section id=&quot;a-range-of-specimen&quot;&gt;
 &lt;h2&gt;A Range of&amp;nbsp;Specimen&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/seed/specimen.jpg" alt=""/&gt;
+  &lt;img src=&quot;/static/pictures/seed/specimen.jpg&quot; alt=&quot;&quot;/&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;There are many ways to find,
 define, and refine your seed.
-&lt;a class="reference external" href="http://lida.org/"&gt;The &lt;span class="caps"&gt;LIDA&lt;/span&gt; Project&lt;/a&gt;
-borrows from &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Scientific_method"&gt;Scientific Method&lt;/a&gt;,
+&lt;a class=&quot;reference external&quot; href=&quot;http://lida.org/&quot;&gt;The &lt;span class=&quot;caps&quot;&gt;LIDA&lt;/span&gt; Project&lt;/a&gt;
+borrows from &lt;a class=&quot;reference external&quot; href=&quot;http://en.wikipedia.org/wiki/Scientific_method&quot;&gt;Scientific Method&lt;/a&gt;,
 starting with a question and related&amp;nbsp;hypothesis.&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
 &lt;li&gt;Formulate a &lt;em&gt;question&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Do &lt;em&gt;background&amp;nbsp;research&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Construct a &lt;em&gt;hypothesis&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/seed/golden-circle.jpg" alt=""/&gt;
+  &lt;img src=&quot;/static/pictures/seed/golden-circle.jpg&quot; alt=&quot;&quot;/&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://startwithwhy.com/"&gt;Simon Sinek&lt;/a&gt; starts his projects with
-&amp;#8220;why&amp;#8221; then &amp;#8220;how&amp;#8221; and finally &amp;#8220;what&amp;#8221; -
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://startwithwhy.com/&quot;&gt;Simon Sinek&lt;/a&gt; starts his projects with
+&amp;quot;why&amp;quot; then &amp;quot;how&amp;quot; and finally &amp;quot;what&amp;quot; -
 statements of belief, values, and finally&amp;nbsp;product.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.siti.org/"&gt;Anne Bogart&lt;/a&gt; covers similar territory
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.siti.org/&quot;&gt;Anne Bogart&lt;/a&gt; covers similar territory
 with her three-part&amp;nbsp;seed:&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
 &lt;li&gt;What is the &lt;em&gt;question&lt;/em&gt; that motivates the&amp;nbsp;piece?&lt;/li&gt;
 &lt;li&gt;Who or what is the &lt;em&gt;anchor&lt;/em&gt; through which we explore the&amp;nbsp;question?&lt;/li&gt;
 &lt;li&gt;What is the &lt;em&gt;structure&lt;/em&gt; of our&amp;nbsp;exploration?&lt;/li&gt;
@@ -592,7 +567,7 @@ It doesn&amp;#8217;t have to be a formal process,
 but it helps to know more-or-less what you need
 in order to move&amp;nbsp;forward.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/seed/flies.jpg" alt=""/&gt;
+  &lt;img src=&quot;/static/pictures/seed/flies.jpg&quot; alt=&quot;&quot;/&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;My seeds usually start with a single idea
 floating around in my mind
@@ -602,63 +577,51 @@ I know it&amp;#8217;s time to pay closer attention.
 In the end,
 I have a list similar to Anne&amp;#8217;s
 before I move to the next&amp;nbsp;step.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="a-seed-of-my-own"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;a-seed-of-my-own&quot;&gt;
 &lt;h2&gt;A Seed of My&amp;nbsp;Own&lt;/h2&gt;
 &lt;p&gt;One of my current projects-in-development
 started with a quote I found on the internet
-(from &lt;a class="reference external" href="http://books.google.com/books?id=S8BB1K361SUC&amp;amp;lpg=PP1&amp;amp;pg=PA15#v=onepage&amp;amp;q&amp;amp;f=false"&gt;The Invention of Heterosexuality&lt;/a&gt;
+(from &lt;a class=&quot;reference external&quot; href=&quot;http://books.google.com/books?id=S8BB1K361SUC&amp;amp;lpg=PP1&amp;amp;pg=PA15#v=onepage&amp;amp;q&amp;amp;f=false&quot;&gt;The Invention of Heterosexuality&lt;/a&gt;
 by Jonathan Ned&amp;nbsp;Katz):&lt;/p&gt;
 &lt;blockquote&gt;
 We name and speak of a troublesome ‘transsexualism,’ the feeling of being the other sex… We do not name and talk much about the feeling of being the same sex—the sex we think we are, the sex most of us desire to stay. But does not our feeling relatively comfortable with our sex, and our intense desire to maintain the integrity of our sex, indicate something that needs to be explained?&lt;/blockquote&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/seed/science.jpg" alt=""/&gt;
+  &lt;img src=&quot;/static/pictures/seed/science.jpg&quot; alt=&quot;&quot;/&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;I combined that with an article
-describing the &lt;a class="reference external" href="http://www.scientificamerican.com/article.cfm?id=real-outof-body-experiences"&gt;science of out-of-body experience&lt;/a&gt;.
+describing the &lt;a class=&quot;reference external&quot; href=&quot;http://www.scientificamerican.com/article.cfm?id=real-outof-body-experiences&quot;&gt;science of out-of-body experience&lt;/a&gt;.
 It raised some questions for&amp;nbsp;me:&lt;/p&gt;
-&lt;ul class="simple"&gt;
+&lt;ul class=&quot;simple&quot;&gt;
 &lt;li&gt;How do we relate to these bodies we live&amp;nbsp;in?&lt;/li&gt;
 &lt;li&gt;What does it mean to identify with a body, let alone a sex or&amp;nbsp;gender?&lt;/li&gt;
 &lt;li&gt;How are trauma and memory&amp;nbsp;involved?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Those &lt;em&gt;questions&lt;/em&gt; became the motivating &amp;#8220;&lt;em&gt;why&lt;/em&gt;&amp;#8221; of the project.
+&lt;p&gt;Those &lt;em&gt;questions&lt;/em&gt; became the motivating &amp;quot;&lt;em&gt;why&lt;/em&gt;&amp;quot; of the project.
 With a little &lt;em&gt;background research&lt;/em&gt;
-(I used &lt;a class="reference external" href="http://en.wikipedia.org/"&gt;Wikipedia&lt;/a&gt;, &lt;a class="reference external" href="http://google.com/"&gt;Google&lt;/a&gt;, and &lt;a class="reference external" href="http://tatteredcover.com/"&gt;my local bookstore&lt;/a&gt;),
+(I used &lt;a class=&quot;reference external&quot; href=&quot;http://en.wikipedia.org/&quot;&gt;Wikipedia&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;http://google.com/&quot;&gt;Google&lt;/a&gt;, and &lt;a class=&quot;reference external&quot; href=&quot;http://tatteredcover.com/&quot;&gt;my local bookstore&lt;/a&gt;),
 the other pieces fell into&amp;nbsp;place.&lt;/p&gt;
-&lt;p&gt;&lt;figure class="gallery"&gt;
-  &lt;img src="/static/pictures/seed/herm.jpg" alt=""/&gt;
+&lt;p&gt;&lt;figure class=&quot;gallery&quot;&gt;
+  &lt;img src=&quot;/static/pictures/seed/herm.jpg&quot; alt=&quot;&quot;/&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;The fragmented &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; unreliable nature of memory inspired a &lt;em&gt;structure&lt;/em&gt;:
+&lt;p&gt;The fragmented &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; unreliable nature of memory inspired a &lt;em&gt;structure&lt;/em&gt;:
 note cards, each written as a fragment of memory,
 and then shuffled before&amp;nbsp;reading.&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;anchor&lt;/em&gt; is a mashup of several existing characters and places
 taken from history, mythology and song:
-The transformation of &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Hermaphroditos"&gt;Hermaphroditus&lt;/a&gt;,
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Mother_Clap"&gt;Mother Clap&lt;/a&gt;&amp;#8216;s 18th-century &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Molly_house"&gt;Molly Houses&lt;/a&gt;,
-and the songs of &lt;a class="reference external" href="http://rd.io/x/QFp1K1LvjA"&gt;Tom Waits&lt;/a&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;a class="reference external" href="http://rd.io/x/QFp1KzMxvg"&gt;Lou&lt;/a&gt; &lt;a class="reference external" href="http://rd.io/x/QFp1K2_sfw"&gt;Reed&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="diyourself"&gt;
+The transformation of &lt;a class=&quot;reference external&quot; href=&quot;http://en.wikipedia.org/wiki/Hermaphroditos&quot;&gt;Hermaphroditus&lt;/a&gt;,
+&lt;a class=&quot;reference external&quot; href=&quot;http://en.wikipedia.org/wiki/Mother_Clap&quot;&gt;Mother Clap&lt;/a&gt;&amp;#8216;s 18th-century &lt;a class=&quot;reference external&quot; href=&quot;http://en.wikipedia.org/wiki/Molly_house&quot;&gt;Molly Houses&lt;/a&gt;,
+and the songs of &lt;a class=&quot;reference external&quot; href=&quot;http://rd.io/x/QFp1K1LvjA&quot;&gt;Tom Waits&lt;/a&gt; &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; &lt;a class=&quot;reference external&quot; href=&quot;http://rd.io/x/QFp1KzMxvg&quot;&gt;Lou&lt;/a&gt; &lt;a class=&quot;reference external&quot; href=&quot;http://rd.io/x/QFp1K2_sfw&quot;&gt;Reed&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;diyourself&quot;&gt;
 &lt;h2&gt;DIYourself&lt;/h2&gt;
 &lt;p&gt;The goal isn&amp;#8217;t to do it exactly the way I do it,
-or the way &lt;span class="caps"&gt;LIDA&lt;/span&gt;, Anne Bogart, or Simon Sinek do it.
+or the way &lt;span class=&quot;caps&quot;&gt;LIDA&lt;/span&gt;, Anne Bogart, or Simon Sinek do it.
 The goal is to know what you need,
 and then pay attention to how you get&amp;nbsp;there.&lt;/p&gt;
 &lt;p&gt;De-mystify the process,
 then learn to repeat&amp;nbsp;it.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-series"&gt;
-&lt;h2&gt;The&amp;nbsp;Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/14/explosive-growth/"&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/03/29/rethinking-on-your-feet/"&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </content>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
@@ -670,18 +633,18 @@ then learn to repeat&amp;nbsp;it.&lt;/p&gt;
       <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;Last month I posted my first
-&lt;a class="reference external" href="/2012/10/18/saying-thanks/"&gt;GreenMud reward portrait&lt;/a&gt;
+&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/18/saying-thanks/&quot;&gt;GreenMud reward portrait&lt;/a&gt;
 of Kitten Karlyle.
 This weekend I finished the second portrait,
 a joint image of my ongoing collaborators
-Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra&amp;nbsp;Eby.&lt;/p&gt;
+Dan Eisenstat &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Sondra&amp;nbsp;Eby.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/portraits/DanSondra-BW.png" alt=""&gt;
+  &lt;img src=&quot;/static/pictures/portraits/DanSondra-BW.png&quot; alt=&quot;&quot;&gt;
   &lt;figcaption&gt;
-    Dan Eisenstat &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra Eby, a sketchy couple.
+    Dan Eisenstat &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Sondra Eby, a sketchy couple.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Dan &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sondra are the other 2/3 of &lt;a class="reference external" href="http://teacupgorilla.com/"&gt;Teacup Gorilla&lt;/a&gt;,
+&lt;p&gt;Dan &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Sondra are the other 2/3 of &lt;a class=&quot;reference external&quot; href=&quot;http://teacupgorilla.com/&quot;&gt;Teacup Gorilla&lt;/a&gt;,
 and have been a great help with the novel.
 Sondra has been helping me edit the images,
 while Dan is writing the music.
@@ -691,7 +654,7 @@ and started a very exciting art/business venture
 that will be announced very soon.
 I can&amp;#8217;t&amp;nbsp;wait!&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/portraits/DanSondra-Full.png" alt=""&gt;
+  &lt;img src=&quot;/static/pictures/portraits/DanSondra-Full.png&quot; alt=&quot;&quot;&gt;
   &lt;figcaption&gt;
     The sketchy couple in full color.
   &lt;/figcaption&gt;
@@ -701,7 +664,7 @@ as the Kitten Karlyle illustration,
 and quickly found that it was the wrong style for these two.
 I made several more stylistic attempts,
 and was unhappy with all of them.
-We call that &amp;#8220;the creative process&amp;#8221;.
+We call that &amp;quot;the creative process&amp;quot;.
 I finally found the style I wanted
 by accidentally viewing all my sketches
 layered on top of each other.
@@ -717,28 +680,28 @@ The rest was just a matter of&amp;nbsp;cleanup.&lt;/p&gt;
       <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;[This is &lt;em&gt;part 3&lt;/em&gt; in the ongoing
-&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
-&lt;p&gt;In his 1991 &lt;a class="reference external" href="http://www.youtube.com/watch?v=VShmtsLhkQg"&gt;lecture on creativity&lt;/a&gt;,
+&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/&quot;&gt;Fuck the Muse&lt;/a&gt;&amp;nbsp;mini-series.]&lt;/p&gt;
+&lt;p&gt;In his 1991 &lt;a class=&quot;reference external&quot; href=&quot;http://www.youtube.com/watch?v=VShmtsLhkQg&quot;&gt;lecture on creativity&lt;/a&gt;,
 John Cleese describes two modes of operating:
-an &amp;#8220;open&amp;#8221; playful mode,
-and a &amp;#8220;closed&amp;#8221; productive more.
+an &amp;quot;open&amp;quot; playful mode,
+and a &amp;quot;closed&amp;quot; productive more.
 Creative people, he claims,
 are simply the people that
 cultivate the open mode of&amp;nbsp;operating.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="640" height="480" src="http://www.youtube.com/embed/f9rtmxJrKwc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;http://www.youtube.com/embed/f9rtmxJrKwc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 We need to be in the open mode when we&amp;#8217;re pondering a problem,
 but once we come up with a solution,
 we must then switch to the closed mode to implement it.&lt;/blockquote&gt;
-&lt;div class="section" id="your-brain-at-work"&gt;
+&lt;section id=&quot;your-brain-at-work&quot;&gt;
 &lt;h2&gt;Your Brain at&amp;nbsp;Work&lt;/h2&gt;
 &lt;p&gt;Renowned psychiatrist Iain McGilchrist
 uses the same general framework
-in his &lt;a class="reference external" href="http://www.thersa.org/"&gt;&lt;span class="caps"&gt;RSA&lt;/span&gt;&lt;/a&gt; lecture on the &lt;a class="reference external" href="http://www.youtube.com/watch?v=dFs9WO2B8uI"&gt;Divided Brain&lt;/a&gt;:&lt;/p&gt;
+in his &lt;a class=&quot;reference external&quot; href=&quot;http://www.thersa.org/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;RSA&lt;/span&gt;&lt;/a&gt; lecture on the &lt;a class=&quot;reference external&quot; href=&quot;http://www.youtube.com/watch?v=dFs9WO2B8uI&quot;&gt;Divided Brain&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="521" height="293" src="http://www.youtube.com/embed/dFs9WO2B8uI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe width=&quot;521&quot; height=&quot;293&quot; src=&quot;http://www.youtube.com/embed/dFs9WO2B8uI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 The right hemisphere gives sustained,
@@ -747,8 +710,8 @@ where the left hemisphere gives narrow,
 sharply-focussed attention to detail&amp;#8230;.
 Let me make it very clear,
 for imagination you need both hemispheres.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div class="section" id="working-in-cycles"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;working-in-cycles&quot;&gt;
 &lt;h2&gt;Working in&amp;nbsp;Cycles&lt;/h2&gt;
 &lt;p&gt;Like all tools,
 our different modes of thinking allow us
@@ -758,7 +721,7 @@ You have to know when to set down your hammer
 and pick up a chainsaw.
 That&amp;#8217;s where cycles become&amp;nbsp;useful.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/cycle-diagram.jpg" alt="Is your approach working? Keep doing it, or try something else." /&gt;
+  &lt;img src=&quot;/static/pictures/cycle-diagram.jpg&quot; alt=&quot;Is your approach working? Keep doing it, or try something else.&quot; /&gt;
   &lt;figcaption&gt;How to everything.&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Cycling through different modes has become
@@ -772,7 +735,7 @@ If my last move was to zig, my next move is to&amp;nbsp;zag.&lt;/p&gt;
 available to us.
 I keep various mode cycles in mind as I work,
 and invent new ones when they seem&amp;nbsp;useful:&lt;/p&gt;
-&lt;ul class="simple"&gt;
+&lt;ul class=&quot;simple&quot;&gt;
 &lt;li&gt;Open vs.&amp;nbsp;Closed&lt;/li&gt;
 &lt;li&gt;Action vs.&amp;nbsp;Reflection&lt;/li&gt;
 &lt;li&gt;Expanding vs.&amp;nbsp;Contracting&lt;/li&gt;
@@ -783,9 +746,9 @@ and invent new ones when they seem&amp;nbsp;useful:&lt;/p&gt;
 &lt;li&gt;Zoomed-In vs.&amp;nbsp;Zoomed-Out&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;What cycles are useful to&amp;nbsp;you?&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="action-reflection"&gt;
-&lt;h2&gt;Action &lt;span class="amp"&gt;&amp;&lt;/span&gt;&amp;nbsp;Reflection&lt;/h2&gt;
+&lt;/section&gt;
+&lt;section id=&quot;action-reflection&quot;&gt;
+&lt;h2&gt;Action &lt;span class=&quot;amp&quot;&gt;&amp;&lt;/span&gt;&amp;nbsp;Reflection&lt;/h2&gt;
 &lt;p&gt;Putting these ideas to use is a cycle of it&amp;#8217;s own —
 stepping in and out of the work.
 When you hit a snag, step back and consider your approach.
@@ -793,7 +756,7 @@ Often, an obstacle to the open mind
 can be overcome with a closed mind,
 and vice&amp;nbsp;versa.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="520" height="390" src="http://www.youtube.com/embed/iZhEcRrMA-M" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe width=&quot;520&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/iZhEcRrMA-M&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;If I&amp;#8217;ve been looking at the details,
 I step back and look at the project from a distance.
@@ -801,9 +764,9 @@ How does it all fit together?
 Are the problems on page 12 caused by something on page 3?
 If I&amp;#8217;ve been writing stream-of-conscious (expanding),
 I start editing with a vengeance (contracting).
-&lt;a class="reference external" href="http://www.austinkleon.com/2010/01/19/creativity-is-subtraction/"&gt;Creativity is subtraction&lt;/a&gt; as much as&amp;nbsp;creation.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="garbage-in-please"&gt;
+&lt;a class=&quot;reference external&quot; href=&quot;http://www.austinkleon.com/2010/01/19/creativity-is-subtraction/&quot;&gt;Creativity is subtraction&lt;/a&gt; as much as&amp;nbsp;creation.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;garbage-in-please&quot;&gt;
 &lt;h2&gt;Garbage In&amp;nbsp;(Please)&lt;/h2&gt;
 &lt;p&gt;Similarly,
 If I&amp;#8217;m all out of ideas,
@@ -813,18 +776,18 @@ and that well needs to be maintained.
 Sometimes I&amp;#8217;ll study a related topic,
 or I&amp;#8217;ll read a book,
 watch a movie,
-or just watch &lt;span class="caps"&gt;TV&lt;/span&gt;.
-Ignore the old &amp;#8220;garbage-in, garbage-out&amp;#8221; mantra.
-Watch shitty &lt;span class="caps"&gt;TV&lt;/span&gt;, eat some candy, and enjoy it.
+or just watch &lt;span class=&quot;caps&quot;&gt;TV&lt;/span&gt;.
+Ignore the old &amp;quot;garbage-in, garbage-out&amp;quot; mantra.
+Watch shitty &lt;span class=&quot;caps&quot;&gt;TV&lt;/span&gt;, eat some candy, and enjoy it.
 You can learn a lot from&amp;nbsp;garbage.&lt;/p&gt;
 &lt;p&gt;Practice being critical without being&amp;nbsp;dismissive.&lt;/p&gt;
 &lt;p&gt;The important thing is to replenish.
 Getting new ideas into your head is part of the&amp;nbsp;work.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="stay-agile"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;stay-agile&quot;&gt;
 &lt;h2&gt;Stay&amp;nbsp;Agile&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;iframe width="520" height="390" src="http://www.youtube.com/embed/K2P86C-1x3o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe width=&quot;520&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/K2P86C-1x3o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;No one technique is going to get you the whole way there.
 Practice changing directions quickly.
@@ -843,20 +806,29 @@ adjust,
 and keep&amp;nbsp;moving.&lt;/p&gt;
 &lt;p&gt;Creativity happens in cycles:
 the end of one cycle is the start of&amp;nbsp;another.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-series"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;the-series&quot;&gt;
 &lt;h2&gt;The&amp;nbsp;Series&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/16/muse-intro/"&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/10/23/ordinary-tools-of-thought/"&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/11/08/creative-cycles"&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2012/12/13/starting-from-a-seed/"&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/07/get-curious/"&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/02/14/explosive-growth/"&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="/2013/03/29/rethinking-on-your-feet/"&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/16/muse-intro/&quot;&gt;Fuck the Muse: a Blog Mini-Series&amp;nbsp;[intro]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/10/23/ordinary-tools-of-thought/&quot;&gt;Ordinary Tools of&amp;nbsp;Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/11/08/creative-cycles&quot;&gt;Creative Modes and&amp;nbsp;Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2012/12/13/starting-from-a-seed/&quot;&gt;Starting from a&amp;nbsp;Seed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/02/07/get-curious/&quot;&gt;Get&amp;nbsp;Curious&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/02/14/explosive-growth/&quot;&gt;Explosive&amp;nbsp;Growth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;/2013/03/29/rethinking-on-your-feet/&quot;&gt;(re)Thinking on Your&amp;nbsp;Feet&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Battlefield Notes</title>
+    <id>http://www.miriamsuzanne.com/2012/10/31/exit-strata</id>
+    <updated>2012-10-31T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2012/10/31/exit-strata" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
   </entry>
 </feed>
 

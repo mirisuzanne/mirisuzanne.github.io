@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://www.miriamsuzanne.com/feed.atom</id>
-  <updated>2012-08-14T00:00:00Z</updated>
+  <updated>2016-12-02T00:00:00Z</updated>
   <link href="http://www.miriamsuzanne.com/" />
   <link href="http://www.miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Loops in CSS Preprocessors</title>
+    <id>http://www.miriamsuzanne.com/2016/12/02/loops</id>
+    <updated>2016-12-02T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2016/12/02/loops" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+  </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">Susy 1.0 Release</title>
     <id>http://www.miriamsuzanne.com/2012/08/14/susy-1-0</id>
@@ -18,18 +27,18 @@
     <content type="html">&lt;p&gt;Susy 1.0 has officially&amp;nbsp;launched!&lt;/p&gt;
 &lt;p&gt;Thanks to everyone who contributed,
 including
-&lt;a class="reference external" href="https://github.com/dannyprose"&gt;Danny Palmer&lt;/a&gt;,
-&lt;a class="reference external" href="https://github.com/silvenon"&gt;Matija Marohnić&lt;/a&gt;,
-&lt;a class="reference external" href="https://github.com/danielbayerlein"&gt;Daniel Bayerlein&lt;/a&gt;,
-&lt;a class="reference external" href="https://github.com/jina"&gt;Jina Bolton&lt;/a&gt;,
-&lt;a class="reference external" href="https://github.com/tbredin"&gt;Thomas bredin-Grey&lt;/a&gt;,
-and &lt;a class="reference external" href="https://github.com/Snugug"&gt;Sam Richard&lt;/a&gt;.
-Thanks also to the &lt;a class="reference external" href="http://sass-lang.com/"&gt;Sass&lt;/a&gt; and &lt;a class="reference external" href="http://compass-style.org/"&gt;Compass&lt;/a&gt; teams
+&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/dannyprose&quot;&gt;Danny Palmer&lt;/a&gt;,
+&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/silvenon&quot;&gt;Matija Marohnić&lt;/a&gt;,
+&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/danielbayerlein&quot;&gt;Daniel Bayerlein&lt;/a&gt;,
+&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/jina&quot;&gt;Jina Bolton&lt;/a&gt;,
+&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/tbredin&quot;&gt;Thomas bredin-Grey&lt;/a&gt;,
+and &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/Snugug&quot;&gt;Sam Richard&lt;/a&gt;.
+Thanks also to the &lt;a class=&quot;reference external&quot; href=&quot;http://sass-lang.com/&quot;&gt;Sass&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;http://compass-style.org/&quot;&gt;Compass&lt;/a&gt; teams
 for building the tools that make it&amp;nbsp;possible.&lt;/p&gt;
 &lt;p&gt;This release is loaded with new features,
 but don&amp;#8217;t let that fool you.
 Susy has become shockingly simple to use.
-See the &lt;a class="reference external" href="http://susy.oddbird.net/"&gt;website&lt;/a&gt; for more details and&amp;nbsp;demonstrations.&lt;/p&gt;
+See the &lt;a class=&quot;reference external&quot; href=&quot;http://susy.oddbird.net/&quot;&gt;website&lt;/a&gt; for more details and&amp;nbsp;demonstrations.&lt;/p&gt;
 &lt;p&gt;The interface and syntax have been simplified
 so that the language is consistent and easy to understand.
 We cleaned up the output,
@@ -42,162 +51,13 @@ to make Susy as absolutely flexible as&amp;nbsp;possible.&lt;/p&gt;
 </content>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">Off-canvas design with Susy</title>
+    <title type="text">Off-canvas design with Susy1</title>
     <id>http://www.miriamsuzanne.com/2012/07/25/susy-off-canvas</id>
     <updated>2012-07-25T00:00:00Z</updated>
     <link href="http://www.miriamsuzanne.com/2012/07/25/susy-off-canvas" />
     <author>
       <name>Miriam Suzanne</name>
     </author>
-    <content type="html">&lt;p&gt;The &lt;a class="reference external" href="http://jasonweaver.name/lab/offcanvas/"&gt;off-canvas&lt;/a&gt; design pattern
-for creating responsive websites
-has been getting all the attention lately,
-and I&amp;#8217;ve had several people ask
-how Susy might play&amp;nbsp;along.&lt;/p&gt;
-&lt;p&gt;The truth is,
-off-canvas design is as simple with Susy
-as any other design pattern.
-All you need to do
-is pull some of your columns off the&amp;nbsp;screen.&lt;/p&gt;
-&lt;div class="section" id="basic-markup"&gt;
-&lt;h2&gt;Basic&amp;nbsp;Markup:&lt;/h2&gt;
-&lt;pre class="code html literal-block"&gt;
-&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;container&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class="nt"&gt;&amp;lt;header&amp;gt;&lt;/span&gt;header&lt;span class="nt"&gt;&amp;lt;/header&amp;gt;&lt;/span&gt;
-  &lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;left&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;left&lt;span class="nt"&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;main&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;main&lt;span class="nt"&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;right&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;right&lt;span class="nt"&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class="nt"&gt;&amp;lt;footer&amp;gt;&lt;/span&gt;footer&lt;span class="nt"&gt;&amp;lt;/footer&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-susy-sass-part"&gt;
-&lt;h2&gt;The Susy/Sass&amp;nbsp;Part:&lt;/h2&gt;
-&lt;pre class="code scss literal-block"&gt;
-&lt;span class="k"&gt;&amp;#64;import&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;compass&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="k"&gt;&amp;#64;import&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;susy&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-
-&lt;span class="c1"&gt;// --------------------------------------------
-// settings
-&lt;/span&gt;
-&lt;span class="nv"&gt;$total-columns&lt;/span&gt;&lt;span class="o"&gt;  :&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="nv"&gt;$column-width&lt;/span&gt;&lt;span class="o"&gt;   :&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="nv"&gt;$gutter-width&lt;/span&gt;&lt;span class="o"&gt;   :&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="nv"&gt;$grid-padding&lt;/span&gt;&lt;span class="o"&gt;   :&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-
-&lt;span class="c1"&gt;// --------------------------------------------
-// layout
-//
-// we only need to set the container once
-// (for our largest layout)
-// because it will automatically remain full-width
-// at any smaller size.
-&lt;/span&gt;
-&lt;span class="nt"&gt;body&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;padding&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="err"&gt; &lt;/span&gt;&lt;span class="na"&gt;margin&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="err"&gt; &lt;/span&gt;&lt;span class="na"&gt;}&lt;/span&gt;
-&lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; box-sizing&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="no"&gt;border&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;box&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
-
-&lt;span class="nc"&gt;.container&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; container&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; box-sizing&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="no"&gt;content&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;box&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-  &lt;span class="na"&gt;overflow&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="no"&gt;hidden&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
-
-&lt;span class="nt"&gt;header&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;footer&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;clear&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="no"&gt;both&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="err"&gt; &lt;/span&gt;&lt;span class="na"&gt;}&lt;/span&gt;
-
-&lt;span class="c1"&gt;// --------------------------------------------
-// phone
-//
-// No need for Susy here -
-// we're not dealing with columns.
-&lt;/span&gt;
-&lt;span class="nc"&gt;.left&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nc"&gt;.right&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nc"&gt;.main&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; transition&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;.2&lt;/span&gt;&lt;span class="kt"&gt;s&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;ease&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-  &lt;span class="na"&gt;float&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="no"&gt;left&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="na"&gt;width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
-
-&lt;span class="nc"&gt;.left&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="na"&gt;margin-left&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;-100&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
-
-&lt;span class="nc"&gt;.right&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="na"&gt;float&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="no"&gt;right&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="na"&gt;margin-right&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;-100&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
-
-&lt;span class="c1"&gt;// --------------------------------------------
-// tablet
-//
-// You can set this to any min-width
-// and any column-count that you want for tablets.
-// No need for a max-width,
-// because most of it works towards the desktop
-// and we can override the rest.
-// We're not setting a container,
-// so the column-count is just how you want to divide up
-// the 100% space that we have available.
-&lt;/span&gt;
-&lt;span class="nv"&gt;$tablet&lt;/span&gt;&lt;span class="o"&gt;   :&lt;/span&gt; &lt;span class="mi"&gt;30&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;   &lt;span class="c1"&gt;// tablet min-width breakpoint
-&lt;/span&gt;&lt;span class="nv"&gt;$columns&lt;/span&gt;&lt;span class="o"&gt;  :&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;      &lt;span class="c1"&gt;// divide into as many columns as you want
-&lt;/span&gt;&lt;span class="nv"&gt;$main&lt;/span&gt;&lt;span class="o"&gt;     :&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;      &lt;span class="c1"&gt;// main content uses most of them
-&lt;/span&gt;&lt;span class="nv"&gt;$side&lt;/span&gt;&lt;span class="o"&gt;     :&lt;/span&gt; &lt;span class="nv"&gt;$columns&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="nv"&gt;$main&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="c1"&gt;// room for one sidebar at a time
-&lt;/span&gt;
-&lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; at-breakpoint&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$tablet&lt;/span&gt; &lt;span class="nv"&gt;$columns&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="nc"&gt;.main&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-    &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; span-columns&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$main&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-    &lt;span class="na"&gt;margin-right&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="p"&gt;}&lt;/span&gt;
-  &lt;span class="nc"&gt;.left&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-    &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; span-columns&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$side&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-    &lt;span class="na"&gt;margin-left&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="p"&gt;}&lt;/span&gt;
-  &lt;span class="nc"&gt;.right&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-    &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; span-columns&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$side&lt;/span&gt; &lt;span class="n"&gt;omega&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-    &lt;span class="na"&gt;margin-right&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;-100&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="p"&gt;}&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
-
-&lt;span class="c1"&gt;// --------------------------------------------
-// desktop
-//
-// Now we're just bringing things back to normal.
-&lt;/span&gt;
-&lt;span class="nv"&gt;$desktop&lt;/span&gt;&lt;span class="o"&gt;    :&lt;/span&gt; &lt;span class="mi"&gt;60&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;           &lt;span class="c1"&gt;// desktop breakpoint
-&lt;/span&gt;&lt;span class="nv"&gt;$columns&lt;/span&gt;&lt;span class="o"&gt;    :&lt;/span&gt; &lt;span class="nv"&gt;$total-columns&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="c1"&gt;// use all the columns
-&lt;/span&gt;&lt;span class="nv"&gt;$main&lt;/span&gt;&lt;span class="o"&gt;       :&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;              &lt;span class="c1"&gt;// main uses some
-&lt;/span&gt;&lt;span class="nv"&gt;$side&lt;/span&gt;&lt;span class="o"&gt;       :&lt;/span&gt; &lt;span class="nf"&gt;floor&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="nv"&gt;$columns&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="nv"&gt;$main&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt; &lt;span class="c1"&gt;// the rest are divided between sidebars
-&lt;/span&gt;
-&lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; at-breakpoint&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$desktop&lt;/span&gt; &lt;span class="nv"&gt;$columns&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="nc"&gt;.main&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-    &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; span-columns&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$main&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-  &lt;span class="p"&gt;}&lt;/span&gt;
-  &lt;span class="nc"&gt;.left&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nc"&gt;.right&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-    &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; span-columns&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$side&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-  &lt;span class="p"&gt;}&lt;/span&gt;
-  &lt;span class="nc"&gt;.right&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-    &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; omega&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-    &lt;span class="na"&gt;margin-right&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="p"&gt;}&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
-
-&lt;span class="c1"&gt;// --------------------------------------------
-// styles (for demo only)
-&lt;/span&gt;
-&lt;span class="nc"&gt;.left&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nc"&gt;.right&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nc"&gt;.main&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="na"&gt;height&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="na"&gt;padding&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
-&lt;span class="nc"&gt;.left&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;background&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#cff&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="err"&gt; &lt;/span&gt;&lt;span class="na"&gt;}&lt;/span&gt;
-&lt;span class="nc"&gt;.right&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;background&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#ffc&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="err"&gt; &lt;/span&gt;&lt;span class="na"&gt;}&lt;/span&gt;
-
-&lt;span class="nt"&gt;header&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;footer&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="na"&gt;height&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="na"&gt;padding&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="na"&gt;background&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#fcf&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-</content>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">Create a striped css background using Sass</title>
@@ -207,63 +67,59 @@ is pull some of your columns off the&amp;nbsp;screen.&lt;/p&gt;
     <author>
       <name>Miriam Suzanne</name>
     </author>
-    <content type="html">&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/jina/status/225811628338323458"&gt;Jina&lt;/a&gt; asked twitter for Sass advice the other day.
-She was working on a &lt;a class="reference external" href="https://gist.github.com/3140730"&gt;bit of code&lt;/a&gt; to create
+    <content type="html">&lt;section id=&quot;stripes-intro&quot;&gt;
+&lt;h2&gt;Stripes&amp;nbsp;Intro&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/jina/status/225811628338323458&quot;&gt;Jina&lt;/a&gt; asked twitter for Sass advice the other day.
+She was working on a &lt;a class=&quot;reference external&quot; href=&quot;https://gist.github.com/3140730&quot;&gt;bit of code&lt;/a&gt; to create
 a rainbow-striped background gradient
-using any set of arbitrary&amp;nbsp;colors.&lt;/p&gt;
-&lt;p&gt;This is my solution,
+using any set of arbitrary colors.
+This is my solution,
 in the form of a Sass function.
-This requires &lt;a class="reference external" href="http://rubygems.org/gems/sass"&gt;Sass 3.2&lt;/a&gt;
+This requires &lt;a class=&quot;reference external&quot; href=&quot;http://rubygems.org/gems/sass&quot;&gt;Sass 3.2&lt;/a&gt;
 (currently in alpha)
 in order to&amp;nbsp;run.&lt;/p&gt;
-&lt;div class="section" id="variables"&gt;
-&lt;h2&gt;Variables&lt;/h2&gt;
-&lt;pre class="code scss literal-block"&gt;
-&lt;span class="nv"&gt;$rainbow&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;red&lt;/span&gt; &lt;span class="ni"&gt;orange&lt;/span&gt; &lt;span class="nb"&gt;yellow&lt;/span&gt; &lt;span class="nb"&gt;green&lt;/span&gt; &lt;span class="nb"&gt;blue&lt;/span&gt; &lt;span class="ni"&gt;indigo&lt;/span&gt; &lt;span class="ni"&gt;violet&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/section&gt;
+&lt;section id=&quot;stripes-function&quot;&gt;
+&lt;h2&gt;Stripes&amp;nbsp;Function&lt;/h2&gt;
+&lt;p&gt;Start by setting a variable to the colors you&amp;nbsp;want:&lt;/p&gt;
+&lt;pre class=&quot;code scss&quot;&gt;
+&lt;span class=&quot;nv&quot;&gt;$rainbow&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;ni&quot;&gt;red&lt;/span&gt; &lt;span class=&quot;ni&quot;&gt;orange&lt;/span&gt; &lt;span class=&quot;ni&quot;&gt;yellow&lt;/span&gt; &lt;span class=&quot;ni&quot;&gt;green&lt;/span&gt; &lt;span class=&quot;ni&quot;&gt;blue&lt;/span&gt; &lt;span class=&quot;ni&quot;&gt;indigo&lt;/span&gt; &lt;span class=&quot;ni&quot;&gt;violet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;/pre&gt;
 &lt;p&gt;You could set individual variables for each color as well.
 You would still pass them all as a single argument,
 or join them into a single variable before passing, as you see&amp;nbsp;fit.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="function"&gt;
-&lt;h2&gt;Function&lt;/h2&gt;
-&lt;pre class="code scss literal-block"&gt;
-&lt;span class="c1"&gt;// Returns a striped gradient for use anywhere gradients are accepted.
+&lt;p&gt;Here&amp;#8217;s the&amp;nbsp;function:&lt;/p&gt;
+&lt;pre class=&quot;code scss&quot;&gt;
+&lt;span class=&quot;c1&quot;&gt;// Returns a striped gradient for use anywhere gradients are accepted.
 // - $position: the starting position or angle of the gradient.
 // - $colors: a list of all the colors to be used.
-&lt;/span&gt;&lt;span class="k"&gt;&amp;#64;function&lt;/span&gt; &lt;span class="nt"&gt;stripes&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="nt"&gt;position&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="nt"&gt;colors&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nf"&gt;if&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;type-of&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s2"&gt;list'&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nf"&gt;compact&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-  &lt;span class="nv"&gt;$gradient&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nf"&gt;compact&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
-  &lt;span class="nv"&gt;$width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="nf"&gt;length&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;&amp;#64;function&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;stripes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;colors&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nv&quot;&gt;$colors&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;type-of&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$colors&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;list'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;compact&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$colors&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$colors&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;nv&quot;&gt;$gradient&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;compact&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+  &lt;span class=&quot;nv&quot;&gt;$width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$colors&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 
-  &lt;span class="k"&gt;&amp;#64;for&lt;/span&gt; &lt;span class="nv"&gt;$i&lt;/span&gt; &lt;span class="ow"&gt;from&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="ow"&gt;through&lt;/span&gt; &lt;span class="nf"&gt;length&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-    &lt;span class="nv"&gt;$pop&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nf"&gt;nth&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$colors&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt;&lt;span class="nv"&gt;$i&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-    &lt;span class="nv"&gt;$new&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nv"&gt;$pop&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$width&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$i&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nv"&gt;$pop&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$width&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="nv"&gt;$i&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-    &lt;span class="nv"&gt;$gradient&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nf"&gt;join&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$gradient&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nv"&gt;$new&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;comma&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-  &lt;span class="p"&gt;}&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;&amp;#64;for&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;through&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$colors&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nv&quot;&gt;$pop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;nth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$colors&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nv&quot;&gt;$new&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$pop&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$width&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$pop&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$width&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nv&quot;&gt;$gradient&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$gradient&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$new&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;comma&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-  &lt;span class="k"&gt;&amp;#64;return&lt;/span&gt; &lt;span class="nt"&gt;linear-gradient&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="nt"&gt;position&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="nt"&gt;gradient&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;&amp;#64;return&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;linear-gradient&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;gradient&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/pre&gt;
-&lt;/div&gt;
-&lt;div class="section" id="use"&gt;
-&lt;h2&gt;Use&lt;/h2&gt;
-&lt;pre class="code scss literal-block"&gt;
-&lt;span class="nc"&gt;.rainbow&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="k"&gt;&amp;#64;include&lt;/span&gt;&lt;span class="nd"&gt; background-image&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;stripes&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="no"&gt;left&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nv"&gt;$rainbow&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;p&gt;And how to use&amp;nbsp;it:&lt;/p&gt;
+&lt;pre class=&quot;code scss&quot;&gt;
+&lt;span class=&quot;nc&quot;&gt;.rainbow&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;&amp;#64;include&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt; background-image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;stripes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$rainbow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/pre&gt;
-&lt;/div&gt;
-&lt;div class="section" id="demo"&gt;
-&lt;h2&gt;Demo&lt;/h2&gt;
-&lt;p&gt;Here is the&amp;nbsp;result:&lt;/p&gt;
-&lt;div class="demo-rainbow"&gt;&lt;/div&gt;&lt;p&gt;Jina has also posted a demo and explanation
-on &lt;a class="reference external" href="http://codepen.io/jina/pen/iosjp"&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Jina has posted a demo and explanation
+on &lt;a class=&quot;reference external&quot; href=&quot;http://codepen.io/jina/pen/iosjp&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;(The real lesson here
 is that all the colors of the rainbow
-are acceptable &lt;span class="caps"&gt;CSS&lt;/span&gt; color keywords.
+are acceptable &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; color keywords.
 Go forth and queer the&amp;nbsp;web.)&lt;/p&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </content>
   </entry>
 </feed>

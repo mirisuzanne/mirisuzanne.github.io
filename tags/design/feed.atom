@@ -16,10 +16,10 @@
       <name>Miriam Suzanne</name>
     </author>
     <content type="html">&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/tennis/volley10.jpg" alt="" /&gt;
+  &lt;img src=&quot;/static/pictures/tennis/volley10.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.exitstrata.com/"&gt;Exit Strata&lt;/a&gt; asked me to design the cover of their next issue,
-&lt;a class="reference external" href="http://www.exitstrata.com/category/print-2/"&gt;&lt;span class="caps"&gt;PRINT&lt;/span&gt;!&lt;/a&gt; &lt;span class="caps"&gt;VOL&lt;/span&gt;&amp;nbsp;3.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.exitstrata.com/&quot;&gt;Exit Strata&lt;/a&gt; asked me to design the cover of their next issue,
+&lt;a class=&quot;reference external&quot; href=&quot;http://www.exitstrata.com/category/print-2/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;PRINT&lt;/span&gt;!&lt;/a&gt; &lt;span class=&quot;caps&quot;&gt;VOL&lt;/span&gt;&amp;nbsp;3.&lt;/p&gt;
 &lt;blockquote&gt;
 &amp;#8230;focussed on issues of translation, transmutation,
 and language forms across media,
@@ -28,29 +28,29 @@ of these transmissions as they travel between and betwixt our minds&amp;#8230;
 The biggest tension is between that of the printed page
 and that of the new virtual realities&amp;#8230;&lt;/blockquote&gt;
 &lt;p&gt;There&amp;#8217;s only one way I know to make all that&amp;nbsp;happen.&lt;/p&gt;
-&lt;div class="section" id="layer-tennis"&gt;
+&lt;section id=&quot;layer-tennis&quot;&gt;
 &lt;h2&gt;Layer&amp;nbsp;Tennis&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/tennis/volley8.jpg" alt="" /&gt;
+  &lt;img src=&quot;/static/pictures/tennis/volley8.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://layertennis.com/"&gt;Layer tennis&lt;/a&gt; is a design game
-made popular by &lt;a class="reference external" href="http://www.coudal.com/"&gt;Coudal Partners&lt;/a&gt;.
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://layertennis.com/&quot;&gt;Layer tennis&lt;/a&gt; is a design game
+made popular by &lt;a class=&quot;reference external&quot; href=&quot;http://www.coudal.com/&quot;&gt;Coudal Partners&lt;/a&gt;.
 Two competitors
-(myself &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;a class="reference external" href="http://aaronliechty.tumblr.com/"&gt;Aaron Liechty&lt;/a&gt;)
+(myself &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; &lt;a class=&quot;reference external&quot; href=&quot;http://aaronliechty.tumblr.com/&quot;&gt;Aaron Liechty&lt;/a&gt;)
 pass design files back and forth,
 riffing on the same work under extreme time constraints.
-Each 30-minute &amp;#8220;volley&amp;#8221; is posted live as it is created,
-along with commentary (&lt;a class="reference external" href="http://jacobliechty.tumblr.com/"&gt;Jacob Liechty&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://sondraedesign.tumblr.com/"&gt;Sondra Eisenstat&lt;/a&gt; agreed to
+Each 30-minute &amp;quot;volley&amp;quot; is posted live as it is created,
+along with commentary (&lt;a class=&quot;reference external&quot; href=&quot;http://jacobliechty.tumblr.com/&quot;&gt;Jacob Liechty&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://sondraedesign.tumblr.com/&quot;&gt;Sondra Eisenstat&lt;/a&gt; agreed to
 help us with
 the thankless task of posting it all online,
 since the rest of us were pre-occupied with
-writing &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; designing under&amp;nbsp;pressure.&lt;/p&gt;
+writing &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; designing under&amp;nbsp;pressure.&lt;/p&gt;
 &lt;p&gt;The battle took place on Sunday afternoon.
 The full experience is still available
-on the &lt;a class="reference external" href="http://www.exitstrata.com/layer-tennis-live-stream-print-vol-3-ole/"&gt;Exit Strata blog&lt;/a&gt;,
+on the &lt;a class=&quot;reference external&quot; href=&quot;http://www.exitstrata.com/layer-tennis-live-stream-print-vol-3-ole/&quot;&gt;Exit Strata blog&lt;/a&gt;,
 but here are the&amp;nbsp;volleys:&lt;/p&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </content>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
@@ -61,84 +61,45 @@ but here are the&amp;nbsp;volleys:&lt;/p&gt;
     <author>
       <name>Miriam Suzanne</name>
     </author>
-    <content type="html">&lt;p&gt;The editors at &lt;a class="reference external" href="http://www.springgunpress.com/"&gt;SpringGun Press&lt;/a&gt; asked me
+    <content type="html">&lt;p&gt;The editors at &lt;a class=&quot;reference external&quot; href=&quot;http://www.springgunpress.com/&quot;&gt;SpringGun Press&lt;/a&gt; asked me
 to design cover art
 for &lt;em&gt;The Posture of Contour&lt;/em&gt;,
-a new book by &lt;a class="reference external" href="http://www.pw.org/content/james_belflower"&gt;James Belflower&lt;/a&gt;.
+a new book by &lt;a class=&quot;reference external&quot; href=&quot;http://www.pw.org/content/james_belflower&quot;&gt;James Belflower&lt;/a&gt;.
 I used the opportunity to get my mind out of an all-digital space,
 and spent most of my time with pen, paper, and oil&amp;nbsp;pastel.&lt;/p&gt;
-&lt;div class="section" id="sketches"&gt;
+&lt;section id=&quot;sketches&quot;&gt;
 &lt;h2&gt;Sketches&lt;/h2&gt;
-&lt;p&gt;&lt;figure class="gallery"&gt;
-  &lt;img src="/static/pictures/contour/contours-coal.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/contours.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/circles.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/jaw.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/mouth-blind.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/colors.png" alt=""&gt;
-  &lt;img src="/static/pictures/contour/face-blind.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/face-arrows.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/layers.jpg" alt=""&gt;
-  &lt;img src="/static/pictures/contour/rays.jpg" alt=""&gt;
+&lt;p&gt;&lt;figure class=&quot;gallery&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/contours-coal.jpg&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/contours.png&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/circles.png&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/jaw.png&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/mouth-blind.png&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/colors.png&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/face-blind.jpg&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/face-arrows.jpg&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/layers.jpg&quot; alt=&quot;&quot;&gt;
+  &lt;img src=&quot;/static/pictures/contour/rays.jpg&quot; alt=&quot;&quot;&gt;
   &lt;figcaption&gt;
     Exploring levels of distance from object to abstraction,
     using blind contour, layering, tracing, negative space, etc.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;My favorite experiments involved
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Blind_contour_drawing"&gt;blind contours&lt;/a&gt; with a capped pen
+&lt;a class=&quot;reference external&quot; href=&quot;http://en.wikipedia.org/wiki/Blind_contour_drawing&quot;&gt;blind contours&lt;/a&gt; with a capped pen
 over homemade (oil-pastel) carbon paper,
 then arrows traced on a third layer
 using my iPad as a light&amp;nbsp;table.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="final-ish-design"&gt;
+&lt;/section&gt;
+&lt;section id=&quot;final-ish-design&quot;&gt;
 &lt;h2&gt;Final(ish)&amp;nbsp;Design&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/contour/final.png" alt=""&gt;
+  &lt;img src=&quot;/static/pictures/contour/final.png&quot; alt=&quot;&quot;&gt;
   &lt;figcaption&gt;
     What was once a diagram of the tongue, teeth and bottom jaw.
   &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">A Font Family for Susy</title>
-    <id>http://www.miriamsuzanne.com/2012/10/09/susy-fonts</id>
-    <updated>2012-10-09T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2012/10/09/susy-fonts" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;The first drafts
-of the &amp;#8220;GreenMud Susy&amp;#8221; fonts
-are kerned, complete,
-and roughly &lt;a class="reference external" href="http://greengreenmud.com/"&gt;in place&lt;/a&gt;.
-Susy chapters now use her font,
-&lt;span class="caps"&gt;JJ&lt;/span&gt; chapters use his,
-and the remainder is split
-until I flesh out a neutral &amp;#8220;narrator&amp;#8221;&amp;nbsp;font.&lt;/p&gt;
-&lt;p&gt;Susy&amp;#8217;s fonts look like&amp;nbsp;this:&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;img src="/static/pictures/susy-font.jpg" alt=" " /&gt;
-  &lt;figcaption&gt;
-    Susy Regular in action, Chapter 18.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src="/static/pictures/susy-font-vector.jpg" alt=" " /&gt;
-  &lt;figcaption&gt;
-    Susy Bold Q, under construction.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src="/static/pictures/susy-font-bio.jpg" alt=" " /&gt;
-  &lt;figcaption&gt;
-    Susy Bold, SmallCaps, and Regular on the &amp;#8220;about&amp;#8221; page.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/section&gt;
 </content>
   </entry>
 </feed>

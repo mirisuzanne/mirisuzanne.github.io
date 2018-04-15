@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Recent Blog Posts</title>
+  <id>http://www.miriamsuzanne.com/feed.atom</id>
+  <updated>2012-10-05T00:00:00Z</updated>
+  <link href="http://www.miriamsuzanne.com/" />
+  <link href="http://www.miriamsuzanne.com/feed.atom" rel="self" />
+  <subtitle type="text">Recent blog posts</subtitle>
+  <generator>Werkzeug</generator>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">A Whirlwind of Digital Humanities</title>
+    <id>http://www.miriamsuzanne.com/2012/10/05/slsa-followup</id>
+    <updated>2012-10-05T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2012/10/05/slsa-followup" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;After submitting on a whim,
+I was &lt;a class=&quot;reference external&quot; href=&quot;/2012/09/27/slsa2012/&quot;&gt;invited to perform&lt;/a&gt;
+last weekend at the &lt;a class=&quot;reference external&quot; href=&quot;http://www.litsciarts.org/slsa12/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SLSA&lt;/span&gt;&lt;/a&gt;
+conference in Milwaukee,
+and I went.
+This was not a reasonable thing to&amp;nbsp;do.&lt;/p&gt;
+&lt;section id=&quot;friday&quot;&gt;
+&lt;h2&gt;Friday&lt;/h2&gt;
+&lt;p&gt;It was a &lt;a class=&quot;reference external&quot; href=&quot;http://www.chickpeasandhulahoops.com/blog/?page_id=1009#post-1009&quot;&gt;whirlwind&lt;/a&gt; of a weekend.
+The piece,
+&lt;a href=&quot;http://www.post-obsolete.com/&quot;&gt;
+  &lt;em&gt;
+    The Obsolete Book in a Post-Obsolete World,
+    as Represented by a Post-Obsolete Book About Dance&lt;/em&gt;&lt;/a&gt;,
+requires a long list of props,
+but all I took along was a shopping&amp;nbsp;list:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;overhead&amp;nbsp;projector&lt;/li&gt;
+&lt;li&gt;party&amp;nbsp;hats&lt;/li&gt;
+&lt;li&gt;noise&amp;nbsp;makers&lt;/li&gt;
+&lt;li&gt;an old book about&amp;nbsp;dance&lt;/li&gt;
+&lt;li&gt;10-page printed&amp;nbsp;handouts&lt;/li&gt;
+&lt;li&gt;tweed&amp;nbsp;jacket&lt;/li&gt;
+&lt;li&gt;whiskey&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I flew in on Friday night,
+drank a bottle of sake,
+and commandeered my friend, Micah,
+as a driver for the next&amp;nbsp;day.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;saturday&quot;&gt;
+&lt;h2&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;Overhead projectors are not easy to find,
+but Micah tracked one down
+at a party-supply rental shop on the other side of town.
+When we arrived, they had to dust it off and test the bulb.
+Lucky for us, it&amp;nbsp;worked.&lt;/p&gt;
+&lt;p&gt;And our luck lasted the entire day.
+Apart from a few problems with printers and staplers,
+we found everything with time to&amp;nbsp;spare.&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gallery&quot;&gt;
+  &lt;img src=&quot;/static/pictures/slsa12/handout.jpg&quot; alt=&quot;handouts!&quot; /&gt;
+  &lt;img src=&quot;/static/pictures/slsa12/party.jpg&quot; alt=&quot;party supplies!&quot; /&gt;
+  &lt;img src=&quot;/static/pictures/slsa12/tweed.jpg&quot; alt=&quot;tweed jacket!&quot; /&gt;
+  &lt;img src=&quot;/static/pictures/slsa12/book.jpg&quot; alt=&quot;an old book!&quot; /&gt;
+  &lt;img src=&quot;/static/pictures/slsa12/whiskey.jpg&quot; alt=&quot;whiskey!&quot; /&gt;
+  &lt;img src=&quot;/static/pictures/slsa12/gay-bill.jpg&quot; alt=&quot;Bill is mad gay. / I'm Gay Bill, &amp; I approve this message.&quot; /&gt;
+  &lt;figcaption&gt;
+    (1) Two trips to FedEx &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; two shitty staplers, but we have handouts.
+    (2) Party supplies &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; a cute boy behind the counter at Walgreen&amp;#8217;s.
+    (3) Goodwill has tweed &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; an old book for me,
+        and three gilded soccer trophies for Micah.
+    (4) A bread knife helps make this old western more anonymous.
+    (5) Just enough to whiskey for a 10-minute piece.
+    (6) &amp;#8220;Mad &lt;span class=&quot;caps&quot;&gt;GAY&lt;/span&gt;&amp;#8221; graffiti conversation above the urinal (unrelated).
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;We had to sneak into the conference,
+because neither of us had registered,
+carried our gear upstairs to
+Frontier Airlines Center 201C,
+I performed for ten minutes,
+and flew out again the next&amp;nbsp;day.&lt;/p&gt;
+&lt;p&gt;The other performances included
+Jeremy Douglass,
+Katherine Hayles,
+Patrick Jagoda,
+Patrick LeMieux,
+Clarissa Lee,
+Amy Letter,
+&lt;span class=&quot;caps&quot;&gt;M.D.&lt;/span&gt; Coverley,
+Mark Marino,
+Nick Montfort,
+and Stuart Moulthrop.
+A great&amp;nbsp;group!&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;sunday&quot;&gt;
+&lt;h2&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;Frontier Airlines flight&amp;nbsp;577.&lt;/p&gt;
+&lt;p&gt;There is &lt;a class=&quot;reference external&quot; href=&quot;http://youtu.be/FnHsQRUQ1x8?t=1h11m11s&quot;&gt;video&lt;/a&gt; of the performance,
+thanks to the wonderful &lt;a class=&quot;reference external&quot; href=&quot;http://markcmarino.com/&quot;&gt;Mark Marino&lt;/a&gt;.
+You can&amp;#8217;t see things very well,
+but you can &lt;a class=&quot;reference external&quot; href=&quot;http://www.post-obsolete.com/&quot;&gt;follow along on the website&lt;/a&gt;
+and put all the pieces together.
+It will be just like you were there
+with handout in&amp;nbsp;hand!&lt;/p&gt;
+&lt;/section&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Electronic Literature and the Nonhuman</title>
+    <id>http://www.miriamsuzanne.com/2012/09/27/slsa2012</id>
+    <updated>2012-09-27T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2012/09/27/slsa2012" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;I&amp;#8217;ll be in &lt;a class=&quot;reference external&quot; href=&quot;http://goo.gl/maps/MZW3g&quot;&gt;Milwaukee&lt;/a&gt; this weekend
+for a brief appearance at
+&lt;a class=&quot;reference external&quot; href=&quot;http://www.litsciarts.org/slsa12/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SLSA&lt;/span&gt; 2012&lt;/a&gt;.
+The &lt;a class=&quot;reference external&quot; href=&quot;http://eliterature.org/electronic-literature-the-nonhuman/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ELO&lt;/span&gt;&lt;/a&gt; is hosting a jurried elit event,
+and accepted my &lt;a class=&quot;reference external&quot; href=&quot;http://www.post-obsolete.com&quot;&gt;submission&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+We found the piece to be fun and entertaining,
+but it also contains an argument that is worth considering
+(and not just from a technical perspective).
+The idea of objective forms dying and becoming immortal
+is an interesting way to think about obsolete forms.
+Against the backdrop of the death of the book,
+the question of how to write seems as alive and well as it ever has.
+This piece highlights that in a clever way.&lt;/blockquote&gt;
+&lt;p&gt;Thank you, &lt;span class=&quot;caps&quot;&gt;ELO&lt;/span&gt;/&lt;span class=&quot;caps&quot;&gt;SLSA&lt;/span&gt;&amp;nbsp;jury.&lt;/p&gt;
+&lt;section id=&quot;the-obsolete-book-in-a-post-obsolete-world&quot;&gt;
+&lt;h2&gt;The Obsolete Book in a Post-Obsolete&amp;nbsp;World&lt;/h2&gt;
+&lt;p&gt;My text is &lt;a class=&quot;reference external&quot; href=&quot;http://www.post-obsolete.com&quot;&gt;available online&lt;/a&gt;,
+but the performance includes text-to-speech voice-over,
+&lt;a class=&quot;reference external&quot; href=&quot;http://michelleellsworth.com/&quot;&gt;Michelle Ellsworth&lt;/a&gt; dancing,
+transparencies,
+party hats,
+diagrams,
+whiskey,
+powerpoint handouts,
+music by &lt;a class=&quot;reference external&quot; href=&quot;http://www.myspace.com/widowsbane&quot;&gt;The Widow&amp;#8217;s Bane&lt;/a&gt;,
+one human,
+and one post-obsolete&amp;nbsp;book.&lt;/p&gt;
+&lt;p&gt;Mortimer Leech of Widow&amp;#8217;s Bane
+was gracious about my&amp;nbsp;theft:&lt;/p&gt;
+&lt;blockquote&gt;
+Follow your bliss, Mia.
+Take no prisoners.
+We&amp;#8217;re already dead.
+What the fuck do we want with money?&lt;/blockquote&gt;
+&lt;p&gt;Thank you Mr.&amp;nbsp;Leech.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;electronic-literature-the-nonhuman&quot;&gt;
+&lt;h2&gt;Electronic Literature &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; the&amp;nbsp;Nonhuman&lt;/h2&gt;
+&lt;p&gt;Saturday, September 29th, 5-7pm |
+201C of the Frontier Airlines Center |
+Society for Literature, Science, and the Arts 2012&amp;nbsp;Conference&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ll be performing along with &lt;a class=&quot;reference external&quot; href=&quot;http://markcmarino.com&quot;&gt;Mark Marino&lt;/a&gt;
+(who is a fantastic human)
+and many others I can&amp;#8217;t wait to meet.
+Maybe they&amp;#8217;re humans too! Who can&amp;nbsp;say?&lt;/p&gt;
+&lt;/section&gt;
+</content>
+  </entry>
+</feed>
+
