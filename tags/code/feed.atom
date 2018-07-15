@@ -17,6 +17,184 @@
     </author>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Versioning Show [Episode 8]</title>
+    <id>http://www.miriamsuzanne.com/2016/10/13/versioning</id>
+    <updated>2016-10-13T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2016/10/13/versioning" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;I joined &lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/author/tevko/&quot;&gt;Tim Evko&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/author/mdavidgreen/&quot;&gt;M. David Green&lt;/a&gt;
+for the new &lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/&quot;&gt;SitePoint&lt;/a&gt; podcast —
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/versioning-show-episode-8-miriam-suzanne/&quot;&gt;The Versioning Show&lt;/a&gt;
+to talk about Sass,
+web toolkits,
+finding your voice,
+and writing what you&amp;nbsp;learn.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/282805438&amp;amp;color=ff5500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/tag/versioning-show-episodes/&quot;&gt;other great episodes&lt;/a&gt;,
+with people like &lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/versioning-show-episode-6-with-jen-simmons/&quot;&gt;Jen Simmons&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/versioning-show-episode-4-with-chris-coyier/&quot;&gt;Chris Coyier&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">SitePoint: Live Q&amp;A on Toolkits</title>
+    <id>http://www.miriamsuzanne.com/2016/08/18/sitepoint-qa</id>
+    <updated>2016-08-18T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2016/08/18/sitepoint-qa" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;I did a &lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/community/t/live-q-a-miriam-suzanne-on-susy-and-the-need-for-toolkits-on-18th-aug-2pm-pst/232664&quot;&gt;live Q&amp;amp;A at SitePoint&lt;/a&gt;
+talking&amp;nbsp;about:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Customizing Susy for your&amp;nbsp;projects&lt;/li&gt;
+&lt;li&gt;Other ways to do layouts (and why you might not even need a&amp;nbsp;toolkit)&lt;/li&gt;
+&lt;li&gt;How to select a toolkit, or build your very&amp;nbsp;own!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+To be clear:
+now that we have border-box sizing,
+grid math can be much simpler.
+Complex math is only required
+if you are using margin-based gutters.
+Move your gutters into padding,
+and the math is simple.
+That&amp;#8217;s why I don&amp;#8217;t use Susy
+(or any grid system)
+much any more.
+&lt;cite&gt;percentage(1/5)&lt;/cite&gt; works great in Sass -
+and flexbox takes care of the&amp;nbsp;rest.
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;You can read
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/how-to-choose-the-right-css-toolkits-and-frameworks/&quot;&gt;a summary of the conversation&lt;/a&gt;
+as well —
+but it leaves out some good bits.&amp;nbsp;;)&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">SitePoint: Jump Start Sass</title>
+    <id>http://www.miriamsuzanne.com/2016/05/30/jssass</id>
+    <updated>2016-05-30T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2016/05/30/jssass" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;I&amp;#8217;m excited to release
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/premium/books/jump-start-sass&quot;&gt;Jump Start Sass&lt;/a&gt;,
+a book I co-authored with &lt;a class=&quot;reference external&quot; href=&quot;http://hugogiraudel.com/&quot;&gt;Hugo Giraudel&lt;/a&gt;.
+Digital coppies are available from &lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/&quot;&gt;SitePoint&lt;/a&gt;,
+wih print edditions sold by &lt;a class=&quot;reference external&quot; href=&quot;http://shop.oreilly.com/product/9780994182678.do&quot;&gt;O&amp;#8217;Reilly&lt;/a&gt;.
+Here&amp;#8217;s an excerpt from Chapter 11,
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.sitepoint.com/architecture-in-sass/&quot;&gt;Sass&amp;nbsp;Architecture&lt;/a&gt;.&lt;/p&gt;
+&lt;section id=&quot;components-and-organization&quot;&gt;
+&lt;h2&gt;Components and&amp;nbsp;Organization&lt;/h2&gt;
+&lt;p&gt;Most &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; and Sass organization systems
+are based on some concept of user interface “components”
+or discrete pieces that can be put together
+to form a complete project.
+Components can be any size or shape,
+but they should focus on doing one task independently,
+and in a reusable way.
+A button, a drop-down, a calendar, and a search form
+are all examples of components
+that can be reused at different places across a project.
+Thinking about your project as a collection of components
+will help you towards having an organized and maintainable architecture,
+whether you’re using Sass or plain&amp;nbsp;&lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Because of the way &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; works,
+the order of your code will also affect its meaning:
+later code has priority in the cascade over the code before it.
+Some of the popular branded architectures
+(the ones you know by name)
+try to eliminate this feature of the cascade entirely,
+but I use it as a guide —
+organizing code from the most general to the most specific —
+so the priority override makes sense.
+Code that we want applied generally across the site should come first,
+growing slowly in specificity and detail
+as we move towards more unique components and special&amp;nbsp;cases.&lt;/p&gt;
+&lt;p&gt;I first learned of this approach from &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/Natbat&quot;&gt;Natalie Downe&lt;/a&gt;’s
+wonderful &lt;a class=&quot;reference external&quot; href=&quot;http://www.slideshare.net/nataliedowne/css-systems-presentation&quot;&gt;&lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; Systems&lt;/a&gt; talk in 2008
+before I’d ever used Sass.
+Her architecture at the time started with
+elements (h2, ol, ul, and so on) grouped by “type”,
+followed by classes grouped by the “effect” created,
+and finally IDs grouped by the “component” they affect.
+These days it’s common practice to avoid IDs altogether,
+and break elements into smaller pieces,
+but the concept remains the same:
+global defaults first,
+followed by site-wide patterns and broad layouts,
+and finally, more specific modules, themes, and&amp;nbsp;overrides.&lt;/p&gt;
+&lt;p&gt;Sass projects include another category of site-wide defaults
+not found in &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;:
+code with no output at all —
+such as variables, functions, and mixin definitions.
+Many people
+(myself included)
+break that code into its own set of partials,
+to be imported anywhere it might be useful.
+I have a complete folder
+just for site-wide Sass helpers and configuration
+that don’t result in output.
+Those files act as a single, definitive, and reusable configuration
+that defines the boundaries of a project.
+By ensuring your configuration is output-free,
+you can import it anywhere
+without worrying about duplicated or unwanted&amp;nbsp;styles.&lt;/p&gt;
+&lt;p&gt;Here are some guidelines for thinking about&amp;nbsp;architecture:&lt;/p&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
+&lt;li&gt;Break your code into the smallest logical component&amp;nbsp;partials.&lt;/li&gt;
+&lt;li&gt;Organize your partials into grouped folders based on&amp;nbsp;specificity.&lt;/li&gt;
+&lt;li&gt;Import those partials into one master file in order of&amp;nbsp;specificity.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;However, many variations do exist
+on the specific ways people implement those&amp;nbsp;ideas.&lt;/p&gt;
+&lt;p&gt;You may also find that a lot of the branded systems
+developed by and for massive companies with large-scale needs
+don’t always translate to smaller teams and products.
+Every project has different requirements,
+so you should never assume that the best solution
+for InstaFace or MyPinBook
+is going to be the best solution for&amp;nbsp;you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sitepoint.com/architecture-in-sass/&quot; class=&quot;btn&quot;&gt;
+  Read the full chapter on&amp;nbsp;SitePoint
+&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">2013</title>
+    <id>http://www.miriamsuzanne.com/2014/02/18/2013</id>
+    <updated>2014-02-18T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2014/02/18/2013" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;2013 was&amp;nbsp;nuts.&lt;/p&gt;
+&lt;p&gt;I presented (for the first time) at conferences
+on both art &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; technology,
+thanks to invitations from
+the &lt;a class=&quot;reference external&quot; href=&quot;http://mediaarchaeologylab.com/past-artist-in-residence/miriam-suzanne-2/&quot;&gt;Media Archelology Lab&lt;/a&gt;,
+&lt;a class=&quot;reference external&quot; href=&quot;http://brakhagecenter.com/?cat=32&quot;&gt;The Brakhage Center&lt;/a&gt;,
+and &lt;a class=&quot;reference external&quot; href=&quot;http://sassconf.com/&quot;&gt;SassConf&lt;/a&gt;.
+I re-wrote &lt;a class=&quot;reference external&quot; href=&quot;http://susy.oddbird.net/&quot;&gt;Susy&lt;/a&gt; from the ground up,
+with help &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; inspiration from people like
+&lt;a class=&quot;reference external&quot; href=&quot;http://twitter.com/shlidor&quot;&gt;Tsachi Schlidor&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;http://twitter.com/mragray&quot;&gt;Aaron Gray&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;http://twitter.com/scottkellum&quot;&gt;Scott Kellum&lt;/a&gt;, and &lt;a class=&quot;reference external&quot; href=&quot;http://twitter.com/snugug&quot;&gt;Sam Richards&lt;/a&gt;.
+I met and had the opportunity to work with some of my internet heros,
+like &lt;a class=&quot;reference external&quot; href=&quot;http://twitter.com/jina&quot;&gt;Jina Bolton&lt;/a&gt; &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; &lt;a class=&quot;reference external&quot; href=&quot;http://twitter.com/rachelnabors&quot;&gt;Rachel Nabors&lt;/a&gt;.
+I co-founded (with Aaron) a &lt;a class=&quot;reference external&quot; href=&quot;http://www.meetup.com/Sass-Hack-Denver/&quot;&gt;Sass Meetup&lt;/a&gt; in Denver,
+and we&amp;#8217;ve been overwhelmed by the great response and new friends.
+&lt;a class=&quot;reference external&quot; href=&quot;http://www.springgunpress.com/&quot;&gt;SpringGun Press&lt;/a&gt; picked up one of my novels
+(which will be out by this time next year),
+and I&amp;#8217;m talking with a publisher about
+the future of &lt;a class=&quot;reference external&quot; href=&quot;http://greengreenmud.com/&quot;&gt;Into The Green Green&amp;nbsp;Mud&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;2014 looks like more of the same.
+Bring it&amp;nbsp;on.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">Susy 1.0 Release</title>
     <id>http://www.miriamsuzanne.com/2012/08/14/susy-1-0</id>
     <updated>2012-08-14T00:00:00Z</updated>
