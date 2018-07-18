@@ -2,11 +2,315 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://www.miriamsuzanne.com/feed.atom</id>
-  <updated>2017-09-09T00:00:00Z</updated>
+  <updated>2018-07-17T00:00:00Z</updated>
   <link href="http://www.miriamsuzanne.com/" />
   <link href="http://www.miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Mia's Medical Upgrade</title>
+    <id>http://www.miriamsuzanne.com/2018/07/17/surgery</id>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/07/17/surgery" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">
+  
+
+  &lt;div class=&quot;pullquote&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;abbr title=&quot;too long; didn't read&quot;&gt;tl;dr&lt;/abbr&gt;&lt;/strong&gt;:
+I&amp;#8217;ll be having surgery on September 10,
+at Denver Health.
+If you want to learn more about that,
+read on.
+If you want to help or show support,
+you can find details &lt;a class=&quot;reference external&quot; href=&quot;#how-can-i-help&quot;&gt;at the end of this page&lt;/a&gt;,
+or on &lt;a class=&quot;reference external&quot; href=&quot;https://www.gofundme.com/manage/mias-medical-upgrade&quot;&gt;gofundme.com&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;section id=&quot;grandma-i-was-wrong&quot;&gt;
+&lt;h2&gt;Grandma, I was&amp;nbsp;wrong&lt;/h2&gt;
+&lt;p&gt;Three years ago,
+I came out to my extended family
+at a reunion in Michigan.
+It was the first time I had called myself trans
+in front of other people.
+I still don’t know what that&amp;nbsp;means.&lt;/p&gt;
+&lt;p&gt;Grandma asks how often I wear dresses.
+&lt;em&gt;It depends on the weather&lt;/em&gt;.
+She seems happy with&amp;nbsp;that.&lt;/p&gt;
+&lt;p&gt;&amp;#8212;What pronouns should we use? &lt;br /&gt;
+&amp;#8212;&lt;em&gt;She… or they.&lt;/em&gt; &lt;br /&gt;
+&amp;#8212;I don’t like they. Are you going to have surgery? &lt;br /&gt;
+&amp;#8212;&lt;em&gt;I don’t… think so?&lt;/em&gt; &lt;br /&gt;
+&amp;#8212;Will you still date women? &lt;br /&gt;
+&amp;#8212;&lt;em&gt;Will they still date&amp;nbsp;me?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In October of that year,
+I changed my name publicly.
+In January,
+I swallowed my first &lt;em&gt;hormone replacement&lt;/em&gt; pills &amp;#8212;
+a mix of Spironolactone
+(an androgen-blocker)
+and Estradiol
+(an estrogen).
+This September,
+I will stop taking the androgen-blockers,
+after undergoing the first surgery of my life:
+a procedure officially called vaginoplasty,
+but more colloquially referred to as &lt;em&gt;bottom&amp;nbsp;surgery&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Grandma, I was&amp;nbsp;wrong.&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;section id=&quot;the-surgery-disclaimer&quot;&gt;
+&lt;h2&gt;&amp;quot;The Surgery&amp;quot;&amp;nbsp;Disclaimer&lt;/h2&gt;
+&lt;p&gt;When we come out as trans,
+the most common reaction
+(after losing friends and family)
+is to ask about &lt;em&gt;the&amp;nbsp;surgery&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;When we ask to change the gender-markers
+on government-issued documents,
+many states ask for proof of &lt;em&gt;the&amp;nbsp;surgery&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;When we say &lt;em&gt;transition&lt;/em&gt;
+people only hear &lt;em&gt;genitals&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Historical terms like &lt;em&gt;Sex Reassignment Surgery&lt;/em&gt; (&lt;span class=&quot;caps&quot;&gt;SRS&lt;/span&gt;)
+or &lt;em&gt;Gender Reassignment Surgery&lt;/em&gt; (&lt;span class=&quot;caps&quot;&gt;GRS&lt;/span&gt;)
+also imply a centrality and finality to this one procedure &amp;#8212;
+as though we aren&amp;#8217;t &lt;em&gt;real&lt;/em&gt; men or women
+before we&amp;#8217;ve undergone genital&amp;nbsp;reconstruction.&lt;/p&gt;
+&lt;p&gt;In reality,
+there are many aspects to transition &amp;#8212;
+social, legal, and medical &amp;#8212;
+with every person choosing their own path.
+There is no right way to be trans,
+just as there is no right way to be a&amp;nbsp;woman.&lt;/p&gt;
+&lt;p&gt;Bottom surgery is only one in a long list of interventions
+that can help reduce gender dysphoria,
+and improve our quality of life.
+It may be right and necessary for some of us,
+but it does not define our genders or transitions.
+It is not the primary intervention,
+nor the most common,
+nor the final &amp;#8212;
+but in a society that places the full weight of gender
+on our genitals,
+this one procedure tends to
+grab the communal (often salacious)&amp;nbsp;attention.&lt;/p&gt;
+&lt;p&gt;There is no &amp;quot;the surgery&amp;quot; for all trans people.
+I&amp;#8217;m already a complete and real woman &amp;#8212;
+I only hope to become more comfortable in my own body,
+to trade in some of my gender dysphorias
+for a chance at something&amp;nbsp;better.&lt;/p&gt;
+&lt;p&gt;Our stories don&amp;#8217;t have to be defined only by pain &amp;#8212;
+we can also strive for &lt;em&gt;comfort&lt;/em&gt; and &lt;em&gt;pleasure&lt;/em&gt;
+and a &lt;em&gt;joy&lt;/em&gt; in our own&amp;nbsp;bodies.&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;section id=&quot;change-of-plans&quot;&gt;
+&lt;h2&gt;Change of&amp;nbsp;Plans&lt;/h2&gt;
+&lt;p&gt;Trans people are often called on to explain ourselves,
+and defend our medical interventions
+to a cis public that finds us fascinating or disgusting.
+We are expected to beg for validity at every step &amp;#8212;
+a mindset that leads directly
+to the current &lt;a class=&quot;reference external&quot; href=&quot;https://www.theatlantic.com/family/archive/2018/07/desistance/564560/&quot;&gt;moral panic around trans&amp;nbsp;children&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;(I don&amp;#8217;t love linking The Atlantic here,
+since they stoke the flames from all sides &amp;#8212;
+but it&amp;#8217;s a good article on the&amp;nbsp;topic.)&lt;/p&gt;
+&lt;p&gt;I don&amp;#8217;t want to play that game,
+but I am happy to share some of my experience
+in case it can help other trans people
+in similar&amp;nbsp;situations.&lt;/p&gt;
+&lt;p&gt;I spent years dissociating from my body &amp;#8212;
+entirely unaware of the pain or identity
+driving that distance.
+Looking back, it&amp;#8217;s easy to read all the signs,
+but at the time no one in my life
+(especially me) knew what to look for.
+One of my &lt;a class=&quot;reference external&quot; href=&quot;https://www.carinamagyar.com/&quot;&gt;favorite comedians&lt;/a&gt; expresses this best,
+with her roommate metaphor
+near the end of this wonderful&amp;nbsp;set:&lt;/p&gt;
+
+  
+    
+
+    &lt;figure data-gallery=&quot;image&quot;&gt;
+      
+
+      
+        
+  
+  
+  
+
+  
+    &lt;div class=&quot;video&quot; data-size=&quot;full&quot;&gt;
+      &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tGn6kZJaznI?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+  
+
+      
+    &lt;/figure&gt;
+  
+&lt;p&gt;Over the course of my transition,
+I&amp;#8217;ve begun to heal that relationship with my body &amp;#8212;
+but the progress is not linear or clean.
+Every step forward reveals a new layer
+of repressed trauma in my body,
+along with a euphoria of new&amp;nbsp;discovery.&lt;/p&gt;
+&lt;p&gt;In the spring of 2017
+I began to consider bottom surgery more seriously.
+I did research on &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/watch?v=d90SaWlODlQ&quot;&gt;how it works&lt;/a&gt;
+(&lt;span class=&quot;caps&quot;&gt;CW&lt;/span&gt;: this video is graphic,
+and uses outdated &amp;quot;MtF&amp;quot; language),
+and learned about the development
+of genital tissue.
+I began to see my body in new ways,
+and found that it was much easier to own and understand
+my physical form.
+I talked to friends,
+and learned what to expect.
+Finally, I researched &lt;a class=&quot;reference external&quot; href=&quot;http://www.transhealthcare.org/vaginoplasty/&quot;&gt;available surgeons&lt;/a&gt;,
+and sent an application to Dr. Marci Bowers &amp;#8212;
+one of the leading experts in the&amp;nbsp;field.&lt;/p&gt;
+&lt;p&gt;The next week,
+I get a phone call from her&amp;nbsp;office:&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Are you available on June 9, 2020? &lt;br /&gt;
+&amp;#8212;&lt;em&gt;Uh…&amp;nbsp;Sure?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I call&amp;nbsp;mom:&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Some people will struggle with this. &lt;br /&gt;
+&amp;#8212;&lt;em&gt;What are they resisting?&lt;/em&gt; &lt;br /&gt;
+&amp;#8212;It’s like they feel about tattoos, permanent changes to your body. &lt;br /&gt;
+&amp;#8212;&lt;em&gt;Like having your ovary removed?&lt;/em&gt; &lt;br /&gt;
+&amp;#8212;Maybe it’s harder when it’s on the outside. &lt;br /&gt;
+&amp;#8212;&lt;em&gt;Great! Tell them I’m moving it to the&amp;nbsp;inside!&lt;/em&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;section id=&quot;the-wait&quot;&gt;
+&lt;h2&gt;The&amp;nbsp;Wait&lt;/h2&gt;
+&lt;p&gt;With limited surgeons and increased interest,
+waitlists have been growing quickly.
+We&amp;#8217;ve come to expect a 2-5 year wait,
+and out-of-network (out-of-pocket) treatment,
+far from home.
+Many people wait on multiple lists,
+and hope to get moved up after a cancelation.
+But recently,
+there&amp;#8217;s been a push for more doctors
+to become&amp;nbsp;certified.&lt;/p&gt;
+&lt;p&gt;This is a wonderful development,
+but what we gain in access and affordability,
+we lose in detailed knowledge about our surgeons
+and their credentials.
+This used to be a specialty procedure,
+performed by the well-known expert of your choice
+(if you can afford it).
+As it becomes more common
+and covered by insurance,
+most of us simply have to go where we&amp;#8217;re told.
+Meanwhile, there are no national standards for certification,
+and each hospital is making it up as they&amp;nbsp;go.&lt;/p&gt;
+&lt;p&gt;While I was looking into insurance options,
+I discovered that Denver Health
+was working with Dr Bowers to train local surgeons,
+and a Denver Health plan would be guaranteed to cover
+this new Denver Health surgery.
+I switched my insurance at the end of the year,
+applied for the new &lt;span class=&quot;caps&quot;&gt;DH&lt;/span&gt; waiting list,
+and immediately began preparation.
+With an unknown timeline,
+I wanted to be&amp;nbsp;ready.&lt;/p&gt;
+&lt;p&gt;In the meantime I&amp;#8217;ve done my research on Dr Chris Carey,
+my new surgeon.
+Previous patients of Dr Carey have recommended him,
+and he seems to have the training to to back up his new&amp;nbsp;credentials.&lt;/p&gt;
+&lt;p&gt;I get a call in early&amp;nbsp;July:&lt;/p&gt;
+&lt;p&gt;&amp;#8212; Can you be ready in August? &lt;br /&gt;
+&amp;#8212; &lt;em&gt;No, I&amp;#8217;ll be traveling.&lt;/em&gt; &lt;br /&gt;
+&amp;#8212; Have you completed hair removal? &lt;br /&gt;
+&amp;#8212; &lt;em&gt;Mostly.&lt;/em&gt; &lt;br /&gt;
+&amp;#8212; Get it&amp;nbsp;done.&lt;/p&gt;
+&lt;p&gt;They call again this&amp;nbsp;week:&lt;/p&gt;
+&lt;p&gt;&amp;#8212; When do you get home? &lt;br /&gt;
+&amp;#8212; &lt;em&gt;September 9.&lt;/em&gt; &lt;br /&gt;
+&amp;#8212; Can we schedule you on September&amp;nbsp;10?&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;section id=&quot;how-can-i-help&quot;&gt;
+&lt;h2&gt;&amp;quot;How Can I&amp;nbsp;Help?&amp;quot;&lt;/h2&gt;
+&lt;p&gt;As I&amp;#8217;ve started to share the news,
+many people have asked how they can&amp;nbsp;help.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ll be in the hospital for 3-4 days.
+After that,
+recovery is slow and difficult &amp;#8212;
+with 4-6 weeks of limited movement
+before I&amp;#8217;m back to my routine,
+and back to work.
+The bills and the boredom are likely to pile up,
+and you can help with&amp;nbsp;both:&lt;/p&gt;
+&lt;section id=&quot;social&quot;&gt;
+&lt;h3&gt;1.&amp;nbsp;Social&lt;/h3&gt;
+&lt;p&gt;I have three amazing women
+who will be my primary caretakers
+during recovery &amp;#8212;
+Erin, Rachel, and my mom &amp;#8212;
+but it would be great to have visitors,
+or help with meals along the way.
+This is hard to plan in advance,
+since we&amp;#8217;re not entirely sure
+when I&amp;#8217;ll have time or energy.
+If you want to drop by the hospital
+(Sept 10-13),
+or my house (the rest of Sept, into Oct),
+get in touch with one of&amp;nbsp;them.&lt;/p&gt;
+&lt;p&gt;If you need contact information,
+let us&amp;nbsp;know.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;financial&quot;&gt;
+&lt;h3&gt;2.&amp;nbsp;Financial&lt;/h3&gt;
+&lt;p&gt;With my insurance,
+I expect to pay roughly $1300 in preparation
+(surgery-site hair removal),
+and another $7150 for the surgery
+(my out-of-pocket maximum).
+I will also lose 6 weeks wages,
+while trying to cover all my normal bills.
+All told, I&amp;#8217;m looking at $10k-12k
+in surgery-related&amp;nbsp;expenses.&lt;/p&gt;
+&lt;p&gt;That&amp;#8217;s a debt I&amp;#8217;m willing to take on,
+but it&amp;#8217;s not money that I have.
+If you want to help financially,
+either through &lt;a class=&quot;reference external&quot; href=&quot;http://art.miriamsuzanne.com/&quot;&gt;purchasing art&lt;/a&gt;,
+or with a &lt;a class=&quot;reference external&quot; href=&quot;https://www.gofundme.com/manage/mias-medical-upgrade&quot;&gt;direct gift&lt;/a&gt;,
+any amount will help make a&amp;nbsp;difference.&lt;/p&gt;
+&lt;p&gt;&lt;iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='mias-medical-upgrade'&gt;&lt;/iframe&gt;&lt;script src='//funds.gofundme.com/js/5.0/media-widget.js'&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;support-others&quot;&gt;
+&lt;h3&gt;3. Support&amp;nbsp;Others&lt;/h3&gt;
+&lt;p&gt;Thank you for all the support
+that you&amp;#8217;ve shown me through my transition.
+I feel very lucky to have friends and family
+that have stood by me,
+and asked how to be&amp;nbsp;helpful.&lt;/p&gt;
+&lt;p&gt;Many of my friends are less fortunate.
+Here are a few places you can volunteer or donate
+to help trans people more&amp;nbsp;broadly:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.facebook.com/donate/285481692031069/288652908380614/&quot;&gt;Gender Identity Center of&amp;nbsp;Colorado&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.thetrevorproject.org/&quot;&gt;The Trevor&amp;nbsp;Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://transgenderlawcenter.org/&quot;&gt;Transgender Law&amp;nbsp;Center&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;p&gt;Thank you again for all your love and support
+over the last few years &amp;#8212;
+it means the world to&amp;nbsp;me.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Much love,&lt;/em&gt; &lt;br /&gt;
+❤️&amp;nbsp;Mia&lt;/p&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+</content>
+  </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">Sex, Love, &amp; Romance</title>
     <id>http://www.miriamsuzanne.com/2017/09/09/love</id>
@@ -1262,386 +1566,6 @@ Keep dreaming,
 and get real.
 Keep crying, keep laughing, keep&amp;nbsp;fighting.&lt;/p&gt;
 &lt;p&gt;Take care of each&amp;nbsp;other.&lt;/p&gt;
-&lt;/section&gt;
-</content>
-  </entry>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">Some Clarifications on Trans Language</title>
-    <id>http://www.miriamsuzanne.com/2016/12/24/clarifications</id>
-    <updated>2016-12-24T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2016/12/24/clarifications" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;(See also &lt;a class=&quot;reference external&quot; href=&quot;http://juliaserano.com/&quot;&gt;Julia Serano&lt;/a&gt;’s wonderful
-&lt;a class=&quot;reference external&quot; href=&quot;http://juliaserano.com/terminology.html&quot;&gt;Transgender Glossary&lt;/a&gt;
-if you are interested in more.
-I link to it&amp;nbsp;throughout.)&lt;/p&gt;
-&lt;section id=&quot;gender-identity&quot;&gt;
-&lt;h2&gt;Gender&amp;nbsp;&amp;quot;Identity&amp;quot;&lt;/h2&gt;
-&lt;p&gt;Identity comes up regularly in trans politics,
-but refers to two very &lt;code&gt;different concepts&lt;/code&gt; —
-often interchangeably,
-and without&amp;nbsp;distinction.&lt;/p&gt;
-&lt;ol class=&quot;arabic&quot;&gt;
-&lt;li&gt;&lt;p&gt;Our &lt;label for=&quot;erasure&quot;&gt;conscious acts&lt;/label&gt; of identifying
-with a gender or sexuality —
-male, female, non-binary, fluid,
-straight, bi, gay,
-cis, trans, &lt;code&gt;non-conforming,&lt;/code&gt;
-or otherwise.
-We all have &lt;code&gt;multiple conscious identities,&lt;/code&gt;
-that interact and change over&amp;nbsp;time.&lt;/p&gt;
-&lt;p&gt;Those identities are curated,
-public,
-and often fluid.
-I&amp;#8217;m still learning to identify
-as a woman,
-trans,
-and lesbian —
-even while the realities are more complex,
-queer, and fluctuating.
-I also identify as an author,
-a web developer,
-bi/pansexual,
-genderqueer,
-and polyamorous.
-&lt;code&gt;None of this is unique to the trans experience.&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Our vague and &lt;code&gt;often-elusive&lt;/code&gt;
-sense of innate gender —
-something most people seem to have,
-but trans people spend more time dealing with.
-&lt;a class=&quot;reference external&quot; href=&quot;http://juliaserano.com/terminology.html#subconscioussex&quot;&gt;Subconscious sex&lt;/a&gt; is really a better term
-for understanding trans identities.
-This is not a conscious or curated self-labeling,
-but more like the sensation of being
-angry &lt;code&gt;because you are hungry&lt;/code&gt; —
-a feeling that can be &lt;code&gt;difficult to pin down&lt;/code&gt;.
-For some it is simply &lt;em&gt;male&lt;/em&gt; or &lt;em&gt;female&lt;/em&gt;,
-and becomes obvious early on —
-but for most of us it is more complex,
-and takes years to dig through &lt;code&gt;the rubble
-of&lt;/code&gt; assumptions, fears, and prejudices
-around &lt;code&gt;our bodies&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Cis people also have subconscious gender identities,
-though it&amp;#8217;s more easy to assume
-that your sex is completely &lt;a class=&quot;reference external&quot; href=&quot;http://juliaserano.com/terminology.html#genderartifactualism&quot;&gt;constructed&lt;/a&gt;
-or &lt;a class=&quot;reference external&quot; href=&quot;http://juliaserano.com/terminology.html#genderdeterminism&quot;&gt;flows seamlessly&lt;/a&gt; from your genitalia
-when it has never been &lt;code&gt;called into question&lt;/code&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-&lt;section id=&quot;biological-sex&quot;&gt;
-&lt;h2&gt;&amp;quot;Biological&amp;quot;&amp;nbsp;Sex&lt;/h2&gt;
-&lt;p&gt;Many people distinguish &amp;quot;gender identity&amp;quot;
-(&lt;em&gt;between the ears&lt;/em&gt;)
-from &amp;quot;biological sex&amp;quot;
-(&lt;em&gt;between the legs&lt;/em&gt;) —
-as though one is natural and static,
-while the other is invented or fluid.
-That&amp;#8217;s a vast oversimplification of the science,
-and &lt;code&gt;a dangerous&lt;/code&gt; false dichotomy.
-Our identities don&amp;#8217;t exist outside of &lt;code&gt;biology&lt;/code&gt;,
-and sex &lt;code&gt;is&lt;/code&gt; not &lt;code&gt;fixed&lt;/code&gt; concept
-outside our identities.
-These two ideas are&amp;nbsp;inseparable.&lt;/p&gt;
-&lt;p&gt;When a doctor assigns our gender &lt;code&gt;at birth&lt;/code&gt;,
-they base the assignment &lt;code&gt;on our genitalia alone.&lt;/code&gt;
-For the many people born with &amp;quot;ambiguous&amp;quot; genitalia,
-it&amp;#8217;s common practice for doctors to perform surgery —
-assigning their &amp;quot;biological sex&amp;quot; by force.
-There were never two discrete categories to begin&amp;nbsp;with.&lt;/p&gt;
-&lt;p&gt;When we try to &lt;code&gt;talk about sex&lt;/code&gt;
-as a reproductive distinction,
-we&amp;#8217;re really talking about internal gonads
-producing eggs or sperm:
-testis and ovary.
-Reproductive gonads often align with genitals,
-but not always,
-and not in any simple binary.
-Some people are infertile,
-some past menopause,
-or vasectomies,
-or other common reproductive changes —
-making it clear that gonads
-don&amp;#8217;t directly correlate with
-what we call &amp;quot;biological&amp;quot; &lt;code&gt;sex&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;When we&amp;#8217;re in public
-no one knows what genitals or gonads
-exist &lt;em&gt;between our legs&lt;/em&gt;,
-but they feel comfortable assigning our &lt;code&gt;sex&lt;/code&gt; anyway —
-based on the assumptions &lt;em&gt;between their own ears&lt;/em&gt;.
-Social gendering relies mainly
-on &amp;quot;secondary &lt;code&gt;sex&lt;/code&gt; characteristics&amp;quot;
-(especially masculine-associated facial hair etc)
-and gender presentation.
-Our lived &lt;code&gt;sex&lt;/code&gt; —
-the way we are perceived and treated by others —
-has nothing to do &lt;code&gt;with genitals&lt;/code&gt; or&amp;nbsp;gonads.&lt;/p&gt;
-&lt;p&gt;Organizations like the &lt;a class=&quot;reference external&quot; href=&quot;http://www.nytimes.com/2016/07/03/magazine/the-humiliating-practice-of-sex-testing-female-athletes.html&quot;&gt;International Olympic Committee&lt;/a&gt;
-have gone further,
-attempting to find a definable &amp;quot;biological sex&amp;quot;
-in &lt;a class=&quot;reference external&quot; href=&quot;http://www.vox.com/2014/6/3/5776396/why-theyre-not-really-sex-chromosomes&quot;&gt;chromosomes&lt;/a&gt; and hormone levels.
-The results are the same wherever you look:
-our biology &lt;code&gt;is a complicated&lt;/code&gt; mix of
-genetic inclinations
-that interact with our &lt;code&gt;experiences&lt;/code&gt;
-in complex ways over&amp;nbsp;time.&lt;/p&gt;
-&lt;p&gt;Biology is fluid,
-identity is biological,
-and the male/female binary is &lt;code&gt;more social than scientific.&lt;/code&gt;&lt;/p&gt;
-&lt;/section&gt;
-&lt;section id=&quot;transition&quot;&gt;
-&lt;h2&gt;&amp;quot;Transition&amp;quot;&lt;/h2&gt;
-&lt;p&gt;Some trans people &lt;code&gt;decide to change&lt;/code&gt;
-how we present to the world.
-We transition our public personas,
-hoping to bring our social lives and/or bodies
-more in line with our subconscious&amp;nbsp;sex.&lt;/p&gt;
-&lt;p&gt;That means different things for different people,
-but &amp;quot;transition&amp;quot; is not a surgery,
-transgender is not a medical term,
-not &lt;code&gt;all trans people&lt;/code&gt; transition,
-and we&amp;#8217;re not all simply men or women
-&lt;em&gt;in the wrong body&lt;/em&gt;
-moving from one binary to another.
-Transition is a million little things,
-&lt;code&gt;for a million different&lt;/code&gt; reasons.&lt;/p&gt;
-&lt;p&gt;Some of us change our pronouns, or our names —
-either informally,
-or through legal channels.
-Some take hormones and/or hormone-blockers,
-a few get &amp;quot;top&amp;quot; &lt;code&gt;surgeries&lt;/code&gt;
-to augment or remove breast tissue,
-&lt;code&gt;and even fewer&lt;/code&gt; opt for genital surgery,
-tracheal shaves,
-and cosmetic&amp;nbsp;interventions.&lt;/p&gt;
-&lt;p&gt;&amp;quot;After&amp;quot; transition
-(which has no real start or finish)
-we &lt;code&gt;are the same&lt;/code&gt; person that we were before.
-With or without surgery,
-our genders are just as real.
-Transition does not complete us
-or make us &amp;quot;real&amp;quot; men and women.
-My body was already female, because I was.
-How and when and why we transition
-is more personal and complex
-than simple &lt;code&gt;assimilation&lt;/code&gt; into cis&amp;nbsp;society.&lt;/p&gt;
-&lt;p&gt;In October 2015,
-I decided to start a more intentional transition —
-first socially, and then medically.
-I don&amp;#8217;t believe in a &amp;quot;true&amp;quot; self
-that was hidden before,
-or in &lt;code&gt;vague concepts of authenticity&lt;/code&gt;,
-or finally becoming whole.
-I wasn&amp;#8217;t born male,
-I was never a woman &lt;code&gt;trapped in a man's&lt;/code&gt; body,
-I&amp;#8217;m not finally complete,
-I was never broken,
-and I will never be&amp;nbsp;fixed.&lt;/p&gt;
-&lt;p&gt;People regularly assume that my transition
-has or will soon involve &lt;code&gt;genital surgery&lt;/code&gt;.
-Maybe. Maybe not.
-But transition was never about my genitals.
-Women are not vaginas,
-and men are not penises.
-I won&amp;#8217;t finally be a woman if I have surgery,
-or let a man &lt;code&gt;penetrate me.&lt;/code&gt;
-I&amp;#8217;m not a new or different person,
-and there really was no chasm to cross over.
-My gender and orientation have not changed —
-only my social presentation
-and hormone&amp;nbsp;levels.&lt;/p&gt;
-&lt;p&gt;I am not finally a woman,
-but you are finally aware of my&amp;nbsp;womanhood.&lt;/p&gt;
-&lt;/section&gt;
-&lt;section id=&quot;passing&quot;&gt;
-&lt;h2&gt;&amp;quot;Passing&amp;quot;&lt;/h2&gt;
-&lt;p&gt;Now that &lt;code&gt;strangers&lt;/code&gt; correctly identify me as a woman,
-people say that I am &amp;quot;passing&amp;quot; as a woman.
-They&amp;#8217;re&amp;nbsp;wrong.&lt;/p&gt;
-&lt;p&gt;The language of passing is borrowed from racial politics
-(people of color passing as white)
-and later gay/lesbian politics
-(femme lesbians &lt;code&gt;or butch gays&lt;/code&gt; passing as straight),
-where &amp;quot;passing&amp;quot; means your marginalized identity is not&amp;nbsp;seen.&lt;/p&gt;
-&lt;p&gt;Passing is a complicated privilege —
-making it possible for marginalized people
-to avoid harassment and violence,
-at the cost of rejecting or hiding our marginal&amp;nbsp;identities.&lt;/p&gt;
-&lt;p&gt;It&amp;#8217;s also complicated because passing
-is &lt;em&gt;done to us&lt;/em&gt;.
-&lt;code&gt;In a single moment,&lt;/code&gt;
-different people will come to different conclusions about me,
-leaving me in a state of Schroedinger&amp;#8217;s gender.
-My &amp;quot;passing&amp;quot; is based on
-other people&amp;#8217;s assumptions about my&amp;nbsp;history.&lt;/p&gt;
-&lt;p&gt;But passing language is particularly strange for trans people,
-who are said to be &amp;quot;passing&amp;quot; when we are identified &lt;em&gt;correctly&lt;/em&gt;,
-in our appropriate genders.
-This plays into the popular notion that
-our gender is a costume we put on,
-and &amp;quot;passing&amp;quot; &lt;code&gt;is the entire point of transition —&lt;/code&gt;
-the only way to be trans.
-People regularly try to help out
-by giving us unsolicited advice
-on our looks, voices, or movements —
-assuming that&amp;#8217;s what we mean by &lt;em&gt;transition&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;There&amp;#8217;s a &lt;code&gt;history&lt;/code&gt; to that idea,
-&lt;a class=&quot;reference external&quot; href=&quot;http://www.pqmonthly.com/gatekeeping-the-dark-history-of-trans-health-care/22368&quot;&gt;enforced by the medical community&lt;/a&gt; since the 60&amp;#8217;s
-when hormone replacement therapy
-started to become a medically-accepted treatment.
-Doctors established themselves as gender gatekeepers,
-determining who could transition medically —
-in part by &lt;code&gt;enforcing strict&lt;/code&gt; binary stereotypes.
-Until recently,
-medical transition was only available
-if doctors thought you could &amp;quot;pass&amp;quot; well,
-and you promised to live &lt;code&gt;straight and stealth&lt;/code&gt;
-after transition.
-The goal of &amp;quot;passing&amp;quot; was forced on us,
-and made &lt;code&gt;trans communities&lt;/code&gt; invisible.&lt;/p&gt;
-&lt;p&gt;It might be more accurate to say
-that I &amp;quot;pass&amp;quot; as cis-gender at times,
-or that I previously learned
-to &amp;quot;pass&amp;quot; (&lt;code&gt;well enough&lt;/code&gt;) as man.
-Trans people face a real and constant threat of violence,
-so blending in as cis can save our lives.
-It&amp;#8217;s hard to constantly have your gender
-&lt;code&gt;called into question,&lt;/code&gt;
-or made the center of conversation.
-Still, &amp;quot;passing&amp;quot;
-is not a goal we otherwise&amp;nbsp;share.&lt;/p&gt;
-&lt;/section&gt;
-&lt;section id=&quot;trans-visibility&quot;&gt;
-&lt;h2&gt;Trans&amp;nbsp;&amp;quot;Visibility&amp;quot;&lt;/h2&gt;
-&lt;p&gt;In the last few years,
-everyone is talking about trans visibility.
-Chaz Bono danced with the stars,
-suddenly &lt;code&gt;Lavern Cox&lt;/code&gt; is everywhere,
-Caitlin Jenner made transition
-a reality &lt;span class=&quot;caps&quot;&gt;TV&lt;/span&gt; experience,
-and now &lt;em&gt;you&amp;#8217;re reading my&amp;nbsp;blog&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;New media comes out every year
-highlighting trans characters —
-but most of them are written, directed, and acted
-by straight white men,
-reinforcing stereotypes more than &lt;code&gt;reality&lt;/code&gt;.
-When a new show or movie comes out,
-we&amp;#8217;re often more scared than&amp;nbsp;excited.&lt;/p&gt;
-&lt;p&gt;These stories tend to focus on
-&amp;quot;men who think they are women&amp;quot;
-and love doing their makeup more than anything else.
-After transition they are either
-&lt;code&gt;beautiful&lt;/code&gt; straight women who get the boy
-(making them finally &amp;quot;real&amp;quot; women),
-or pathetic creatures
-who &lt;em&gt;need more help passing&lt;/em&gt;
-to be &amp;quot;successfully&amp;quot;&amp;nbsp;trans.&lt;/p&gt;
-&lt;p&gt;Even the &lt;code&gt;true stories&lt;/code&gt;
-are limited to rich and beautiful women
-who fit easily into our existing binary categories:
-men and women,
-&lt;em&gt;just like you&lt;/em&gt;.
-Those stories are important,
-but they aren&amp;#8217;t the whole picture.
-That&amp;#8217;s not &lt;a class=&quot;reference external&quot; href=&quot;http://www.mtv.com/news/1962946/gender-non-conforming-identity-trans/&quot;&gt;how we all do&amp;nbsp;trans&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Where are the &lt;a class=&quot;reference external&quot; href=&quot;http://www.huffingtonpost.com/entry/kate-bornstein-queer-icon-reflects-on-queer-and-trans-identity-in-2015_us_561823aae4b0e66ad4c7ff37&quot;&gt;gender outlaws&lt;/a&gt;,
-the fluid identities,
-&lt;code&gt;the femme boys and butch women&lt;/code&gt;
-who have always faced the brunt of harassment?
-Where are the trans people who are complex and confused,
-or happy to mix up our &lt;a class=&quot;reference external&quot; href=&quot;https://www.washingtonpost.com/news/speaking-of-science/wp/2015/12/01/brains-arent-actually-male-or-female-new-study-suggests/?utm_term=.2fbd4f6b565c&quot;&gt;notions of gender&lt;/a&gt;?
-When we &lt;code&gt;argue for&lt;/code&gt; bathroom rights
-based only on &lt;code&gt;our ability&lt;/code&gt; to conform,
-we&amp;#8217;re throwing &lt;code&gt;our own community&lt;/code&gt; under the&amp;nbsp;bus.&lt;/p&gt;
-&lt;p&gt;This narrow visibility
-has been a mixed bag for the trans community.
-More of us are coming out,
-and we&amp;#8217;re doing it more publicly.
-For a minority that&amp;#8217;s been
-forced into &amp;quot;stealth&amp;quot; invisibility,
-it&amp;#8217;s wonderful to see (some of) us
-moving into the light.
-There&amp;#8217;s power in&amp;nbsp;numbers.&lt;/p&gt;
-&lt;p&gt;But the &lt;a class=&quot;reference external&quot; href=&quot;https://www.theguardian.com/commentisfree/2016/apr/21/transgender-rights-backlash-anti-lgbt-legislation&quot;&gt;backlash has been swift and deadly&lt;/a&gt; —
-moving &lt;code&gt;faster than&lt;/code&gt; our cultural gains.
-Trans women
-(and especially women of color)
-were already being killed at unprecedented rates —
-and those numbers are higher than ever.
-We&amp;#8217;ve been using bathrooms
-since the invention of the toilet,
-but suddenly states
-are passing laws to mandate our bowel movements,
-or protect housing and job discrimination
-(a more basic concern for many trans people)
-as &lt;code&gt;religious freedoms.&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;I was much more visibly &lt;code&gt;queer&lt;/code&gt; a year ago.
-In some ways my transition has made me safer,
-by making me one more white woman on the street.
-All my femme interests or traits that used to make me &lt;code&gt;queer&lt;/code&gt;
-now make me invisible.
-It&amp;#8217;s easy for me to disappear into
-this over-simplified binary trans identity
-that doesn&amp;#8217;t really reflect my experience.
-I want to be a proud gender-bending &lt;code&gt;dyke&lt;/code&gt;,
-but that&amp;#8217;s often used as &lt;code&gt;proof&lt;/code&gt; that I&amp;#8217;m
-&lt;em&gt;really a man&lt;/em&gt;,
-not &lt;a class=&quot;reference external&quot; href=&quot;http://www.huffingtonpost.com/mia-violet/yes-youre-trans-enough-to_b_9318754.html&quot;&gt;trans enough&lt;/a&gt;,
-or in need of &lt;code&gt;gender-assimilating&lt;/code&gt; guidance.&lt;/p&gt;
-&lt;p&gt;Just because some of us are in the &lt;code&gt;spotlight&lt;/code&gt;
-doesn&amp;#8217;t mean we&amp;#8217;re all being&amp;nbsp;seen.&lt;/p&gt;
-&lt;/section&gt;
-&lt;section id=&quot;just-like-not-you&quot;&gt;
-&lt;h2&gt;Just Like (Not)&amp;nbsp;You&lt;/h2&gt;
-&lt;p&gt;Across the board,
-marginalized groups face a complex problem
-often referred to as
-&lt;em&gt;respectability politics&lt;/em&gt;.
-The quickest way into the mainstream
-is conformity —
-but what are the costs,
-and who is left behind?
-Many rights-movements have devolved into
-&amp;quot;just like you&amp;quot; or &amp;quot;&lt;a class=&quot;reference external&quot; href=&quot;https://www.newscientist.com/article/mg22730310-100-sexuality-is-fluid-its-time-to-get-past-born-this-way/&quot;&gt;born this way&lt;/a&gt;&amp;quot; rhetoric,
-allowing those of us who &amp;quot;pass&amp;quot; in the mainstream
-to go about our lives
-as long as we&amp;#8217;re willing to blend&amp;nbsp;in.&lt;/p&gt;
-&lt;p&gt;For a few of us,
-that&amp;#8217;s great —
-or &lt;code&gt;at least good enough&lt;/code&gt; —
-but it&amp;#8217;s not the whole story,
-and it&amp;#8217;s not the end of our movement.
-I don&amp;#8217;t want to get married,
-and use gendered toilets
-like any &amp;quot;normal&amp;quot; cis straight person —
-I actually want these &lt;code&gt;systems to break down,&lt;/code&gt;
-and conform better &lt;em&gt;to us&lt;/em&gt;.
-No matter how well my looks or identity
-fit the popular trans mythology,
-I want to &lt;code&gt;fight for something&lt;/code&gt; more fluid and open,
-that helps the whole world be more &lt;code&gt;queer.&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;I am a &lt;code&gt;woman,&lt;/code&gt;
-and I am not just like all cis &lt;code&gt;women.&lt;/code&gt;
-I will continue to fight both sides of that argument,
-until all my friends
-have the &lt;code&gt;right to live all our identities&lt;/code&gt;
-in the ways we see fit:
-monogamous or polyamorous;
-straight or bi, pan or gay;
-sex workers, &lt;code&gt;sluts,&lt;/code&gt; and prudes;
-trans-binary, &lt;code&gt;gender-fluid, butch and femme;&lt;/code&gt;
-black, brown, immigrant, Muslim, and interracial;
-asexual, intersex, &lt;code&gt;closeted, and queer.&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;We can&amp;#8217;t keep accepting identities
-one-at-a-time,
-based on their ability to assimilate
-with established (straight white cis) norms.
-We have to &lt;code&gt;rebuild these systems&lt;/code&gt;
-with new,
-more fluid and queer&amp;nbsp;assumptions.&lt;/p&gt;
 &lt;/section&gt;
 </content>
   </entry>

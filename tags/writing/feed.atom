@@ -2,11 +2,315 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://www.miriamsuzanne.com/feed.atom</id>
-  <updated>2017-09-09T00:00:00Z</updated>
+  <updated>2018-07-17T00:00:00Z</updated>
   <link href="http://www.miriamsuzanne.com/" />
   <link href="http://www.miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Mia's Medical Upgrade</title>
+    <id>http://www.miriamsuzanne.com/2018/07/17/surgery</id>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/07/17/surgery" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">
+  
+
+  &lt;div class=&quot;pullquote&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;abbr title=&quot;too long; didn't read&quot;&gt;tl;dr&lt;/abbr&gt;&lt;/strong&gt;:
+I&amp;#8217;ll be having surgery on September 10,
+at Denver Health.
+If you want to learn more about that,
+read on.
+If you want to help or show support,
+you can find details &lt;a class=&quot;reference external&quot; href=&quot;#how-can-i-help&quot;&gt;at the end of this page&lt;/a&gt;,
+or on &lt;a class=&quot;reference external&quot; href=&quot;https://www.gofundme.com/manage/mias-medical-upgrade&quot;&gt;gofundme.com&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;section id=&quot;grandma-i-was-wrong&quot;&gt;
+&lt;h2&gt;Grandma, I was&amp;nbsp;wrong&lt;/h2&gt;
+&lt;p&gt;Three years ago,
+I came out to my extended family
+at a reunion in Michigan.
+It was the first time I had called myself trans
+in front of other people.
+I still don’t know what that&amp;nbsp;means.&lt;/p&gt;
+&lt;p&gt;Grandma asks how often I wear dresses.
+&lt;em&gt;It depends on the weather&lt;/em&gt;.
+She seems happy with&amp;nbsp;that.&lt;/p&gt;
+&lt;p&gt;&amp;#8212;What pronouns should we use? &lt;br /&gt;
+&amp;#8212;&lt;em&gt;She… or they.&lt;/em&gt; &lt;br /&gt;
+&amp;#8212;I don’t like they. Are you going to have surgery? &lt;br /&gt;
+&amp;#8212;&lt;em&gt;I don’t… think so?&lt;/em&gt; &lt;br /&gt;
+&amp;#8212;Will you still date women? &lt;br /&gt;
+&amp;#8212;&lt;em&gt;Will they still date&amp;nbsp;me?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In October of that year,
+I changed my name publicly.
+In January,
+I swallowed my first &lt;em&gt;hormone replacement&lt;/em&gt; pills &amp;#8212;
+a mix of Spironolactone
+(an androgen-blocker)
+and Estradiol
+(an estrogen).
+This September,
+I will stop taking the androgen-blockers,
+after undergoing the first surgery of my life:
+a procedure officially called vaginoplasty,
+but more colloquially referred to as &lt;em&gt;bottom&amp;nbsp;surgery&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Grandma, I was&amp;nbsp;wrong.&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;section id=&quot;the-surgery-disclaimer&quot;&gt;
+&lt;h2&gt;&amp;quot;The Surgery&amp;quot;&amp;nbsp;Disclaimer&lt;/h2&gt;
+&lt;p&gt;When we come out as trans,
+the most common reaction
+(after losing friends and family)
+is to ask about &lt;em&gt;the&amp;nbsp;surgery&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;When we ask to change the gender-markers
+on government-issued documents,
+many states ask for proof of &lt;em&gt;the&amp;nbsp;surgery&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;When we say &lt;em&gt;transition&lt;/em&gt;
+people only hear &lt;em&gt;genitals&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Historical terms like &lt;em&gt;Sex Reassignment Surgery&lt;/em&gt; (&lt;span class=&quot;caps&quot;&gt;SRS&lt;/span&gt;)
+or &lt;em&gt;Gender Reassignment Surgery&lt;/em&gt; (&lt;span class=&quot;caps&quot;&gt;GRS&lt;/span&gt;)
+also imply a centrality and finality to this one procedure &amp;#8212;
+as though we aren&amp;#8217;t &lt;em&gt;real&lt;/em&gt; men or women
+before we&amp;#8217;ve undergone genital&amp;nbsp;reconstruction.&lt;/p&gt;
+&lt;p&gt;In reality,
+there are many aspects to transition &amp;#8212;
+social, legal, and medical &amp;#8212;
+with every person choosing their own path.
+There is no right way to be trans,
+just as there is no right way to be a&amp;nbsp;woman.&lt;/p&gt;
+&lt;p&gt;Bottom surgery is only one in a long list of interventions
+that can help reduce gender dysphoria,
+and improve our quality of life.
+It may be right and necessary for some of us,
+but it does not define our genders or transitions.
+It is not the primary intervention,
+nor the most common,
+nor the final &amp;#8212;
+but in a society that places the full weight of gender
+on our genitals,
+this one procedure tends to
+grab the communal (often salacious)&amp;nbsp;attention.&lt;/p&gt;
+&lt;p&gt;There is no &amp;quot;the surgery&amp;quot; for all trans people.
+I&amp;#8217;m already a complete and real woman &amp;#8212;
+I only hope to become more comfortable in my own body,
+to trade in some of my gender dysphorias
+for a chance at something&amp;nbsp;better.&lt;/p&gt;
+&lt;p&gt;Our stories don&amp;#8217;t have to be defined only by pain &amp;#8212;
+we can also strive for &lt;em&gt;comfort&lt;/em&gt; and &lt;em&gt;pleasure&lt;/em&gt;
+and a &lt;em&gt;joy&lt;/em&gt; in our own&amp;nbsp;bodies.&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;section id=&quot;change-of-plans&quot;&gt;
+&lt;h2&gt;Change of&amp;nbsp;Plans&lt;/h2&gt;
+&lt;p&gt;Trans people are often called on to explain ourselves,
+and defend our medical interventions
+to a cis public that finds us fascinating or disgusting.
+We are expected to beg for validity at every step &amp;#8212;
+a mindset that leads directly
+to the current &lt;a class=&quot;reference external&quot; href=&quot;https://www.theatlantic.com/family/archive/2018/07/desistance/564560/&quot;&gt;moral panic around trans&amp;nbsp;children&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;(I don&amp;#8217;t love linking The Atlantic here,
+since they stoke the flames from all sides &amp;#8212;
+but it&amp;#8217;s a good article on the&amp;nbsp;topic.)&lt;/p&gt;
+&lt;p&gt;I don&amp;#8217;t want to play that game,
+but I am happy to share some of my experience
+in case it can help other trans people
+in similar&amp;nbsp;situations.&lt;/p&gt;
+&lt;p&gt;I spent years dissociating from my body &amp;#8212;
+entirely unaware of the pain or identity
+driving that distance.
+Looking back, it&amp;#8217;s easy to read all the signs,
+but at the time no one in my life
+(especially me) knew what to look for.
+One of my &lt;a class=&quot;reference external&quot; href=&quot;https://www.carinamagyar.com/&quot;&gt;favorite comedians&lt;/a&gt; expresses this best,
+with her roommate metaphor
+near the end of this wonderful&amp;nbsp;set:&lt;/p&gt;
+
+  
+    
+
+    &lt;figure data-gallery=&quot;image&quot;&gt;
+      
+
+      
+        
+  
+  
+  
+
+  
+    &lt;div class=&quot;video&quot; data-size=&quot;full&quot;&gt;
+      &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tGn6kZJaznI?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+  
+
+      
+    &lt;/figure&gt;
+  
+&lt;p&gt;Over the course of my transition,
+I&amp;#8217;ve begun to heal that relationship with my body &amp;#8212;
+but the progress is not linear or clean.
+Every step forward reveals a new layer
+of repressed trauma in my body,
+along with a euphoria of new&amp;nbsp;discovery.&lt;/p&gt;
+&lt;p&gt;In the spring of 2017
+I began to consider bottom surgery more seriously.
+I did research on &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/watch?v=d90SaWlODlQ&quot;&gt;how it works&lt;/a&gt;
+(&lt;span class=&quot;caps&quot;&gt;CW&lt;/span&gt;: this video is graphic,
+and uses outdated &amp;quot;MtF&amp;quot; language),
+and learned about the development
+of genital tissue.
+I began to see my body in new ways,
+and found that it was much easier to own and understand
+my physical form.
+I talked to friends,
+and learned what to expect.
+Finally, I researched &lt;a class=&quot;reference external&quot; href=&quot;http://www.transhealthcare.org/vaginoplasty/&quot;&gt;available surgeons&lt;/a&gt;,
+and sent an application to Dr. Marci Bowers &amp;#8212;
+one of the leading experts in the&amp;nbsp;field.&lt;/p&gt;
+&lt;p&gt;The next week,
+I get a phone call from her&amp;nbsp;office:&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Are you available on June 9, 2020? &lt;br /&gt;
+&amp;#8212;&lt;em&gt;Uh…&amp;nbsp;Sure?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I call&amp;nbsp;mom:&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Some people will struggle with this. &lt;br /&gt;
+&amp;#8212;&lt;em&gt;What are they resisting?&lt;/em&gt; &lt;br /&gt;
+&amp;#8212;It’s like they feel about tattoos, permanent changes to your body. &lt;br /&gt;
+&amp;#8212;&lt;em&gt;Like having your ovary removed?&lt;/em&gt; &lt;br /&gt;
+&amp;#8212;Maybe it’s harder when it’s on the outside. &lt;br /&gt;
+&amp;#8212;&lt;em&gt;Great! Tell them I’m moving it to the&amp;nbsp;inside!&lt;/em&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;section id=&quot;the-wait&quot;&gt;
+&lt;h2&gt;The&amp;nbsp;Wait&lt;/h2&gt;
+&lt;p&gt;With limited surgeons and increased interest,
+waitlists have been growing quickly.
+We&amp;#8217;ve come to expect a 2-5 year wait,
+and out-of-network (out-of-pocket) treatment,
+far from home.
+Many people wait on multiple lists,
+and hope to get moved up after a cancelation.
+But recently,
+there&amp;#8217;s been a push for more doctors
+to become&amp;nbsp;certified.&lt;/p&gt;
+&lt;p&gt;This is a wonderful development,
+but what we gain in access and affordability,
+we lose in detailed knowledge about our surgeons
+and their credentials.
+This used to be a specialty procedure,
+performed by the well-known expert of your choice
+(if you can afford it).
+As it becomes more common
+and covered by insurance,
+most of us simply have to go where we&amp;#8217;re told.
+Meanwhile, there are no national standards for certification,
+and each hospital is making it up as they&amp;nbsp;go.&lt;/p&gt;
+&lt;p&gt;While I was looking into insurance options,
+I discovered that Denver Health
+was working with Dr Bowers to train local surgeons,
+and a Denver Health plan would be guaranteed to cover
+this new Denver Health surgery.
+I switched my insurance at the end of the year,
+applied for the new &lt;span class=&quot;caps&quot;&gt;DH&lt;/span&gt; waiting list,
+and immediately began preparation.
+With an unknown timeline,
+I wanted to be&amp;nbsp;ready.&lt;/p&gt;
+&lt;p&gt;In the meantime I&amp;#8217;ve done my research on Dr Chris Carey,
+my new surgeon.
+Previous patients of Dr Carey have recommended him,
+and he seems to have the training to to back up his new&amp;nbsp;credentials.&lt;/p&gt;
+&lt;p&gt;I get a call in early&amp;nbsp;July:&lt;/p&gt;
+&lt;p&gt;&amp;#8212; Can you be ready in August? &lt;br /&gt;
+&amp;#8212; &lt;em&gt;No, I&amp;#8217;ll be traveling.&lt;/em&gt; &lt;br /&gt;
+&amp;#8212; Have you completed hair removal? &lt;br /&gt;
+&amp;#8212; &lt;em&gt;Mostly.&lt;/em&gt; &lt;br /&gt;
+&amp;#8212; Get it&amp;nbsp;done.&lt;/p&gt;
+&lt;p&gt;They call again this&amp;nbsp;week:&lt;/p&gt;
+&lt;p&gt;&amp;#8212; When do you get home? &lt;br /&gt;
+&amp;#8212; &lt;em&gt;September 9.&lt;/em&gt; &lt;br /&gt;
+&amp;#8212; Can we schedule you on September&amp;nbsp;10?&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;section id=&quot;how-can-i-help&quot;&gt;
+&lt;h2&gt;&amp;quot;How Can I&amp;nbsp;Help?&amp;quot;&lt;/h2&gt;
+&lt;p&gt;As I&amp;#8217;ve started to share the news,
+many people have asked how they can&amp;nbsp;help.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ll be in the hospital for 3-4 days.
+After that,
+recovery is slow and difficult &amp;#8212;
+with 4-6 weeks of limited movement
+before I&amp;#8217;m back to my routine,
+and back to work.
+The bills and the boredom are likely to pile up,
+and you can help with&amp;nbsp;both:&lt;/p&gt;
+&lt;section id=&quot;social&quot;&gt;
+&lt;h3&gt;1.&amp;nbsp;Social&lt;/h3&gt;
+&lt;p&gt;I have three amazing women
+who will be my primary caretakers
+during recovery &amp;#8212;
+Erin, Rachel, and my mom &amp;#8212;
+but it would be great to have visitors,
+or help with meals along the way.
+This is hard to plan in advance,
+since we&amp;#8217;re not entirely sure
+when I&amp;#8217;ll have time or energy.
+If you want to drop by the hospital
+(Sept 10-13),
+or my house (the rest of Sept, into Oct),
+get in touch with one of&amp;nbsp;them.&lt;/p&gt;
+&lt;p&gt;If you need contact information,
+let us&amp;nbsp;know.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;financial&quot;&gt;
+&lt;h3&gt;2.&amp;nbsp;Financial&lt;/h3&gt;
+&lt;p&gt;With my insurance,
+I expect to pay roughly $1300 in preparation
+(surgery-site hair removal),
+and another $7150 for the surgery
+(my out-of-pocket maximum).
+I will also lose 6 weeks wages,
+while trying to cover all my normal bills.
+All told, I&amp;#8217;m looking at $10k-12k
+in surgery-related&amp;nbsp;expenses.&lt;/p&gt;
+&lt;p&gt;That&amp;#8217;s a debt I&amp;#8217;m willing to take on,
+but it&amp;#8217;s not money that I have.
+If you want to help financially,
+either through &lt;a class=&quot;reference external&quot; href=&quot;http://art.miriamsuzanne.com/&quot;&gt;purchasing art&lt;/a&gt;,
+or with a &lt;a class=&quot;reference external&quot; href=&quot;https://www.gofundme.com/manage/mias-medical-upgrade&quot;&gt;direct gift&lt;/a&gt;,
+any amount will help make a&amp;nbsp;difference.&lt;/p&gt;
+&lt;p&gt;&lt;iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='mias-medical-upgrade'&gt;&lt;/iframe&gt;&lt;script src='//funds.gofundme.com/js/5.0/media-widget.js'&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id=&quot;support-others&quot;&gt;
+&lt;h3&gt;3. Support&amp;nbsp;Others&lt;/h3&gt;
+&lt;p&gt;Thank you for all the support
+that you&amp;#8217;ve shown me through my transition.
+I feel very lucky to have friends and family
+that have stood by me,
+and asked how to be&amp;nbsp;helpful.&lt;/p&gt;
+&lt;p&gt;Many of my friends are less fortunate.
+Here are a few places you can volunteer or donate
+to help trans people more&amp;nbsp;broadly:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.facebook.com/donate/285481692031069/288652908380614/&quot;&gt;Gender Identity Center of&amp;nbsp;Colorado&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.thetrevorproject.org/&quot;&gt;The Trevor&amp;nbsp;Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://transgenderlawcenter.org/&quot;&gt;Transgender Law&amp;nbsp;Center&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;p&gt;Thank you again for all your love and support
+over the last few years &amp;#8212;
+it means the world to&amp;nbsp;me.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Much love,&lt;/em&gt; &lt;br /&gt;
+❤️&amp;nbsp;Mia&lt;/p&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+</content>
+  </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">Sex, Love, &amp; Romance</title>
     <id>http://www.miriamsuzanne.com/2017/09/09/love</id>
@@ -1644,73 +1948,6 @@ while giving the characters free reign over&amp;nbsp;their&amp;nbsp;identities.&
   &lt;a href=&quot;http://www.denvercenter.org/blog-posts/news-center/2016/12/18/2016-true-west-award-miriam-suzanne&quot; data-btn &gt;
     Read the full&amp;nbsp;article&amp;nbsp;»
   &lt;/a&gt;
-</content>
-  </entry>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">Some Kind of Resistance Tour, 2017</title>
-    <id>http://www.miriamsuzanne.com/2016/12/09/resistence-tour</id>
-    <updated>2016-12-09T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2016/12/09/resistence-tour" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;On tour, I&amp;#8217;ll&amp;nbsp;be:&lt;/p&gt;
-&lt;ul class=&quot;simple&quot;&gt;
-&lt;li&gt;reading from my queer-as-fuck novel &lt;a class=&quot;reference external&quot; href=&quot;/writing/ridingsidesaddle//&quot;&gt;Riding SideSaddle*&lt;/a&gt;,
-while being a loud and vocal trans&amp;nbsp;woman.&lt;/li&gt;
-&lt;li&gt;speaking about empathy
-in art and code and&amp;nbsp;software.&lt;/li&gt;
-&lt;li&gt;chatting about queer identities,
-hate, politics, and&amp;nbsp;intersectionality.&lt;/li&gt;
-&lt;li&gt;hugging&amp;nbsp;people.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I&amp;#8217;m not changing the world here,
-&lt;a class=&quot;reference external&quot; href=&quot;/2017/01/01/2017/&quot;&gt;there&amp;#8217;s more to do&lt;/a&gt;,
-but it feels like a nice way to get started,
-find my energy,
-and find my&amp;nbsp;people.&lt;/p&gt;
-&lt;section id=&quot;the-schedule-so-far&quot;&gt;
-&lt;h2&gt;The schedule so&amp;nbsp;far&amp;#8230;&lt;/h2&gt;
-&lt;ul class=&quot;simple&quot;&gt;
-&lt;li&gt;&lt;strong&gt;1/12&lt;/strong&gt; in &lt;strong&gt;New York, &lt;span class=&quot;caps&quot;&gt;NY&lt;/span&gt;&lt;/strong&gt; (talk) &lt;br /&gt;
-&amp;quot;Code Patterns for Pattern Making&amp;quot; at &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/gothamsass/events/235946893/&quot;&gt;Gotham Sass&lt;/a&gt; &lt;br /&gt;
-7pm &amp;#64; 127 West 26th Street, 2nd floor&amp;nbsp;(Signpost)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1/13&lt;/strong&gt; in &lt;strong&gt;Brooklyn, &lt;span class=&quot;caps&quot;&gt;NY&lt;/span&gt;&lt;/strong&gt; (reading) &lt;br /&gt;
-&lt;a class=&quot;reference external&quot; href=&quot;https://www.facebook.com/events/306828783046470/&quot;&gt;The Operating System&lt;/a&gt; &lt;br /&gt;
-7:30pm &amp;#64; 141 Spencer St&amp;nbsp;#203&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1/15&lt;/strong&gt; in &lt;strong&gt;Washington, &lt;span class=&quot;caps&quot;&gt;DC&lt;/span&gt;&lt;/strong&gt; (reading) &lt;br /&gt;
-&lt;a class=&quot;reference external&quot; href=&quot;https://www.facebook.com/events/641655696042941/&quot;&gt;in your ear&lt;/a&gt; with &lt;a class=&quot;reference external&quot; href=&quot;https://flowersintheirmouths.com/&quot;&gt;Valerie Hsiung&lt;/a&gt; &lt;br /&gt;
-3pm &amp;#64; &lt;a class=&quot;reference external&quot; href=&quot;http://www.dcartscenter.org&quot;&gt;&lt;span class=&quot;caps&quot;&gt;DC&lt;/span&gt; Arts&amp;nbsp;Center&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1/16&lt;/strong&gt; in &lt;strong&gt;Philadelphia, &lt;span class=&quot;caps&quot;&gt;PA&lt;/span&gt;&lt;/strong&gt; (reading) &lt;br /&gt;
-&lt;a class=&quot;reference external&quot; href=&quot;http://woodenshoebooks.com/home.html&quot;&gt;Wooden Shoe Books&lt;/a&gt; details &lt;span class=&quot;caps&quot;&gt;TBA&lt;/span&gt; &lt;br /&gt;
-7pm &amp;#64; 704 South&amp;nbsp;Street&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1/17&lt;/strong&gt; in &lt;strong&gt;Baltimore, &lt;span class=&quot;caps&quot;&gt;MD&lt;/span&gt;&lt;/strong&gt; (hangin&amp;#8217;) &lt;br /&gt;
-Hit me up,&amp;nbsp;yeah?&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1/18&lt;/strong&gt; in &lt;strong&gt;Silver Spring, &lt;span class=&quot;caps&quot;&gt;MD&lt;/span&gt;&lt;/strong&gt; (reading) &lt;br /&gt;
-At a house,&amp;nbsp;somewhere.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1/19&lt;/strong&gt; in &lt;strong&gt;Fredrick, &lt;span class=&quot;caps&quot;&gt;MD&lt;/span&gt;&lt;/strong&gt; (reading) &lt;br /&gt;
-Small Rain #2 with Aaron Angello &lt;br /&gt;
-7pm &amp;#64; 415 Biggs Avenue, First&amp;nbsp;Floor&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1/20&lt;/strong&gt; in &lt;strong&gt;Washington, &lt;span class=&quot;caps&quot;&gt;DC&lt;/span&gt;&lt;/strong&gt; (avoidance) &lt;br /&gt;
-Don&amp;#8217;t get out of bed. Don&amp;#8217;t turn on a&amp;nbsp;&lt;span class=&quot;caps&quot;&gt;TV&lt;/span&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1/21&lt;/strong&gt; in &lt;strong&gt;Washington, &lt;span class=&quot;caps&quot;&gt;DC&lt;/span&gt;&lt;/strong&gt; (protest) &lt;br /&gt;
-&lt;a class=&quot;reference external&quot; href=&quot;https://www.womensmarch.com/&quot;&gt;Protest&lt;/a&gt; against &lt;a class=&quot;reference external&quot; href=&quot;/2017/01/01/2017/&quot;&gt;bigotry in&amp;nbsp;government&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1/23&lt;/strong&gt; in &lt;strong&gt;Charlottesville, &lt;span class=&quot;caps&quot;&gt;VA&lt;/span&gt;&lt;/strong&gt; (talk) &lt;br /&gt;
-&amp;quot;A Practical Guide to Losing Control&amp;quot; at &lt;a class=&quot;reference external&quot; href=&quot;http://scholarslab.org/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;UVA&lt;/span&gt; Scholars&amp;#8217; Lab&lt;/a&gt; &lt;br /&gt;
-Details&amp;nbsp;&lt;span class=&quot;caps&quot;&gt;TBA&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1/23&lt;/strong&gt; in &lt;strong&gt;Charlottesville, &lt;span class=&quot;caps&quot;&gt;VA&lt;/span&gt;&lt;/strong&gt; (reading) &lt;br /&gt;
-&lt;a class=&quot;reference external&quot; href=&quot;http://opengrounds.virginia.edu/&quot;&gt;Open Grounds&lt;/a&gt; &lt;br /&gt;
-Details&amp;nbsp;&lt;span class=&quot;caps&quot;&gt;TBA&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1G8gfEcW3AmckOB5eelZnG2k5ZLE&quot; height=&quot;480&quot; style=&quot;width: 100%;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;Any profits will go to
-&lt;a class=&quot;reference external&quot; href=&quot;http://togetherlist.com/&quot;&gt;one of these rad organizations&lt;/a&gt;
-committed to empowering
-women, people of color, immigrants, queers, Muslims, and disabled people —
-or fighting climate change.
-If you have a specific organization to recommend,
-&lt;a class=&quot;reference external&quot; href=&quot;/contact/&quot;&gt;I&amp;#8217;m all&amp;nbsp;ears&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
 </content>
   </entry>
 </feed>
