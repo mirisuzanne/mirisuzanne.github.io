@@ -2,11 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://www.miriamsuzanne.com/feed.atom</id>
-  <updated>2018-07-17T00:00:00Z</updated>
+  <updated>2018-07-19T00:00:00Z</updated>
   <link href="http://www.miriamsuzanne.com/" />
   <link href="http://www.miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Chosen Family (Thank You)</title>
+    <id>http://www.miriamsuzanne.com/2018/07/19/family</id>
+    <updated>2018-07-19T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/07/19/family" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;Wow, you all are so wonderful and generous.
+Thank you so much.
+I am entirely floored by this outpouring of support and love
+from friends, relatives, and strangers.
+I should not have expected anything else.
+You&amp;#8217;ve been there for me over and over.
+Why does it still take me by&amp;nbsp;surprise?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Thank&amp;nbsp;you.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I keep trying to write an update
+worthy of your generosity.
+Maybe something about how we build up shame around money,
+and asking for help &amp;#8212;
+friends had to convince me it was ok.
+But that’s looking the wrong direction.
+I want to talk about you,
+&lt;em&gt;my family by choice&lt;/em&gt;
+(and sometimes also&amp;nbsp;genetics).&lt;/p&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;p&gt;I&amp;#8217;ve been watching &lt;a class=&quot;reference external&quot; href=&quot;https://www.nytimes.com/2018/06/01/arts/television/pose-review-fx-ryan-murphy.html&quot;&gt;Pose&lt;/a&gt; on &lt;span class=&quot;caps&quot;&gt;FX&lt;/span&gt;,
+and thinking about the power of finding your chosen people &amp;#8212;
+rebuilding family out of trauma, on our own terms.
+I think about the years that &amp;quot;family&amp;quot; felt distant for me,
+even dangerous.
+I put up every wall I had,
+and moved to&amp;nbsp;Denver.&lt;/p&gt;
+&lt;p&gt;I still don&amp;#8217;t know how we got here from there.
+My favorite part of transition has been
+the people it keeps bringing into my life &amp;#8212;
+including people I’ve half-known for years,
+now pulled closer.
+The queers and cousins and sisters and aunts and friends
+who reach out to me,
+and share their own stories.
+Who bring me into their lives,
+and become chosen family:
+not in spite of our traumas, but because of them.
+Because we can cry and laugh and scream&amp;nbsp;together.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s too easy to look back and say &amp;quot;I built that!&amp;quot; &amp;#8212;
+but it rings false.
+At every step,
+it&amp;#8217;s been the generosity of others inviting me in.
+People sharing their struggles,
+their pain, their vulnerability, their art and vision…
+until I might learn to share mine.
+I&amp;#8217;m only sorry it&amp;#8217;s taking me so&amp;nbsp;long.&lt;/p&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;p&gt;There&amp;#8217;s a card in my novel
+that&amp;#8217;s been rumbling around my mind lately.
+The card I’ve always want to lean into,
+and build my life around
+(though I fail&amp;nbsp;regularly):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When I die they will say she kissed us all she could.
+What more could we ask?
+And I will say,
+through a video I recorded this morning,
+I’m sorry that I didn’t kiss you&amp;nbsp;more.&lt;/p&gt;
+&lt;p class=&quot;attribution&quot;&gt;&amp;mdash;&lt;a class=&quot;reference external&quot; href=&quot;/writing/ridingsidesaddle/&quot;&gt;Riding&amp;nbsp;SideSaddle*&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Much love and gratitude&lt;/em&gt;, &lt;br /&gt;
+❤️&amp;nbsp;Mia&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">Mia's Medical Upgrade</title>
     <id>http://www.miriamsuzanne.com/2018/07/17/surgery</id>
@@ -1256,352 +1327,6 @@ which was based on&amp;nbsp;it.&lt;/p&gt;
   &lt;a href=&quot;http://www.du.edu/denverquarterly/&quot; data-btn &gt;
     Get yer literary&amp;nbsp;on&amp;nbsp;»
   &lt;/a&gt;
-</content>
-  </entry>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">Justice [Under Construction]</title>
-    <id>http://www.miriamsuzanne.com/2017/01/01/2017</id>
-    <updated>2017-01-01T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2017/01/01/2017" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;I&amp;#8217;ve had a good year
-in many ways,
-and so has &lt;a class=&quot;reference external&quot; href=&quot;https://www.washingtonpost.com/opinions/why-2016-was-actually-one-of-the-best-years-on-record/2016/12/30/bc12701e-ce0a-11e6-a87f-b917067331bb_story.html?utm_term=.27a8e97254b7&quot;&gt;the world generally&lt;/a&gt;.
-Transition has been &lt;a class=&quot;reference external&quot; href=&quot;/2016/08/17/trans&quot;&gt;scary&lt;/a&gt;,
-and &lt;a class=&quot;reference external&quot; href=&quot;/2016/12/24/clarifications&quot;&gt;confusing&lt;/a&gt;,
-but also wonderful and&amp;nbsp;rewarding.&lt;/p&gt;
-&lt;p&gt;But over the last few months,
-I&amp;#8217;ve watched my friends
-(and the Internet)
-cycle through denial, anger, depression,
-and a million other painful emotions —
-often turning on each other
-out of fear or misunderstanding.
-I&amp;#8217;ve been through a similar cycle of my own —
-constantly distracted,
-making phone calls,
-updating my legal documentation,
-struggling to get work done,
-building little toy models
-to calm myself,
-sending donations,
-hugging friends,
-and breaking into tears
-reading article after&amp;nbsp;article.&lt;/p&gt;
-&lt;p&gt;I&amp;#8217;ve tried to write this post
-at least 20 different times,
-and I still can&amp;#8217;t get it right.
-There is no right to&amp;nbsp;get.&lt;/p&gt;
-&lt;p&gt;Like many of us,
-I live at an intersection of worlds —
-female, white, transgender,
-able-bodied, lesbian/pan-sexual,
-neurotypical, etc —
-not sure if I&amp;#8217;m the primary problem
-or a primary target.
-Probably both.
-I&amp;#8217;m tired,
-and I don&amp;#8217;t know how to be useful.
-How effective is art?
-Am I in personal danger?
-How useful is my writing?
-How complicit am I in which problems,
-and how do I fight back?
-How can my experiences, my love,
-my donations, my company, phone-calls,
-or protests help&amp;nbsp;anyone?&lt;/p&gt;
-&lt;p&gt;I want to be strong,
-but I&amp;#8217;m not.
-I want to be effective,
-but I don&amp;#8217;t know what that means,
-and I&amp;#8217;m pretty sure it&amp;#8217;s a myth of our&amp;nbsp;culture.&lt;/p&gt;
-&lt;section id=&quot;personal-political&quot;&gt;
-&lt;h2&gt;Personal &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;Political&lt;/h2&gt;
-&lt;p&gt;There are several tensions
-pulling me in different directions.
-Zooming in,
-I see individuals hurting —
-scared like me.
-I know how to be a friend.
-I can reach inward,
-and care for my community.
-I can listen to what&amp;#8217;s needed day-to-day,
-and be there for the people around me.
-I see you, and I love&amp;nbsp;you.&lt;/p&gt;
-&lt;p&gt;Zooming out,
-I get overwhelmed by the scale of our problems —
-the ways &lt;a class=&quot;reference external&quot; href=&quot;https://www.theguardian.com/commentisfree/2016/nov/09/rise-of-the-davos-class-sealed-americas-fate&quot;&gt;neoliberal&lt;/a&gt; capitalism,
-misogyny, ableism, and white-supremacy
-take physical form
-to destroy lives in the most mundane ways.
-Our representative democracy doesn&amp;#8217;t represent us all,
-and never has.
-The best we can hope for
-is a few simple rights doled out selectively,
-or not taken away —
-rights we should have by&amp;nbsp;default.&lt;/p&gt;
-&lt;p&gt;We don&amp;#8217;t want better jobs,
-we want to stop selling our bodies and lives
-to corporations for their profit.
-We don&amp;#8217;t want to hug police officers,
-we want to end the police state.
-We don&amp;#8217;t want access to marriage
-on hetero terms,
-we want to redefine &amp;quot;family&amp;quot;
-for ourselves.
-We don&amp;#8217;t want legal weed for white entrepreneurs,
-we want the &lt;a class=&quot;reference external&quot; href=&quot;http://newjimcrow.com/&quot;&gt;prisons emptied&lt;/a&gt;
-and the war-on-drugs annulled.
-We don&amp;#8217;t want the &lt;span class=&quot;caps&quot;&gt;DAPL&lt;/span&gt; re-routed,
-we want full sovereignty
-and reparations for native tribes,
-and an end to environmental&amp;nbsp;destruction.&lt;/p&gt;
-&lt;p&gt;The status quo was bad enough,
-how are we supposed to deal with&amp;nbsp;Trump?&lt;/p&gt;
-&lt;/section&gt;
-&lt;section id=&quot;known-unknowns&quot;&gt;
-&lt;h2&gt;Known&amp;nbsp;Unknowns&lt;/h2&gt;
-&lt;p&gt;No one knows exactly &lt;a class=&quot;reference external&quot; href=&quot;http://www.nytimes.com/interactive/2016/11/21/us/politics/what-trump-wants-to-do-in-his-first-100-days-and-how-difficult-each-will-be.html?smid=tw-nytimes&amp;amp;smtyp=cur&amp;amp;_r=0&quot;&gt;what will happen next&lt;/a&gt;,
-but the threats against marginalized people
-(and the environment)
-are clear.
-We understand the direction,
-if not all the&amp;nbsp;details.&lt;/p&gt;
-&lt;p&gt;We know our government is designed to resist change,
-and maybe that will work in our favor now.
-But we also know how easily our institutions
-are corrupted by money and fear.
-Who will fight beside us?
-How bad will things&amp;nbsp;get?&lt;/p&gt;
-&lt;p&gt;The unknowns don&amp;#8217;t make this transition less terrifying,
-and the fact that &lt;em&gt;things were bad already&lt;/em&gt;
-is no consolation.
-There&amp;#8217;s a lot to do,
-and a lot of people that need our&amp;nbsp;help.&lt;/p&gt;
-&lt;/section&gt;
-&lt;section id=&quot;queering-the-revolution&quot;&gt;
-&lt;h2&gt;Queering the&amp;nbsp;Revolution&lt;/h2&gt;
-&lt;p&gt;I see a temptation to grasp for simple explanations,
-with simple sides,
-and even simpler solutions.
-But simplifications are what got us here —
-a distraction,
-not a plan for change.
-It&amp;#8217;s time to embrace
-the complexity of human rights,
-human systems,
-and human identities.
-Not to be stopped by wishy-washy complacency,
-but to fight for &lt;em&gt;all the people&lt;/em&gt;,
-no matter how messy that gets.
-We need movements for intersectional empowerment,
-when it would be easier to throw our fringes
-under the bus.
-We need to challenge all our assumptions
-about what is &amp;quot;normal&amp;quot;
-in this queer and unusual&amp;nbsp;world.&lt;/p&gt;
-&lt;p&gt;Listening is radical,
-emotions are radical,
-silence can be radical,
-and efficiency
-is not the definition of your value.
-Speaking up can also be radical,
-along with rational thought,
-action,
-and visible results.
-Progress comes in cycles of action and reflection,
-mourning and anger,
-give and take,
-analysis and emotion.
-Don&amp;#8217;t get stuck in one place.
-Keep cycling.
-Keep showing&amp;nbsp;up.&lt;/p&gt;
-&lt;p&gt;There will always be arguments
-about what tactics are better,
-more effective,
-or &lt;em&gt;enough&lt;/em&gt;.
-Change will require
-all of us doing what we can,
-finding new ways to define &lt;em&gt;action&lt;/em&gt;,
-and new ways of acting.
-That will look different
-for different people.
-The bigger and more diverse the movement,
-the&amp;nbsp;better.&lt;/p&gt;
-&lt;p&gt;I know it&amp;#8217;s annoying,
-but we need anarchists &lt;em&gt;and&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;http://www.sheshouldrun.org/&quot;&gt;politicians&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We need to accept that no question is either or.
-Individuals are not
-either privileged or marginalized
-with a simple on/off switch,
-but shades of intersectional
-identity and experience.
-Resistance doesn&amp;#8217;t have to be either violent or polite,
-when confrontational nonviolence
-has &lt;a class=&quot;reference external&quot; href=&quot;https://www.washingtonpost.com/news/monkey-cage/wp/2016/11/21/people-are-in-the-streets-protesting-donald-trump-but-when-does-protest-actually-work/?utm_term=.1d9c0a0f5fe8&quot;&gt;the only reliable&amp;nbsp;track-record&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We must both acknowledge
-our collective and individual racism,
-while we more &lt;a class=&quot;reference external&quot; href=&quot;https://medium.com/&amp;#64;juliaserano/prejudice-political-correctness-and-the-normalization-of-donald-trump-28c563154e48#.eev3frwt1&quot;&gt;clearly distinguish&lt;/a&gt; between
-ignorance, complacency, prejudice,
-and active white supremacy.
-All bigotry is real,
-no matter the intentions,
-but different forms of bigotry
-call for different forms of&amp;nbsp;resistance.&lt;/p&gt;
-&lt;p&gt;We can learn to dissect and identify
-all the subtle micro-aggressions
-of the &lt;a class=&quot;reference external&quot; href=&quot;https://en.wikipedia.org/wiki/Kyriarchy&quot;&gt;kyriarchy&lt;/a&gt;,
-and identify where ideas become &lt;em&gt;problematic&lt;/em&gt;,
-while also understanding
-that a barrage of &lt;a class=&quot;reference external&quot; href=&quot;http://www.vox.com/policy-and-politics/2016/11/16/13426448/trump-psychology-fact-checking-lies&quot;&gt;facts&lt;/a&gt; and &amp;quot;callouts&amp;quot;
-will &lt;a class=&quot;reference external&quot; href=&quot;http://www.vox.com/identities/2016/11/15/13595508/racism-trump-research-study&quot;&gt;never bring about&lt;/a&gt;
-the change we need.
-We can recognize that personalized education
-on privilege and oppression
-is not our responsibility as minorities,
-but may be our primary responsibility
-as&amp;nbsp;activists.&lt;/p&gt;
-&lt;p&gt;We can acknowledge that
-general education is essential in the abstract,
-but degrees and certifications are often
-an excuse for new hierarchies,
-moral requirements,
-money, power, and&amp;nbsp;exclusion.&lt;/p&gt;
-&lt;p&gt;Our bubbles separate us,
-but also keep us safe.
-Self-care is essential,
-and a clever cover for complacency.
-Real America is rural and urban,
-and infinitely diverse.
-Action is essential,
-and a clever cover for insecurity.
-Incremental progress leaves people behind,
-while revolutions often kill the most vulnerable.
-We have to be political and empathetic,
-listening and fighting.
-Move fast and slow,
-think personal and systemic.
-Respect our feelings
-enough to act on them,
-and respect our actions
-enough to feel them.
-Soul-searching won&amp;#8217;t end oppression,
-but it&amp;#8217;s an important part of our&amp;nbsp;work.&lt;/p&gt;
-&lt;p&gt;We have to be human,
-in systems that are larger than&amp;nbsp;ourselves.&lt;/p&gt;
-&lt;p&gt;Alok Vaid-Menon sums it up well
-in their recent &lt;a class=&quot;reference external&quot; href=&quot;https://www.facebook.com/AlokVaidMenon/posts/1636504483312005&quot;&gt;new years resolution&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ol class=&quot;arabic simple&quot;&gt;
-&lt;li&gt;stop using politics to legitimize my&amp;nbsp;feelings&lt;/li&gt;
-&lt;li&gt;affirm people for being needy &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; vulnerable in&amp;nbsp;public&lt;/li&gt;
-&lt;li&gt;recognize everyone else&amp;#8217;s complexity as much as i do my&amp;nbsp;own&lt;/li&gt;
-&lt;li&gt;admit when i operate from a place of hurt &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;loneliness&lt;/li&gt;
-&lt;li&gt;believe in all of our infinite capacity for&amp;nbsp;transformation&lt;/li&gt;
-&lt;li&gt;provide care as much as i provide&amp;nbsp;critique&lt;/li&gt;
-&lt;li&gt;respect limitations &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;constraints&lt;/li&gt;
-&lt;li&gt;honor silence as a form of&amp;nbsp;presence&lt;/li&gt;
-&lt;li&gt;feel &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; love,&amp;nbsp;militantly&lt;/li&gt;
-&lt;li&gt;refuse the dismissal of art &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; interdependence &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;magic&lt;/li&gt;
-&lt;li&gt;find immensity in what they call&amp;nbsp;insignificant&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;And a few of my&amp;nbsp;own:&lt;/p&gt;
-&lt;ol class=&quot;arabic simple&quot;&gt;
-&lt;li&gt;accept that my experiences are not&amp;nbsp;universal&lt;/li&gt;
-&lt;li&gt;embrace a lack of answers and fear of&amp;nbsp;uselessness&lt;/li&gt;
-&lt;li&gt;show up with my entire self, broken and scared and&amp;nbsp;opinionated&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-&lt;section id=&quot;notes-on-showing-up&quot;&gt;
-&lt;h2&gt;Notes on Showing&amp;nbsp;Up&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Some incomplete notes to myself,
-for being present
-in a time of&amp;nbsp;struggle.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Find and join the efforts already under way.
-Find marginalized people
-already building movements,
-and support them.
-Don&amp;#8217;t take over,
-or dictate the terms,
-or concern-troll and tone-police the movement.
-Find ways to stay involved
-over the long-haul —
-pace yourself but take risks,
-and keep showing&amp;nbsp;up.&lt;/p&gt;
-&lt;ul class=&quot;simple&quot;&gt;
-&lt;li&gt;Check in with people who are scared or in danger.
-Take care of each other.
-There&amp;#8217;s emotional work to be done.
-This is difficult and important.
-Don&amp;#8217;t let anyone downplay
-emotional experience and expression —
-listening, laughing,
-and having fun&amp;nbsp;together.&lt;/li&gt;
-&lt;li&gt;Focus on
-&lt;a class=&quot;reference external&quot; href=&quot;http://www.surjaction.org/&quot;&gt;bringing new people into the movement&lt;/a&gt;,
-and &lt;a class=&quot;reference external&quot; href=&quot;http://www.theestablishment.co/2016/11/11/we-have-to-create-a-culture-that-wont-vote-for-trump/&quot;&gt;creating a new culture&lt;/a&gt;.
-Let marginalized groups set the priorities,
-and help to amplify their voices.
-Do&amp;nbsp;outreach.&lt;/li&gt;
-&lt;li&gt;Understand and study &lt;a class=&quot;reference external&quot; href=&quot;http://code.ucsd.edu/~pcosman/Backpack.pdf&quot;&gt;privilege&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Donate time and money
-to &lt;a class=&quot;reference external&quot; href=&quot;http://togetherlist.com/&quot;&gt;organizations&lt;/a&gt;
-focused on
-women, people of color,
-immigrants, queers, Muslims,
-disabled people, &lt;a class=&quot;reference external&quot; href=&quot;http://sacredstonecamp.org/blog/2016/12/31/standing-rock-to-the-world-10-indigenous-and-environmental-struggles-you-can-support-in-2017&quot;&gt;indigenous people&lt;/a&gt;
-and our global&amp;nbsp;climate.&lt;/li&gt;
-&lt;li&gt;Support the
-&lt;a class=&quot;reference external&quot; href=&quot;https://policy.m4bl.org/&quot;&gt;Movement For Black Lives&lt;/a&gt;
-and
-&lt;a class=&quot;reference external&quot; href=&quot;http://www.joincampaignzero.org/#vision&quot;&gt;Campaign Zero&lt;/a&gt;.
-Get involved with
-&lt;a class=&quot;reference external&quot; href=&quot;http://www.surjaction.org/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SURJ&lt;/span&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Donate to &lt;a class=&quot;reference external&quot; href=&quot;https://www.donorschoose.org&quot;&gt;high-poverty schools&lt;/a&gt;,
-and establish long-term plans for
-charitable and political&amp;nbsp;giving.&lt;/li&gt;
-&lt;li&gt;Follow these helpful
-&lt;a class=&quot;reference external&quot; href=&quot;https://docs.google.com/spreadsheets/u/1/d/174f0WBSVNSdcQ5_S6rWPGB3pNCsruyyM_ZRQ6QUhGmo/htmlview&quot;&gt;guides for calling your elected officials&lt;/a&gt;
-and learn how to affect
-political&amp;nbsp;change.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Fight for diversity in your own industry,
-company, and organizations —
-in who you hire and what you build.
-Create a better training pipeline,
-improve your hiring funnel,
-write a code of conduct,
-address harassment
-and micro-aggressions in the workplace,
-and keep an eye on retention rates.
-There&amp;#8217;s not one single problem,
-and it will never be fully&amp;nbsp;resolved.&lt;/p&gt;
-&lt;p&gt;The long arc of the universe bends
-wherever we bend&amp;nbsp;it.&lt;/p&gt;
-&lt;p&gt;Learn to bring
-&lt;a class=&quot;reference external&quot; href=&quot;https://docs.google.com/document/d/1bC0nyqFNx6VhBgNZDB0Oan1aa0i_UtuWeBLnOPWrJ5M/preview&quot;&gt;family and friends&lt;/a&gt;
-into the movement.
-It&amp;#8217;s &lt;a class=&quot;reference external&quot; href=&quot;http://www.vox.com/2016/11/23/13708996/argue-better-science&quot;&gt;a skill&lt;/a&gt; that takes practice —
-emotional labor that
-&lt;a class=&quot;reference external&quot; href=&quot;http://www.vox.com/2014/4/6/5556462/brain-dead-how-politics-makes-us-stupid&quot;&gt;can&amp;#8217;t be done by listing the facts&lt;/a&gt;.
-Outreach requires vulnerability,
-discomfort,
-and a lot of&amp;nbsp;patience.&lt;/p&gt;
-&lt;p&gt;Build a practice of sustainable and ongoing action.
-Keep looking for new ways to show up,
-and leave your ego at home.
-Welcome to&amp;nbsp;2017.&lt;/p&gt;
-&lt;p&gt;Stay strong.
-Stay weak.
-Stay present.
-Keep dreaming,
-and get real.
-Keep crying, keep laughing, keep&amp;nbsp;fighting.&lt;/p&gt;
-&lt;p&gt;Take care of each&amp;nbsp;other.&lt;/p&gt;
-&lt;/section&gt;
 </content>
   </entry>
 </feed>
