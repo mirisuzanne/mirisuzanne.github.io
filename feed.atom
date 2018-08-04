@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://www.miriamsuzanne.com/feed.atom</id>
-  <updated>2018-07-19T00:00:00Z</updated>
+  <updated>2018-08-01T00:00:00Z</updated>
   <link href="http://www.miriamsuzanne.com/" />
   <link href="http://www.miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Rejecting Maleness: An Apology to the Revolution</title>
+    <id>http://www.miriamsuzanne.com/2018/08/01/revolution</id>
+    <updated>2018-08-01T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/08/01/revolution" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;The &lt;strong&gt;Journal of Mennonite Writing&lt;/strong&gt;
+asked me to submit
+for their queer issue.
+I don&amp;#8217;t identify as Mennonite,
+but I did grow up in the church,
+so I asked my audience what to write&amp;nbsp;about.&lt;/p&gt;
+&lt;p&gt;They suggested I answer a common question:
+&lt;em&gt;In a world without rigid gender roles,
+would anyone need to be&amp;nbsp;trans?&lt;/em&gt;&lt;/p&gt;
+
+  
+
+  &lt;a href=&quot;https://mennonitewriting.org/journal/10/3/rejecting-maleness-apology-revolution/#all&quot; data-btn &gt;
+    Read the full&amp;nbsp;essay&amp;nbsp;»
+  &lt;/a&gt;
+</content>
+  </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">Chosen Family (Thank You)</title>
     <id>http://www.miriamsuzanne.com/2018/07/19/family</id>
@@ -242,9 +267,10 @@ Laugh&amp;nbsp;break!&lt;/p&gt;
   
   
   
+  
 
   
-    &lt;div class=&quot;video&quot; data-size=&quot;full&quot;&gt;
+    &lt;div class=&quot;video&quot; data-size=&quot;full&quot; data-gallery-item=&quot;video&quot;&gt;
       &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tGn6kZJaznI?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
     &lt;/div&gt;
   
@@ -417,6 +443,57 @@ it means the world to&amp;nbsp;me.&lt;/p&gt;
 ❤️&amp;nbsp;Mia&lt;/p&gt;
 &lt;/section&gt;
 &lt;/section&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Essential Knowledge: The Book</title>
+    <id>http://www.miriamsuzanne.com/2018/07/16/thebook</id>
+    <updated>2018-07-16T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/07/16/thebook" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;What is the book in a digital age?
+Is it a physical object containing pages encased in covers?
+Is it a portable device that gives us access to entire libraries?
+The codex, the book as bound paper sheets, emerged around 150 &lt;span class=&quot;caps&quot;&gt;CE&lt;/span&gt;.
+It was preceded by clay tablets and papyrus scrolls.
+Are those books?
+In this volume in the &lt;span class=&quot;caps&quot;&gt;MIT&lt;/span&gt; Press Essential Knowledge series,
+Amaranth Borsuk considers the history of the book,
+the future of the book, and the idea of the book.
+Tracing the interrelationship of form and content in the book’s development,
+she bridges book history, book arts, and electronic literature
+to expand our definition of an object we thought we knew&amp;nbsp;intimately.&lt;/p&gt;
+&lt;p class=&quot;attribution&quot;&gt;&amp;mdash;&lt;span class=&quot;caps&quot;&gt;MIT&lt;/span&gt;&amp;nbsp;Press&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">14 Colorado LGBTQ Musicians You Should Know</title>
+    <id>http://www.miriamsuzanne.com/2018/06/13/303</id>
+    <updated>2018-06-13T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/06/13/303" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;ol class=&quot;arabic simple&quot;&gt;
+&lt;li&gt;GRiZ&lt;/li&gt;
+&lt;li&gt;Jay&amp;nbsp;Triiiple&lt;/li&gt;
+&lt;li&gt;Kitty&amp;nbsp;Crimes&lt;/li&gt;
+&lt;li&gt;Kaylyn Heffernan of Wheelchair&amp;nbsp;Sportscamp&lt;/li&gt;
+&lt;li&gt;Sarah Slaton of&amp;nbsp;Edison&lt;/li&gt;
+&lt;li&gt;Mirror&amp;nbsp;Fears&lt;/li&gt;
+&lt;li&gt;Joshua Novak (Oko&amp;nbsp;Tygra)&lt;/li&gt;
+&lt;li&gt;ASiEL The&amp;nbsp;Oracle&lt;/li&gt;
+&lt;li&gt;Teacup&amp;nbsp;Gorilla&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;DUGAN&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Seal&amp;nbsp;Eggs&lt;/li&gt;
+&lt;li&gt;The&amp;nbsp;Cux&lt;/li&gt;
+&lt;li&gt;Machu&amp;nbsp;Linea&lt;/li&gt;
+&lt;li&gt;Suzi Allegra of Quantum&amp;nbsp;Creep&lt;/li&gt;
+&lt;/ol&gt;
 </content>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
@@ -1267,68 +1344,6 @@ We all contain multitudes.&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;I don't believe&lt;/code&gt; in authenticity,
 but I do believe &lt;code&gt;in pain,&lt;/code&gt;
 and doing something &lt;code&gt;to survive it.&lt;/code&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">Trans Interviews &amp; Photography</title>
-    <id>http://www.miriamsuzanne.com/2017/02/26/transilient</id>
-    <updated>2017-02-26T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2017/02/26/transilient" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-  </entry>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">America Heard: Transitions</title>
-    <id>http://www.miriamsuzanne.com/2017/01/19/america-heard</id>
-    <updated>2017-01-19T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2017/01/19/america-heard" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;My friend &lt;a class=&quot;reference external&quot; href=&quot;http://maureenleemaloney.com/&quot;&gt;Maureen Maloney&lt;/a&gt; asked to document
-my reaction to the 2016 election,
-as part of the &lt;a class=&quot;reference external&quot; href=&quot;https://americaheard.com/&quot;&gt;America Heard&lt;/a&gt; film&amp;nbsp;series:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Our goal is to feature at least one film
-from each of the 435 congressional districts
-and show the diversity of political perspectives
-throughout the United&amp;nbsp;States.&lt;/p&gt;
-&lt;p class=&quot;attribution&quot;&gt;&amp;mdash;&lt;a class=&quot;reference external&quot; href=&quot;https://americaheard.com/&quot;&gt;America&amp;nbsp;Heard&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Working with Dana Forsberg and Katie Cook,
-we put together this short documentary —
-talking about trans rights,
-and completing one step of my legal name change.
-Thanks to &lt;a class=&quot;reference external&quot; href=&quot;http://teacupgorilla.com/&quot;&gt;Teacup Gorilla&lt;/a&gt; and Erin Rollman
-for joining in the&amp;nbsp;fun!&lt;/p&gt;
-&lt;p&gt;&lt;div data-gallery=&quot;video&quot; data-size=&quot;full&quot;&gt;
-&lt;div class=&quot;video-wrap&quot;&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/198228746?color=c30062&quot; width=&quot;800&quot; height=&quot;450&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">Denver Quarterly: Adaptation</title>
-    <id>http://www.miriamsuzanne.com/2017/01/10/denver-quarterly</id>
-    <updated>2017-01-10T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2017/01/10/denver-quarterly" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;This month&amp;#8217;s &lt;a class=&quot;reference external&quot; href=&quot;http://www.du.edu/denverquarterly/&quot;&gt;Denver Quarterly&lt;/a&gt; features
-side-by-side excerpts from my novel,
-&lt;a class=&quot;reference external&quot; href=&quot;/writing/ridingsidesaddle/&quot;&gt;Riding SideSaddle*&lt;/a&gt;,
-and the &lt;a class=&quot;reference external&quot; href=&quot;http://buntport.com&quot;&gt;Buntport&lt;/a&gt; play
-&lt;a class=&quot;reference external&quot; href=&quot;https://oddbooksapp.com/book/10-myths&quot;&gt;10 Myths on the Proper Application of Beauty Products&lt;/a&gt;
-which was based on&amp;nbsp;it.&lt;/p&gt;
-
-  
-
-  &lt;a href=&quot;http://www.du.edu/denverquarterly/&quot; data-btn &gt;
-    Get yer literary&amp;nbsp;on&amp;nbsp;»
-  &lt;/a&gt;
 </content>
   </entry>
 </feed>

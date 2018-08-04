@@ -2,11 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Posts</title>
   <id>http://www.miriamsuzanne.com/feed.atom</id>
-  <updated>2017-02-26T00:00:00Z</updated>
+  <updated>2018-08-01T00:00:00Z</updated>
   <link href="http://www.miriamsuzanne.com/" />
   <link href="http://www.miriamsuzanne.com/feed.atom" rel="self" />
   <subtitle type="text">Recent blog posts</subtitle>
   <generator>Werkzeug</generator>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Rejecting Maleness: An Apology to the Revolution</title>
+    <id>http://www.miriamsuzanne.com/2018/08/01/revolution</id>
+    <updated>2018-08-01T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/08/01/revolution" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;p&gt;The &lt;strong&gt;Journal of Mennonite Writing&lt;/strong&gt;
+asked me to submit
+for their queer issue.
+I don&amp;#8217;t identify as Mennonite,
+but I did grow up in the church,
+so I asked my audience what to write&amp;nbsp;about.&lt;/p&gt;
+&lt;p&gt;They suggested I answer a common question:
+&lt;em&gt;In a world without rigid gender roles,
+would anyone need to be&amp;nbsp;trans?&lt;/em&gt;&lt;/p&gt;
+
+  
+
+  &lt;a href=&quot;https://mennonitewriting.org/journal/10/3/rejecting-maleness-apology-revolution/#all&quot; data-btn &gt;
+    Read the full&amp;nbsp;essay&amp;nbsp;»
+  &lt;/a&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Essential Knowledge: The Book</title>
+    <id>http://www.miriamsuzanne.com/2018/07/16/thebook</id>
+    <updated>2018-07-16T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/07/16/thebook" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;What is the book in a digital age?
+Is it a physical object containing pages encased in covers?
+Is it a portable device that gives us access to entire libraries?
+The codex, the book as bound paper sheets, emerged around 150 &lt;span class=&quot;caps&quot;&gt;CE&lt;/span&gt;.
+It was preceded by clay tablets and papyrus scrolls.
+Are those books?
+In this volume in the &lt;span class=&quot;caps&quot;&gt;MIT&lt;/span&gt; Press Essential Knowledge series,
+Amaranth Borsuk considers the history of the book,
+the future of the book, and the idea of the book.
+Tracing the interrelationship of form and content in the book’s development,
+she bridges book history, book arts, and electronic literature
+to expand our definition of an object we thought we knew&amp;nbsp;intimately.&lt;/p&gt;
+&lt;p class=&quot;attribution&quot;&gt;&amp;mdash;&lt;span class=&quot;caps&quot;&gt;MIT&lt;/span&gt;&amp;nbsp;Press&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">14 Colorado LGBTQ Musicians You Should Know</title>
+    <id>http://www.miriamsuzanne.com/2018/06/13/303</id>
+    <updated>2018-06-13T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/06/13/303" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+    <content type="html">&lt;ol class=&quot;arabic simple&quot;&gt;
+&lt;li&gt;GRiZ&lt;/li&gt;
+&lt;li&gt;Jay&amp;nbsp;Triiiple&lt;/li&gt;
+&lt;li&gt;Kitty&amp;nbsp;Crimes&lt;/li&gt;
+&lt;li&gt;Kaylyn Heffernan of Wheelchair&amp;nbsp;Sportscamp&lt;/li&gt;
+&lt;li&gt;Sarah Slaton of&amp;nbsp;Edison&lt;/li&gt;
+&lt;li&gt;Mirror&amp;nbsp;Fears&lt;/li&gt;
+&lt;li&gt;Joshua Novak (Oko&amp;nbsp;Tygra)&lt;/li&gt;
+&lt;li&gt;ASiEL The&amp;nbsp;Oracle&lt;/li&gt;
+&lt;li&gt;Teacup&amp;nbsp;Gorilla&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;DUGAN&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Seal&amp;nbsp;Eggs&lt;/li&gt;
+&lt;li&gt;The&amp;nbsp;Cux&lt;/li&gt;
+&lt;li&gt;Machu&amp;nbsp;Linea&lt;/li&gt;
+&lt;li&gt;Suzi Allegra of Quantum&amp;nbsp;Creep&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">Trans Interviews &amp; Photography</title>
     <id>http://www.miriamsuzanne.com/2017/02/26/transilient</id>
