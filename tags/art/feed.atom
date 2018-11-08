@@ -17,6 +17,15 @@
     </author>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Video, photos: Your first look at Bite-Size: An Evening of Micro Theatre</title>
+    <id>http://www.miriamsuzanne.com/2018/10/26/bitesize</id>
+    <updated>2018-10-26T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/10/26/bitesize" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">14 Colorado LGBTQ Musicians You Should Know</title>
     <id>http://www.miriamsuzanne.com/2018/06/13/303</id>
     <updated>2018-06-13T00:00:00Z</updated>
@@ -41,6 +50,24 @@
 &lt;li&gt;Suzi Allegra of Quantum&amp;nbsp;Creep&lt;/li&gt;
 &lt;/ol&gt;
 </content>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">DCPA’s Off-Center names Colorado writers selected for micro-theatre project</title>
+    <id>http://www.miriamsuzanne.com/2018/05/22/bitesize</id>
+    <updated>2018-05-22T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/05/22/bitesize" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Jane Eyre Adaptation</title>
+    <id>http://www.miriamsuzanne.com/2018/03/04/janeeyre</id>
+    <updated>2018-03-04T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/03/04/janeeyre" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">2016 True West Award</title>
@@ -147,53 +174,6 @@ at &lt;a class=&quot;reference external&quot; href=&quot;http://ridingsidesaddle
     <author>
       <name>Miriam Suzanne</name>
     </author>
-  </entry>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">The Post-Obsolete Book (again)</title>
-    <id>http://www.miriamsuzanne.com/2014/08/04/post-obsolete</id>
-    <updated>2014-08-04T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2014/08/04/post-obsolete" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.huffingtonpost.com/illya-szilak/&quot;&gt;Illya Szilak&lt;/a&gt; reviewed the show in &lt;a class=&quot;reference external&quot; href=&quot;http://www.huffingtonpost.com/illya-szilak/disperse-the-light-an-int_b_5603196.html&quot;&gt;The Huffington Post&lt;/a&gt;,
-and &lt;a class=&quot;reference external&quot; href=&quot;http://kathiiberens.com/&quot;&gt;Kathi Inman Berens&lt;/a&gt; (the gallery curator) posted
-the video below on&amp;nbsp;YouTube.&lt;/p&gt;
-&lt;p&gt;Thanks for keeping the obsolete book&amp;nbsp;alive!&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">Pig Sez [Demo]</title>
-    <id>http://www.miriamsuzanne.com/2014/08/01/pigsez</id>
-    <updated>2014-08-01T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2014/08/01/pigsez" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;figure&gt;
-  &lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/159477906&amp;amp;color=ff0000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Feel free to leave comments on &lt;a class=&quot;reference external&quot; href=&quot;https://soundcloud.com/teacupgorilla&quot;&gt;SoundCloud&lt;/a&gt;,
-or find us on &lt;a class=&quot;reference external&quot; href=&quot;http://twitter.com/teacupgorilla&quot;&gt;Twitter&lt;/a&gt; &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; &lt;a class=&quot;reference external&quot; href=&quot;http://facebook.com/teacupgorilla&quot;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
-    <title type="text">I'm Not Ready To Go Yet [Demo]</title>
-    <id>http://www.miriamsuzanne.com/2014/07/29/inrtgy</id>
-    <updated>2014-07-29T00:00:00Z</updated>
-    <link href="http://www.miriamsuzanne.com/2014/07/29/inrtgy" />
-    <author>
-      <name>Miriam Suzanne</name>
-    </author>
-    <content type="html">&lt;p&gt;I&amp;#8217;m Not Ready To Go Yet is our follow-up
-to the earlier Suicide Note.
-We have an updated demo of that coming soon&amp;nbsp;too&amp;#8230;&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/159561832&amp;amp;color=ff0000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Feel free to leave comments on &lt;a class=&quot;reference external&quot; href=&quot;https://soundcloud.com/teacupgorilla&quot;&gt;SoundCloud&lt;/a&gt;,
-or find us on &lt;a class=&quot;reference external&quot; href=&quot;http://twitter.com/teacupgorilla&quot;&gt;Twitter&lt;/a&gt; &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; &lt;a class=&quot;reference external&quot; href=&quot;http://facebook.com/teacupgorilla&quot;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
-</content>
   </entry>
 </feed>
 

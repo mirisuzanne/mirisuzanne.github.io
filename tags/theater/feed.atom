@@ -17,6 +17,33 @@
     </author>
   </entry>
   <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Video, photos: Your first look at Bite-Size: An Evening of Micro Theatre</title>
+    <id>http://www.miriamsuzanne.com/2018/10/26/bitesize</id>
+    <updated>2018-10-26T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/10/26/bitesize" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">DCPA’s Off-Center names Colorado writers selected for micro-theatre project</title>
+    <id>http://www.miriamsuzanne.com/2018/05/22/bitesize</id>
+    <updated>2018-05-22T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/05/22/bitesize" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
+    <title type="text">Jane Eyre Adaptation</title>
+    <id>http://www.miriamsuzanne.com/2018/03/04/janeeyre</id>
+    <updated>2018-03-04T00:00:00Z</updated>
+    <link href="http://www.miriamsuzanne.com/2018/03/04/janeeyre" />
+    <author>
+      <name>Miriam Suzanne</name>
+    </author>
+  </entry>
+  <entry xml:base="http://www.miriamsuzanne.com/feed.atom">
     <title type="text">2016 True West Award</title>
     <id>http://www.miriamsuzanne.com/2016/12/18/true-west-award</id>
     <updated>2016-12-18T00:00:00Z</updated>
